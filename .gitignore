@@ -1,0 +1,17 @@
+# Exclude local database binary
+Data/daraz_pakistan.db
+
+# Exclude python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Exclude virtual environments
+.venv/
+venv/
+ENV/
+
+# Exclude system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,53 @@
+{
+    "name": "Daraz Executive Palette",
+    "dataColors": [
+        "#0B1F3A",
+        "#00C853",
+        "#FFB300",
+        "#E53935",
+        "#F5F7FA",
+        "#37474F",
+        "#00E676",
+        "#FFD740"
+    ],
+    "background": "#FFFFFF",
+    "foreground": "#0B1F3A",
+    "tableAccent": "#0B1F3A",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#FFFFFF" } },
+                        "transparency": 0
+                    }
+                ],
+                "border": [
+                    {
+                        "show": true,
+                        "color": { "solid": { "color": "#F5F7FA" } },
+                        "radius": 8
+                    }
+                ],
+                "visualHeader": [
+                    {
+                        "show": true,
+                        "backgroundColor": { "solid": { "color": "#0B1F3A" } },
+                        "foregroundColor": { "solid": { "color": "#FFFFFF" } }
+                    }
+                ]
+            }
+        },
+        "page": {
+            "*": {
+                "background": [
+                    {
+                        "color": { "solid": { "color": "#F5F7FA" } },
+                        "transparency": 0
+                    }
+                ]
+            }
+        }
+    }
+}

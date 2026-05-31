@@ -1,0 +1,43 @@
+product_id,product_name,category,sub_category,cost_price,selling_price,markup_percentage
+1,Redmi Note 13,Mobiles & Tablets,Smartphones,23130.0,30310,31.041936878512754
+2,Infinix Hot 40,Mobiles & Tablets,Smartphones,29130.0,42320,45.27978029522829
+3,Samsung Galaxy A15,Mobiles & Tablets,Smartphones,26070.0,31300,20.061373225930186
+4,Tecno Spark 20,Mobiles & Tablets,Smartphones,18680.0,25790,38.062098501070665
+5,Realme C67,Mobiles & Tablets,Smartphones,22780.0,28150,23.573309920983316
+6,Mi Pad 6,Mobiles & Tablets,Tablets,46470.0,56540,21.669894555627288
+7,Lenovo Tab M10,Mobiles & Tablets,Tablets,23470.0,30170,28.54708138048573
+8,Realme Pad 2,Mobiles & Tablets,Tablets,31940.0,43370,35.785848465873514
+9,Mobile Covers,Mobiles & Tablets,Accessories,620.0,790,27.419354838709676
+10,Tempered Glass,Mobiles & Tablets,Accessories,2000.0,2660,33.0
+11,Fast Chargers,Mobiles & Tablets,Accessories,990.0,1350,36.36363636363637
+12,Power Bank 20000mAh,Mobiles & Tablets,Accessories,1830.0,2440,33.33333333333333
+13,TCL 43 Inch Smart TV,Electronics,Smart TVs,42390.0,58360,37.67397971219627
+14,Xiaomi LED TV 32,Electronics,Smart TVs,48650.0,71610,47.19424460431655
+15,Changhong Ruba 40,Electronics,Smart TVs,30030.0,39400,31.2021312021312
+16,Audionic Airbud 550,Electronics,Audio,9490.0,12250,29.083245521601686
+17,Ronin R-520 Earbuds,Electronics,Audio,2330.0,3160,35.622317596566525
+18,Anker Soundcore Q20,Electronics,Audio,2830.0,4080,44.16961130742049
+19,HP EliteBook 840 G6 (Refurbished),Electronics,Laptops,69780.0,84090,20.5073086844368
+20,Dell Latitude 5400,Electronics,Laptops,88720.0,110370,24.402614968440037
+21,Lenovo ThinkPad X1 Carbon,Electronics,Laptops,90810.0,115850,27.5740557207356
+22,Unstitched Shalwar Kameez,Fashion & Beauty,Men's Apparel,1660.0,2420,45.78313253012048
+23,Polo T-Shirt,Fashion & Beauty,Men's Apparel,1790.0,2690,50.27932960893855
+24,Casual Denim Jeans,Fashion & Beauty,Men's Apparel,1950.0,2530,29.743589743589745
+25,Lawn 3-Piece Suit Unstitched,Fashion & Beauty,Women's Apparel,2890.0,3460,19.72318339100346
+26,Kurti Designer,Fashion & Beauty,Women's Apparel,4560.0,5570,22.149122807017545
+27,Chiffon Dupatta,Fashion & Beauty,Women's Apparel,2660.0,3180,19.548872180451127
+28,Sunscreener SPF 50,Fashion & Beauty,Beauty & Cosmetics,1350.0,1680,24.444444444444443
+29,Matte Lipstick Pack,Fashion & Beauty,Beauty & Cosmetics,1040.0,1560,50.0
+30,Hair Serum Organic,Fashion & Beauty,Beauty & Cosmetics,1200.0,1520,26.666666666666668
+31,Anex Juicer Blender,Home & Living,Kitchen Appliances,11440.0,13640,19.230769230769234
+32,Westpoint Microwave Oven,Home & Living,Kitchen Appliances,10030.0,14930,48.85343968095713
+33,National Roti Maker,Home & Living,Kitchen Appliances,9860.0,13050,32.35294117647059
+34,Bedsheet Double King Size,Home & Living,Home Decor,1500.0,2080,38.666666666666664
+35,LED Strip Lights 10m,Home & Living,Home Decor,880.0,1130,28.40909090909091
+36,Wall Clock Modern,Home & Living,Home Decor,1680.0,2070,23.214285714285715
+37,Dal Chana 1kg,Groceries,Staples,490.0,590,20.408163265306122
+38,Basmati Rice 5kg,Groceries,Staples,1130.0,1700,50.442477876106196
+39,Cooking Oil 5 Litre,Groceries,Staples,480.0,600,25.0
+40,Tapal Danedar Tea 900g,Groceries,Snacks & Beverages,240.0,350,45.83333333333333
+41,Potato Chips Carton,Groceries,Snacks & Beverages,900.0,1350,50.0
+42,Soft Drink Pack of 6,Groceries,Snacks & Beverages,210.0,270,28.57142857142857

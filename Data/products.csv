@@ -1,0 +1,43 @@
+product_id,product_name,category,sub_category,cost_price,selling_price
+1,Redmi Note 13,Mobiles & Tablets,Smartphones,23130.0,30310
+2,Infinix Hot 40,Mobiles & Tablets,Smartphones,29130.0,42320
+3,Samsung Galaxy A15,Mobiles & Tablets,Smartphones,26070.0,31300
+4,Tecno Spark 20,Mobiles & Tablets,Smartphones,18680.0,25790
+5,Realme C67,Mobiles & Tablets,Smartphones,22780.0,28150
+6,Mi Pad 6,Mobiles & Tablets,Tablets,46470.0,56540
+7,Lenovo Tab M10,Mobiles & Tablets,Tablets,23470.0,30170
+8,Realme Pad 2,Mobiles & Tablets,Tablets,31940.0,43370
+9,Mobile Covers,Mobiles & Tablets,Accessories,620.0,790
+10,Tempered Glass,Mobiles & Tablets,Accessories,2000.0,2660
+11,Fast Chargers,Mobiles & Tablets,Accessories,990.0,1350
+12,Power Bank 20000mAh,Mobiles & Tablets,Accessories,1830.0,2440
+13,TCL 43 Inch Smart TV,Electronics,Smart TVs,42390.0,58360
+14,Xiaomi LED TV 32,Electronics,Smart TVs,48650.0,71610
+15,Changhong Ruba 40,Electronics,Smart TVs,30030.0,39400
+16,Audionic Airbud 550,Electronics,Audio,9490.0,12250
+17,Ronin R-520 Earbuds,Electronics,Audio,2330.0,3160
+18,Anker Soundcore Q20,Electronics,Audio,2830.0,4080
+19,HP EliteBook 840 G6 (Refurbished),Electronics,Laptops,69780.0,84090
+20,Dell Latitude 5400,Electronics,Laptops,88720.0,110370
+21,Lenovo ThinkPad X1 Carbon,Electronics,Laptops,90810.0,115850
+22,Unstitched Shalwar Kameez,Fashion & Beauty,Men's Apparel,1660.0,2420
+23,Polo T-Shirt,Fashion & Beauty,Men's Apparel,1790.0,2690
+24,Casual Denim Jeans,Fashion & Beauty,Men's Apparel,1950.0,2530
+25,Lawn 3-Piece Suit Unstitched,Fashion & Beauty,Women's Apparel,2890.0,3460
+26,Kurti Designer,Fashion & Beauty,Women's Apparel,4560.0,5570
+27,Chiffon Dupatta,Fashion & Beauty,Women's Apparel,2660.0,3180
+28,Sunscreener SPF 50,Fashion & Beauty,Beauty & Cosmetics,1350.0,1680
+29,Matte Lipstick Pack,Fashion & Beauty,Beauty & Cosmetics,1040.0,1560
+30,Hair Serum Organic,Fashion & Beauty,Beauty & Cosmetics,1200.0,1520
+31,Anex Juicer Blender,Home & Living,Kitchen Appliances,11440.0,13640
+32,Westpoint Microwave Oven,Home & Living,Kitchen Appliances,10030.0,14930
+33,National Roti Maker,Home & Living,Kitchen Appliances,9860.0,13050
+34,Bedsheet Double King Size,Home & Living,Home Decor,1500.0,2080
+35,LED Strip Lights 10m,Home & Living,Home Decor,880.0,1130
+36,Wall Clock Modern,Home & Living,Home Decor,1680.0,2070
+37,Dal Chana 1kg,Groceries,Staples,490.0,590
+38,Basmati Rice 5kg,Groceries,Staples,1130.0,1700
+39,Cooking Oil 5 Litre,Groceries,Staples,480.0,600
+40,Tapal Danedar Tea 900g,Groceries,Snacks & Beverages,240.0,350
+41,Potato Chips Carton,Groceries,Snacks & Beverages,900.0,1350
+42,Soft Drink Pack of 6,Groceries,Snacks & Beverages,210.0,270

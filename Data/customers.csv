@@ -1,0 +1,2501 @@
+customer_id,customer_name,gender,age,city,province,signup_date,signup_channel,is_churned
+1,Raza Sheikh,Other,33,Islamabad,Islamabad Capital Territory,2024-10-08,TikTok Ads,1
+2,Sana Iqbal,Male,28,Karachi,Sindh,2025-11-23,Facebook Ads,0
+3,Hina Farooq,Female,42,Karachi,Sindh,2024-02-02,Referral,0
+4,Muhammad Ali,Male,36,Faisalabad,Punjab,2025-07-28,Facebook Ads,1
+5,Ayesha Farooq,Female,26,Karachi,Sindh,2025-08-26,Google Ads,1
+6,Bilal Khan,Male,26,Lahore,Punjab,2025-12-15,Facebook Ads,0
+7,Mariam Shah,Male,21,Karachi,Sindh,2026-02-20,Google Ads,0
+8,Omer Sheikh,Male,32,Lahore,Punjab,2025-01-02,Organic,0
+9,Asad Hashmi,Male,30,Lahore,Punjab,2026-01-17,Facebook Ads,0
+10,Zahra Farooq,Female,18,Lahore,Punjab,2024-03-21,Facebook Ads,0
+11,Hassan Abbasi,Female,25,Islamabad,Islamabad Capital Territory,2025-08-14,Google Ads,1
+12,Ayesha Ali,Other,27,Karachi,Sindh,2024-08-21,Google Ads,1
+13,Amna Abbasi,Male,36,Karachi,Sindh,2024-04-13,Google Ads,1
+14,Kiran Siddiqui,Female,20,Lahore,Punjab,2024-06-15,Facebook Ads,1
+15,Asad Mughal,Female,35,Karachi,Sindh,2025-12-19,Facebook Ads,1
+16,Yasmin Ali,Male,31,Karachi,Sindh,2025-06-30,Facebook Ads,0
+17,Hina Iqbal,Female,18,Rawalpindi,Punjab,2024-10-03,Google Ads,1
+18,Raza Farooq,Female,24,Karachi,Sindh,2026-05-13,Google Ads,0
+19,Amna Ahmed,Male,32,Karachi,Sindh,2026-04-04,Referral,0
+20,Omer Dar,Male,26,Rawalpindi,Punjab,2025-08-03,Facebook Ads,0
+21,Faisal Shah,Female,38,Rawalpindi,Punjab,2025-02-09,Facebook Ads,1
+22,Raza Gill,Male,37,Lahore,Punjab,2024-09-09,Facebook Ads,1
+23,Hina Farooq,Female,32,Karachi,Sindh,2025-08-20,Facebook Ads,1
+24,Kiran Mughal,Male,37,Karachi,Sindh,2025-06-05,Facebook Ads,0
+25,Saad Ali,Male,36,Multan,Punjab,2024-06-05,Google Ads,1
+26,Raza Butt,Female,40,Karachi,Sindh,2025-09-02,Organic,1
+27,Ali Dar,Female,32,Rawalpindi,Punjab,2025-06-25,Google Ads,0
+28,Bilal Farooq,Male,42,Lahore,Punjab,2025-11-27,Google Ads,0
+29,Hina Sheikh,Female,30,Karachi,Sindh,2026-02-26,Google Ads,0
+30,Raza Shah,Female,27,Multan,Punjab,2024-06-10,Facebook Ads,0
+31,Zahra Khan,Female,41,Karachi,Sindh,2025-05-27,Facebook Ads,1
+32,Amna Butt,Male,25,Karachi,Sindh,2025-10-02,Facebook Ads,1
+33,Usman Jatoi,Male,37,Rawalpindi,Punjab,2025-01-17,Facebook Ads,1
+34,Amna Butt,Male,32,Multan,Punjab,2025-09-05,Google Ads,0
+35,Omer Cheema,Other,24,Karachi,Sindh,2025-01-06,Google Ads,1
+36,Usman Iqbal,Male,27,Rawalpindi,Punjab,2024-03-28,Direct,1
+37,Hina Cheema,Male,30,Lahore,Punjab,2024-05-11,Facebook Ads,0
+38,Yasmin Cheema,Male,28,Karachi,Sindh,2024-09-28,Facebook Ads,1
+39,Tariq Hashmi,Male,28,Lahore,Punjab,2025-07-06,Organic,0
+40,Amna Raza,Female,33,Lahore,Punjab,2025-11-18,Referral,0
+41,Raza Mughal,Female,18,Karachi,Sindh,2024-05-03,Facebook Ads,1
+42,Sana Iqbal,Male,29,Lahore,Punjab,2025-08-25,Google Ads,1
+43,Hassan Iqbal,Male,28,Karachi,Sindh,2024-03-13,Google Ads,0
+44,Faisal Ahmed,Male,32,Sialkot,Punjab,2026-05-30,Facebook Ads,0
+45,Omer Ali,Female,39,Karachi,Sindh,2025-11-16,Organic,0
+46,Saad Raza,Female,36,Lahore,Punjab,2024-09-05,TikTok Ads,1
+47,Saad Qureshi,Male,34,Karachi,Sindh,2025-11-05,Organic,0
+48,Mariam Mughal,Female,47,Karachi,Sindh,2026-01-16,Facebook Ads,1
+49,Ahmed Sheikh,Female,30,Islamabad,Islamabad Capital Territory,2026-03-30,Facebook Ads,0
+50,Zain Iqbal,Female,25,Lahore,Punjab,2024-05-23,Facebook Ads,1
+51,Mariam Butt,Male,21,Islamabad,Islamabad Capital Territory,2024-03-18,Google Ads,1
+52,Zahra Farooq,Male,33,Peshawar,KPK,2024-04-05,Facebook Ads,1
+53,Amna Iqbal,Female,23,Peshawar,KPK,2025-05-07,Direct,1
+54,Ayesha Dar,Male,27,Karachi,Sindh,2025-01-23,TikTok Ads,1
+55,Muhammad Dar,Female,31,Lahore,Punjab,2024-10-19,Facebook Ads,0
+56,Mariam Farooq,Female,40,Karachi,Sindh,2024-06-07,Direct,1
+57,Ayesha Abbasi,Male,32,Karachi,Sindh,2025-08-16,Facebook Ads,0
+58,Hina Farooq,Female,36,Islamabad,Islamabad Capital Territory,2024-02-28,Direct,1
+59,Ahmed Baig,Male,32,Lahore,Punjab,2024-02-28,Facebook Ads,1
+60,Tariq Ali,Male,32,Karachi,Sindh,2025-09-01,Direct,1
+61,Ali Iqbal,Male,32,Karachi,Sindh,2025-08-15,Facebook Ads,0
+62,Nida Ahmed,Female,24,Lahore,Punjab,2025-11-04,TikTok Ads,0
+63,Sara Baig,Female,20,Islamabad,Islamabad Capital Territory,2024-07-28,Facebook Ads,1
+64,Yasmin Shah,Female,35,Karachi,Sindh,2024-05-14,Organic,0
+65,Yasmin Abbasi,Male,37,Islamabad,Islamabad Capital Territory,2024-01-10,TikTok Ads,1
+66,Zahra Hashmi,Male,33,Karachi,Sindh,2024-03-16,Google Ads,1
+67,Hassan Raza,Male,22,Quetta,Balochistan,2024-12-23,Google Ads,1
+68,Ali Iqbal,Male,23,Multan,Punjab,2025-03-24,TikTok Ads,0
+69,Hassan Abbasi,Male,30,Lahore,Punjab,2025-11-14,Google Ads,0
+70,Hassan Abbasi,Male,41,Karachi,Sindh,2024-05-17,Organic,0
+71,Bilal Sheikh,Male,21,Peshawar,KPK,2024-10-05,Referral,0
+72,Usman Hashmi,Female,33,Multan,Punjab,2024-07-27,Google Ads,1
+73,Yasmin Siddiqui,Female,33,Quetta,Balochistan,2026-05-16,Direct,0
+74,Ahmed Ali,Female,29,Karachi,Sindh,2024-02-15,Google Ads,1
+75,Muhammad Shah,Female,26,Karachi,Sindh,2024-06-14,TikTok Ads,1
+76,Hina Gill,Female,36,Peshawar,KPK,2025-07-28,TikTok Ads,1
+77,Muhammad Sheikh,Male,22,Lahore,Punjab,2025-07-12,Referral,1
+78,Ahmed Mughal,Male,31,Karachi,Sindh,2025-03-16,Google Ads,0
+79,Hamza Ahmed,Male,32,Islamabad,Islamabad Capital Territory,2025-01-01,Organic,1
+80,Ayesha Iqbal,Female,34,Lahore,Punjab,2026-03-09,Facebook Ads,0
+81,Hassan Qureshi,Male,34,Faisalabad,Punjab,2024-08-30,Direct,1
+82,Fatima Butt,Male,34,Lahore,Punjab,2024-07-02,Google Ads,1
+83,Hina Shah,Female,34,Islamabad,Islamabad Capital Territory,2026-04-01,Organic,0
+84,Yasmin Iqbal,Male,39,Multan,Punjab,2025-01-26,Facebook Ads,0
+85,Ahmed Cheema,Female,23,Lahore,Punjab,2024-12-24,Facebook Ads,0
+86,Usman Iqbal,Male,28,Lahore,Punjab,2025-02-12,Google Ads,0
+87,Omer Siddiqui,Female,35,Karachi,Sindh,2024-12-25,Facebook Ads,0
+88,Raza Jatoi,Female,18,Rawalpindi,Punjab,2024-01-29,Google Ads,0
+89,Zain Siddiqui,Female,30,Rawalpindi,Punjab,2024-02-09,Facebook Ads,1
+90,Zain Hashmi,Female,21,Lahore,Punjab,2025-03-22,Facebook Ads,0
+91,Nida Jatoi,Male,30,Lahore,Punjab,2024-09-17,TikTok Ads,1
+92,Ahmed Qureshi,Other,24,Islamabad,Islamabad Capital Territory,2026-04-05,Referral,0
+93,Hassan Raza,Male,18,Rawalpindi,Punjab,2025-11-11,Facebook Ads,0
+94,Omer Hashmi,Male,31,Lahore,Punjab,2026-01-07,Facebook Ads,0
+95,Usman Jatoi,Female,34,Lahore,Punjab,2024-11-30,Facebook Ads,1
+96,Kiran Abbasi,Male,36,Karachi,Sindh,2025-03-06,Facebook Ads,0
+97,Yasmin Dar,Male,44,Islamabad,Islamabad Capital Territory,2025-09-22,Facebook Ads,0
+98,Sara Abbasi,Male,33,Peshawar,KPK,2024-11-07,Organic,1
+99,Usman Raza,Female,46,Lahore,Punjab,2025-04-21,Facebook Ads,0
+100,Zahra Gill,Female,38,Lahore,Punjab,2026-03-23,Organic,0
+101,Hina Butt,Female,33,Lahore,Punjab,2025-06-11,Facebook Ads,1
+102,Yasmin Hashmi,Male,36,Lahore,Punjab,2025-11-19,Google Ads,1
+103,Usman Iqbal,Male,27,Lahore,Punjab,2024-01-26,TikTok Ads,1
+104,Ahmed Iqbal,Male,20,Lahore,Punjab,2025-04-11,Facebook Ads,1
+105,Mariam Baig,Female,41,Lahore,Punjab,2025-05-21,Direct,1
+106,Kiran Iqbal,Male,18,Islamabad,Islamabad Capital Territory,2026-02-07,Facebook Ads,0
+107,Amna Sheikh,Male,31,Karachi,Sindh,2024-06-29,TikTok Ads,1
+108,Faisal Jatoi,Male,25,Peshawar,KPK,2026-05-18,TikTok Ads,0
+109,Zain Gill,Female,42,Lahore,Punjab,2025-11-14,Google Ads,0
+110,Tariq Farooq,Female,20,Peshawar,KPK,2025-09-19,Google Ads,0
+111,Hina Jatoi,Female,32,Karachi,Sindh,2024-06-11,Facebook Ads,1
+112,Hina Cheema,Male,25,Faisalabad,Punjab,2026-05-10,Facebook Ads,0
+113,Raza Siddiqui,Female,25,Karachi,Sindh,2025-10-03,TikTok Ads,0
+114,Sana Siddiqui,Female,36,Lahore,Punjab,2024-08-28,Direct,0
+115,Bilal Shah,Male,36,Karachi,Sindh,2024-05-21,Facebook Ads,1
+116,Hamza Iqbal,Male,35,Rawalpindi,Punjab,2025-12-24,Organic,0
+117,Ayesha Ali,Female,29,Lahore,Punjab,2025-07-09,Organic,0
+118,Zahra Qureshi,Female,30,Karachi,Sindh,2025-02-02,Direct,1
+119,Amna Baig,Male,28,Rawalpindi,Punjab,2026-05-27,Organic,0
+120,Amna Baig,Male,38,Karachi,Sindh,2024-12-26,Direct,0
+121,Usman Dar,Female,40,Karachi,Sindh,2025-07-05,Direct,1
+122,Hina Farooq,Male,30,Lahore,Punjab,2025-05-14,Facebook Ads,1
+123,Sana Siddiqui,Male,32,Peshawar,KPK,2025-02-02,TikTok Ads,1
+124,Omer Dar,Female,28,Lahore,Punjab,2024-05-10,Google Ads,1
+125,Nida Farooq,Other,21,Islamabad,Islamabad Capital Territory,2025-02-07,Organic,1
+126,Sara Baig,Male,20,Rawalpindi,Punjab,2025-10-20,Organic,1
+127,Mariam Malik,Male,29,Karachi,Sindh,2024-02-21,Google Ads,0
+128,Bilal Dar,Female,22,Lahore,Punjab,2024-11-30,Direct,0
+129,Omer Dar,Female,23,Karachi,Sindh,2024-09-15,Organic,1
+130,Ali Cheema,Other,27,Lahore,Punjab,2025-07-06,Facebook Ads,1
+131,Ahmed Mughal,Male,31,Karachi,Sindh,2026-03-10,Organic,0
+132,Raza Ahmed,Male,25,Islamabad,Islamabad Capital Territory,2024-07-23,Facebook Ads,1
+133,Muhammad Hashmi,Male,18,Rawalpindi,Punjab,2025-04-29,Direct,0
+134,Yasmin Sheikh,Male,18,Sialkot,Punjab,2025-04-21,Organic,1
+135,Faisal Siddiqui,Male,24,Rawalpindi,Punjab,2025-09-12,TikTok Ads,0
+136,Nida Sheikh,Male,28,Lahore,Punjab,2024-11-14,Direct,0
+137,Zain Baig,Other,29,Karachi,Sindh,2024-11-15,Google Ads,0
+138,Sara Dar,Male,21,Karachi,Sindh,2024-03-18,Facebook Ads,0
+139,Sara Iqbal,Female,32,Islamabad,Islamabad Capital Territory,2026-05-20,TikTok Ads,0
+140,Yasmin Hashmi,Male,23,Quetta,Balochistan,2024-12-21,Google Ads,0
+141,Hassan Qureshi,Male,35,Karachi,Sindh,2025-06-02,Referral,0
+142,Raza Shah,Other,26,Karachi,Sindh,2025-03-06,Referral,0
+143,Saad Sheikh,Female,31,Karachi,Sindh,2025-10-12,TikTok Ads,1
+144,Zahra Malik,Female,30,Quetta,Balochistan,2025-09-22,Google Ads,1
+145,Hassan Cheema,Female,41,Lahore,Punjab,2024-11-26,TikTok Ads,1
+146,Sana Ali,Female,37,Lahore,Punjab,2024-09-06,Direct,1
+147,Amna Gill,Female,47,Karachi,Sindh,2024-12-10,Facebook Ads,1
+148,Muhammad Cheema,Male,23,Lahore,Punjab,2025-05-14,Google Ads,1
+149,Ayesha Mughal,Female,23,Quetta,Balochistan,2024-10-13,Referral,1
+150,Nida Siddiqui,Male,31,Islamabad,Islamabad Capital Territory,2024-03-28,Google Ads,1
+151,Sana Qureshi,Male,37,Islamabad,Islamabad Capital Territory,2025-12-08,Facebook Ads,1
+152,Saad Cheema,Male,25,Multan,Punjab,2024-04-05,Organic,1
+153,Usman Iqbal,Male,19,Peshawar,KPK,2024-11-09,Direct,1
+154,Yasmin Baig,Female,44,Karachi,Sindh,2025-03-11,Facebook Ads,1
+155,Hina Farooq,Female,39,Sialkot,Punjab,2024-10-04,Facebook Ads,1
+156,Usman Siddiqui,Male,26,Lahore,Punjab,2024-11-19,Google Ads,1
+157,Zain Farooq,Male,29,Lahore,Punjab,2024-07-15,Facebook Ads,1
+158,Ayesha Cheema,Female,39,Karachi,Sindh,2024-04-12,Direct,1
+159,Ayesha Abbasi,Male,30,Rawalpindi,Punjab,2024-11-05,Direct,0
+160,Muhammad Farooq,Male,30,Faisalabad,Punjab,2024-02-25,Facebook Ads,1
+161,Hassan Abbasi,Male,21,Peshawar,KPK,2025-10-15,TikTok Ads,0
+162,Amna Cheema,Male,28,Karachi,Sindh,2025-08-10,TikTok Ads,0
+163,Usman Cheema,Female,18,Karachi,Sindh,2024-07-07,TikTok Ads,1
+164,Ahmed Siddiqui,Female,40,Lahore,Punjab,2024-04-26,Organic,1
+165,Ali Dar,Male,39,Lahore,Punjab,2024-06-04,TikTok Ads,1
+166,Hamza Baig,Male,30,Faisalabad,Punjab,2024-09-11,Google Ads,1
+167,Zain Farooq,Male,35,Islamabad,Islamabad Capital Territory,2026-03-05,Facebook Ads,0
+168,Tariq Dar,Female,40,Karachi,Sindh,2024-10-31,Facebook Ads,1
+169,Sara Qureshi,Male,38,Lahore,Punjab,2025-09-16,Google Ads,0
+170,Hina Sheikh,Male,18,Multan,Punjab,2025-10-02,Facebook Ads,0
+171,Ayesha Siddiqui,Male,42,Lahore,Punjab,2024-09-02,TikTok Ads,1
+172,Fatima Farooq,Male,30,Faisalabad,Punjab,2025-02-22,Direct,1
+173,Zahra Hashmi,Male,18,Lahore,Punjab,2024-08-25,Referral,1
+174,Usman Abbasi,Female,29,Lahore,Punjab,2024-03-13,Facebook Ads,1
+175,Yasmin Iqbal,Male,19,Karachi,Sindh,2025-03-11,Facebook Ads,1
+176,Zain Farooq,Male,35,Karachi,Sindh,2024-09-29,Facebook Ads,1
+177,Hamza Ali,Female,32,Karachi,Sindh,2025-09-01,Facebook Ads,1
+178,Hina Baig,Female,22,Multan,Punjab,2024-05-07,Google Ads,1
+179,Zahra Abbasi,Female,22,Karachi,Sindh,2025-05-27,Facebook Ads,0
+180,Hassan Cheema,Male,34,Karachi,Sindh,2025-03-18,Facebook Ads,0
+181,Hina Shah,Male,29,Karachi,Sindh,2024-04-03,Google Ads,1
+182,Sana Baig,Male,21,Lahore,Punjab,2026-02-22,TikTok Ads,0
+183,Yasmin Siddiqui,Male,24,Faisalabad,Punjab,2025-04-26,Direct,0
+184,Tariq Gill,Male,31,Karachi,Sindh,2025-08-22,Facebook Ads,0
+185,Mariam Cheema,Female,34,Karachi,Sindh,2024-12-22,Facebook Ads,1
+186,Mariam Shah,Male,36,Lahore,Punjab,2026-05-28,Google Ads,0
+187,Fatima Shah,Female,18,Lahore,Punjab,2024-10-22,Organic,1
+188,Yasmin Dar,Male,40,Karachi,Sindh,2025-04-10,Facebook Ads,0
+189,Ali Shah,Male,34,Lahore,Punjab,2026-03-02,Google Ads,0
+190,Kiran Jatoi,Male,32,Karachi,Sindh,2025-11-04,Google Ads,0
+191,Hassan Gill,Male,18,Karachi,Sindh,2025-06-14,Google Ads,0
+192,Asad Hashmi,Female,31,Karachi,Sindh,2026-02-17,Facebook Ads,0
+193,Ahmed Raza,Male,24,Karachi,Sindh,2024-10-21,Direct,1
+194,Zahra Cheema,Male,21,Lahore,Punjab,2025-12-27,TikTok Ads,0
+195,Fatima Abbasi,Female,29,Karachi,Sindh,2024-04-05,Google Ads,1
+196,Sana Sheikh,Male,41,Lahore,Punjab,2025-10-25,Organic,0
+197,Hamza Cheema,Female,21,Karachi,Sindh,2025-06-05,Google Ads,1
+198,Faisal Siddiqui,Female,28,Lahore,Punjab,2025-04-28,TikTok Ads,0
+199,Sana Gill,Female,18,Karachi,Sindh,2024-07-14,Facebook Ads,0
+200,Nida Jatoi,Male,34,Karachi,Sindh,2024-03-12,Facebook Ads,0
+201,Bilal Qureshi,Female,25,Karachi,Sindh,2026-04-20,Direct,0
+202,Muhammad Abbasi,Female,23,Karachi,Sindh,2024-06-01,Google Ads,1
+203,Zahra Farooq,Female,32,Karachi,Sindh,2025-07-19,Google Ads,1
+204,Amna Farooq,Female,29,Quetta,Balochistan,2024-07-12,Direct,0
+205,Faisal Iqbal,Male,25,Karachi,Sindh,2026-05-26,TikTok Ads,0
+206,Amna Qureshi,Other,36,Peshawar,KPK,2026-02-01,TikTok Ads,0
+207,Saad Dar,Male,18,Rawalpindi,Punjab,2025-05-22,Facebook Ads,0
+208,Ahmed Malik,Female,34,Karachi,Sindh,2024-04-12,Google Ads,1
+209,Zahra Sheikh,Female,18,Karachi,Sindh,2024-01-16,TikTok Ads,0
+210,Hina Malik,Male,30,Karachi,Sindh,2024-03-17,TikTok Ads,1
+211,Saad Siddiqui,Female,29,Lahore,Punjab,2025-10-27,Facebook Ads,0
+212,Ali Shah,Female,20,Karachi,Sindh,2024-11-20,Facebook Ads,1
+213,Raza Cheema,Male,38,Karachi,Sindh,2025-09-24,TikTok Ads,1
+214,Ali Iqbal,Female,25,Rawalpindi,Punjab,2024-08-20,TikTok Ads,1
+215,Hina Ali,Male,18,Karachi,Sindh,2026-02-17,Direct,0
+216,Raza Sheikh,Female,23,Faisalabad,Punjab,2024-01-30,Referral,1
+217,Ahmed Shah,Female,32,Peshawar,KPK,2025-01-02,Facebook Ads,1
+218,Asad Qureshi,Female,25,Karachi,Sindh,2025-08-02,Organic,0
+219,Yasmin Butt,Male,39,Karachi,Sindh,2025-09-16,Organic,0
+220,Kiran Hashmi,Female,32,Karachi,Sindh,2025-08-20,Facebook Ads,1
+221,Hamza Iqbal,Female,33,Islamabad,Islamabad Capital Territory,2025-04-15,Google Ads,0
+222,Bilal Khan,Female,26,Lahore,Punjab,2024-10-21,Direct,1
+223,Yasmin Farooq,Female,39,Lahore,Punjab,2024-12-19,Google Ads,1
+224,Sara Abbasi,Female,26,Lahore,Punjab,2025-12-07,Facebook Ads,0
+225,Bilal Gill,Male,30,Karachi,Sindh,2025-01-28,Direct,1
+226,Saad Sheikh,Female,43,Lahore,Punjab,2025-08-11,Google Ads,1
+227,Usman Abbasi,Other,31,Karachi,Sindh,2026-04-29,Direct,0
+228,Yasmin Dar,Male,36,Lahore,Punjab,2025-09-12,Facebook Ads,1
+229,Hina Cheema,Female,32,Lahore,Punjab,2026-03-05,Google Ads,0
+230,Sana Hashmi,Male,26,Multan,Punjab,2025-10-13,Organic,1
+231,Ayesha Hashmi,Male,26,Karachi,Sindh,2025-10-05,Organic,1
+232,Zain Ahmed,Female,23,Karachi,Sindh,2024-02-04,TikTok Ads,1
+233,Sara Mughal,Male,33,Karachi,Sindh,2024-10-29,Organic,0
+234,Omer Qureshi,Male,32,Karachi,Sindh,2026-03-16,Organic,0
+235,Hassan Mughal,Female,27,Rawalpindi,Punjab,2026-04-30,Facebook Ads,0
+236,Fatima Siddiqui,Female,22,Karachi,Sindh,2026-04-05,Organic,0
+237,Usman Shah,Female,36,Islamabad,Islamabad Capital Territory,2024-03-18,Google Ads,0
+238,Hamza Iqbal,Female,40,Karachi,Sindh,2026-05-16,Facebook Ads,0
+239,Hassan Mughal,Female,18,Lahore,Punjab,2024-01-15,Direct,1
+240,Bilal Farooq,Female,41,Karachi,Sindh,2025-11-19,TikTok Ads,0
+241,Hina Siddiqui,Female,49,Karachi,Sindh,2024-04-20,Direct,1
+242,Yasmin Iqbal,Female,31,Peshawar,KPK,2025-09-16,TikTok Ads,1
+243,Sana Ali,Female,33,Islamabad,Islamabad Capital Territory,2025-12-18,Facebook Ads,0
+244,Usman Qureshi,Male,31,Lahore,Punjab,2024-02-08,TikTok Ads,0
+245,Usman Cheema,Male,42,Peshawar,KPK,2025-07-04,Direct,0
+246,Hamza Dar,Female,25,Lahore,Punjab,2025-08-24,Facebook Ads,0
+247,Hina Malik,Male,30,Lahore,Punjab,2026-05-03,Google Ads,0
+248,Saad Hashmi,Female,38,Karachi,Sindh,2024-02-03,Facebook Ads,1
+249,Faisal Mughal,Female,21,Lahore,Punjab,2024-08-29,Direct,1
+250,Asad Sheikh,Female,18,Karachi,Sindh,2025-07-11,Facebook Ads,0
+251,Raza Mughal,Female,27,Karachi,Sindh,2024-07-13,Google Ads,0
+252,Zain Gill,Male,43,Karachi,Sindh,2025-10-19,Facebook Ads,1
+253,Raza Hashmi,Male,18,Multan,Punjab,2026-03-16,Google Ads,0
+254,Omer Iqbal,Male,29,Lahore,Punjab,2024-03-11,TikTok Ads,1
+255,Amna Farooq,Male,27,Karachi,Sindh,2026-04-12,Referral,0
+256,Sana Shah,Male,21,Lahore,Punjab,2024-10-10,TikTok Ads,1
+257,Hamza Malik,Male,30,Karachi,Sindh,2024-04-22,Direct,1
+258,Yasmin Khan,Female,29,Karachi,Sindh,2026-03-19,Facebook Ads,0
+259,Sana Baig,Male,29,Lahore,Punjab,2024-09-28,Facebook Ads,1
+260,Ahmed Malik,Male,25,Rawalpindi,Punjab,2026-02-02,Google Ads,1
+261,Ali Cheema,Female,18,Lahore,Punjab,2025-06-09,TikTok Ads,1
+262,Sara Sheikh,Male,38,Karachi,Sindh,2025-09-21,Facebook Ads,0
+263,Ahmed Jatoi,Male,18,Lahore,Punjab,2024-03-03,Google Ads,1
+264,Saad Dar,Male,23,Karachi,Sindh,2025-05-17,Facebook Ads,1
+265,Faisal Gill,Male,37,Karachi,Sindh,2024-11-25,Facebook Ads,1
+266,Nida Malik,Female,40,Karachi,Sindh,2025-10-01,TikTok Ads,0
+267,Raza Baig,Female,25,Islamabad,Islamabad Capital Territory,2025-01-25,Facebook Ads,1
+268,Nida Jatoi,Female,33,Karachi,Sindh,2024-04-11,Facebook Ads,1
+269,Faisal Sheikh,Male,35,Faisalabad,Punjab,2025-03-16,Google Ads,0
+270,Zahra Iqbal,Female,33,Islamabad,Islamabad Capital Territory,2025-02-12,Facebook Ads,0
+271,Mariam Sheikh,Female,34,Karachi,Sindh,2025-11-12,Facebook Ads,0
+272,Bilal Mughal,Female,27,Karachi,Sindh,2024-03-09,Facebook Ads,1
+273,Ali Ali,Male,32,Lahore,Punjab,2026-02-01,Direct,0
+274,Hina Mughal,Male,19,Rawalpindi,Punjab,2025-08-23,Facebook Ads,0
+275,Hassan Farooq,Male,24,Lahore,Punjab,2025-02-24,Facebook Ads,0
+276,Asad Qureshi,Male,18,Lahore,Punjab,2024-10-21,Google Ads,1
+277,Nida Abbasi,Male,18,Karachi,Sindh,2024-06-07,Direct,1
+278,Yasmin Cheema,Male,43,Rawalpindi,Punjab,2024-12-24,Facebook Ads,0
+279,Hassan Mughal,Female,29,Multan,Punjab,2025-08-10,Organic,1
+280,Sana Qureshi,Male,38,Lahore,Punjab,2025-09-15,Facebook Ads,0
+281,Yasmin Siddiqui,Other,32,Lahore,Punjab,2024-10-06,Facebook Ads,1
+282,Faisal Abbasi,Female,18,Karachi,Sindh,2024-01-07,Organic,1
+283,Fatima Malik,Female,30,Karachi,Sindh,2024-03-12,Facebook Ads,1
+284,Hamza Khan,Male,32,Karachi,Sindh,2025-01-20,Direct,1
+285,Mariam Gill,Female,31,Karachi,Sindh,2024-11-15,TikTok Ads,1
+286,Hina Shah,Male,22,Islamabad,Islamabad Capital Territory,2024-02-23,Organic,0
+287,Hamza Butt,Male,32,Lahore,Punjab,2025-11-21,TikTok Ads,0
+288,Ali Siddiqui,Female,37,Karachi,Sindh,2025-05-12,Direct,1
+289,Nida Gill,Male,18,Lahore,Punjab,2026-02-12,Facebook Ads,1
+290,Tariq Sheikh,Male,19,Karachi,Sindh,2024-10-17,Organic,1
+291,Yasmin Baig,Female,31,Karachi,Sindh,2024-02-16,Google Ads,1
+292,Sana Dar,Male,23,Karachi,Sindh,2024-01-08,Google Ads,0
+293,Ayesha Abbasi,Male,22,Lahore,Punjab,2026-02-21,Google Ads,0
+294,Bilal Abbasi,Male,38,Islamabad,Islamabad Capital Territory,2025-05-24,Direct,0
+295,Hina Qureshi,Female,23,Karachi,Sindh,2025-06-29,Facebook Ads,1
+296,Faisal Iqbal,Female,35,Lahore,Punjab,2024-03-14,Facebook Ads,1
+297,Kiran Ahmed,Female,50,Karachi,Sindh,2024-03-20,Organic,0
+298,Omer Baig,Female,29,Karachi,Sindh,2025-12-27,Facebook Ads,0
+299,Raza Qureshi,Female,29,Islamabad,Islamabad Capital Territory,2024-01-22,Google Ads,0
+300,Omer Butt,Female,44,Karachi,Sindh,2026-05-01,Organic,0
+301,Faisal Mughal,Male,35,Karachi,Sindh,2024-09-06,TikTok Ads,0
+302,Mariam Baig,Male,37,Lahore,Punjab,2025-02-09,Facebook Ads,1
+303,Usman Shah,Male,29,Karachi,Sindh,2024-03-19,Google Ads,0
+304,Tariq Sheikh,Male,34,Faisalabad,Punjab,2026-03-05,Organic,0
+305,Asad Mughal,Male,34,Islamabad,Islamabad Capital Territory,2024-08-29,Organic,1
+306,Zain Malik,Male,38,Karachi,Sindh,2025-09-08,Google Ads,1
+307,Hamza Ali,Female,33,Karachi,Sindh,2025-04-20,TikTok Ads,1
+308,Amna Baig,Female,31,Multan,Punjab,2025-11-28,Facebook Ads,0
+309,Sara Hashmi,Female,21,Peshawar,KPK,2024-06-03,Referral,0
+310,Zahra Ali,Female,38,Peshawar,KPK,2026-03-26,Google Ads,0
+311,Bilal Baig,Male,30,Karachi,Sindh,2024-11-13,Organic,0
+312,Zahra Gill,Other,30,Karachi,Sindh,2025-01-12,TikTok Ads,1
+313,Usman Ali,Male,26,Karachi,Sindh,2025-09-21,TikTok Ads,0
+314,Nida Jatoi,Male,27,Karachi,Sindh,2025-04-05,Organic,0
+315,Sara Raza,Female,28,Lahore,Punjab,2025-05-28,Organic,1
+316,Hamza Ahmed,Female,26,Karachi,Sindh,2026-01-01,TikTok Ads,0
+317,Ali Jatoi,Male,32,Karachi,Sindh,2024-09-10,Facebook Ads,1
+318,Faisal Gill,Male,37,Faisalabad,Punjab,2025-01-07,Facebook Ads,1
+319,Asad Abbasi,Female,30,Peshawar,KPK,2025-11-26,Organic,0
+320,Nida Ahmed,Female,38,Gujranwala,Punjab,2024-03-08,Google Ads,0
+321,Omer Sheikh,Female,25,Lahore,Punjab,2024-10-17,TikTok Ads,1
+322,Bilal Hashmi,Female,41,Faisalabad,Punjab,2024-03-24,Referral,1
+323,Sara Malik,Female,26,Lahore,Punjab,2025-11-02,Organic,1
+324,Faisal Dar,Male,41,Karachi,Sindh,2024-11-13,Facebook Ads,1
+325,Hassan Dar,Female,19,Karachi,Sindh,2026-04-12,Facebook Ads,0
+326,Hamza Jatoi,Female,22,Karachi,Sindh,2025-06-04,Facebook Ads,1
+327,Asad Khan,Male,29,Lahore,Punjab,2024-08-07,TikTok Ads,0
+328,Omer Cheema,Male,31,Karachi,Sindh,2024-06-07,Direct,1
+329,Ali Abbasi,Male,37,Peshawar,KPK,2025-06-03,Google Ads,1
+330,Amna Farooq,Male,28,Lahore,Punjab,2025-11-08,Facebook Ads,0
+331,Omer Hashmi,Female,31,Lahore,Punjab,2024-06-06,Google Ads,1
+332,Fatima Butt,Male,33,Karachi,Sindh,2026-01-08,Facebook Ads,0
+333,Zahra Ahmed,Male,25,Rawalpindi,Punjab,2025-03-30,Google Ads,1
+334,Nida Abbasi,Female,25,Karachi,Sindh,2024-08-27,Referral,1
+335,Hassan Iqbal,Female,41,Islamabad,Islamabad Capital Territory,2026-05-05,Facebook Ads,0
+336,Ayesha Mughal,Female,25,Rawalpindi,Punjab,2025-04-17,Facebook Ads,1
+337,Amna Abbasi,Female,31,Lahore,Punjab,2024-06-14,TikTok Ads,0
+338,Ayesha Hashmi,Female,18,Karachi,Sindh,2024-02-23,Direct,1
+339,Raza Cheema,Male,25,Multan,Punjab,2025-12-29,Referral,0
+340,Tariq Sheikh,Male,26,Faisalabad,Punjab,2024-10-06,Organic,0
+341,Zahra Jatoi,Female,35,Karachi,Sindh,2024-04-03,Google Ads,1
+342,Sana Gill,Male,46,Lahore,Punjab,2025-02-28,Facebook Ads,1
+343,Ahmed Dar,Male,29,Karachi,Sindh,2025-01-30,Facebook Ads,1
+344,Ali Mughal,Female,44,Islamabad,Islamabad Capital Territory,2024-04-11,Facebook Ads,1
+345,Faisal Shah,Male,29,Lahore,Punjab,2024-02-09,TikTok Ads,1
+346,Usman Cheema,Male,39,Rawalpindi,Punjab,2026-02-16,Facebook Ads,0
+347,Faisal Cheema,Male,35,Karachi,Sindh,2024-03-22,Direct,1
+348,Muhammad Siddiqui,Male,44,Rawalpindi,Punjab,2025-07-15,TikTok Ads,0
+349,Hina Hashmi,Male,36,Islamabad,Islamabad Capital Territory,2026-03-05,TikTok Ads,0
+350,Usman Iqbal,Male,34,Lahore,Punjab,2024-09-01,Organic,1
+351,Mariam Hashmi,Male,28,Karachi,Sindh,2026-05-06,Organic,0
+352,Saad Hashmi,Male,31,Karachi,Sindh,2026-01-05,Organic,0
+353,Hamza Abbasi,Female,30,Karachi,Sindh,2024-09-03,Facebook Ads,1
+354,Sara Qureshi,Male,40,Lahore,Punjab,2025-06-20,Referral,0
+355,Asad Ali,Male,19,Lahore,Punjab,2025-02-03,Google Ads,1
+356,Saad Ahmed,Female,35,Rawalpindi,Punjab,2024-09-16,Facebook Ads,1
+357,Hina Khan,Male,31,Quetta,Balochistan,2024-12-19,Facebook Ads,0
+358,Sana Sheikh,Female,42,Lahore,Punjab,2024-05-16,Direct,1
+359,Ahmed Mughal,Male,26,Karachi,Sindh,2026-04-30,Organic,0
+360,Amna Gill,Female,31,Karachi,Sindh,2025-10-08,TikTok Ads,1
+361,Fatima Malik,Female,39,Karachi,Sindh,2024-02-07,Direct,1
+362,Usman Raza,Other,18,Quetta,Balochistan,2024-07-23,Referral,1
+363,Ahmed Shah,Female,25,Rawalpindi,Punjab,2026-04-14,Facebook Ads,0
+364,Hassan Cheema,Male,33,Karachi,Sindh,2024-10-19,Facebook Ads,0
+365,Asad Ahmed,Female,42,Islamabad,Islamabad Capital Territory,2024-10-06,Google Ads,1
+366,Zain Mughal,Female,29,Karachi,Sindh,2026-01-31,Referral,0
+367,Zahra Dar,Male,18,Karachi,Sindh,2025-05-23,Organic,1
+368,Faisal Cheema,Female,18,Islamabad,Islamabad Capital Territory,2026-03-31,Facebook Ads,0
+369,Ali Qureshi,Male,31,Islamabad,Islamabad Capital Territory,2025-07-12,Facebook Ads,0
+370,Usman Shah,Female,25,Peshawar,KPK,2025-11-07,Facebook Ads,1
+371,Usman Abbasi,Female,35,Lahore,Punjab,2024-06-19,TikTok Ads,1
+372,Faisal Gill,Male,29,Lahore,Punjab,2026-01-14,Facebook Ads,0
+373,Asad Hashmi,Female,29,Multan,Punjab,2025-10-16,Facebook Ads,1
+374,Ahmed Ali,Female,31,Karachi,Sindh,2025-01-07,Facebook Ads,1
+375,Tariq Butt,Male,19,Faisalabad,Punjab,2026-05-19,Google Ads,0
+376,Nida Gill,Other,41,Quetta,Balochistan,2024-03-09,Facebook Ads,1
+377,Sana Mughal,Male,32,Rawalpindi,Punjab,2025-09-11,Organic,0
+378,Hamza Gill,Female,33,Rawalpindi,Punjab,2025-03-30,TikTok Ads,1
+379,Amna Ali,Female,31,Rawalpindi,Punjab,2025-02-11,Google Ads,1
+380,Omer Siddiqui,Male,35,Karachi,Sindh,2024-01-27,Facebook Ads,1
+381,Hina Butt,Female,24,Karachi,Sindh,2025-07-29,Google Ads,1
+382,Zain Siddiqui,Female,44,Karachi,Sindh,2024-08-07,TikTok Ads,0
+383,Nida Abbasi,Female,36,Karachi,Sindh,2024-07-23,Google Ads,0
+384,Zain Malik,Female,24,Karachi,Sindh,2024-06-25,Facebook Ads,0
+385,Faisal Gill,Female,26,Lahore,Punjab,2025-11-14,Facebook Ads,1
+386,Asad Ali,Female,18,Islamabad,Islamabad Capital Territory,2024-11-03,Direct,1
+387,Fatima Butt,Male,22,Karachi,Sindh,2024-05-04,Referral,0
+388,Ayesha Malik,Female,29,Karachi,Sindh,2024-01-27,Google Ads,1
+389,Asad Farooq,Female,42,Lahore,Punjab,2026-04-02,Facebook Ads,0
+390,Hassan Malik,Male,37,Karachi,Sindh,2024-03-08,Google Ads,0
+391,Usman Dar,Female,28,Karachi,Sindh,2025-06-22,Facebook Ads,0
+392,Mariam Qureshi,Male,24,Lahore,Punjab,2024-05-08,Facebook Ads,0
+393,Omer Ali,Female,44,Rawalpindi,Punjab,2024-05-11,Facebook Ads,0
+394,Amna Farooq,Male,35,Karachi,Sindh,2026-02-25,Facebook Ads,0
+395,Hamza Qureshi,Male,41,Karachi,Sindh,2026-05-01,Direct,0
+396,Zain Jatoi,Male,37,Karachi,Sindh,2024-06-14,Google Ads,1
+397,Omer Iqbal,Female,35,Islamabad,Islamabad Capital Territory,2026-05-16,Organic,0
+398,Ali Siddiqui,Female,33,Karachi,Sindh,2024-05-08,Organic,0
+399,Raza Abbasi,Male,40,Lahore,Punjab,2025-05-29,TikTok Ads,0
+400,Raza Butt,Male,31,Lahore,Punjab,2024-06-24,Organic,1
+401,Yasmin Hashmi,Female,24,Faisalabad,Punjab,2026-05-12,Facebook Ads,0
+402,Sara Ahmed,Male,26,Quetta,Balochistan,2024-03-24,Facebook Ads,1
+403,Ahmed Baig,Male,34,Islamabad,Islamabad Capital Territory,2026-02-24,Google Ads,0
+404,Sara Qureshi,Male,25,Lahore,Punjab,2025-05-24,Organic,1
+405,Raza Farooq,Female,30,Karachi,Sindh,2025-05-09,TikTok Ads,1
+406,Sana Dar,Male,30,Karachi,Sindh,2025-12-06,Facebook Ads,1
+407,Ahmed Butt,Female,27,Faisalabad,Punjab,2025-04-20,Organic,0
+408,Ayesha Shah,Female,18,Islamabad,Islamabad Capital Territory,2026-01-05,Google Ads,1
+409,Omer Mughal,Male,20,Sialkot,Punjab,2026-02-17,Facebook Ads,0
+410,Asad Jatoi,Female,18,Faisalabad,Punjab,2024-09-04,TikTok Ads,1
+411,Zahra Sheikh,Male,43,Lahore,Punjab,2024-05-24,Direct,1
+412,Zain Ahmed,Female,26,Multan,Punjab,2025-09-22,Google Ads,0
+413,Mariam Iqbal,Male,35,Multan,Punjab,2026-04-13,Facebook Ads,0
+414,Omer Baig,Male,18,Lahore,Punjab,2026-02-20,TikTok Ads,0
+415,Fatima Cheema,Female,24,Islamabad,Islamabad Capital Territory,2025-05-25,Direct,0
+416,Usman Cheema,Other,33,Karachi,Sindh,2025-02-06,Facebook Ads,1
+417,Tariq Gill,Male,29,Karachi,Sindh,2025-08-20,Direct,0
+418,Asad Ahmed,Female,39,Lahore,Punjab,2025-09-03,Google Ads,1
+419,Raza Cheema,Male,39,Karachi,Sindh,2026-05-17,Google Ads,0
+420,Zain Qureshi,Female,18,Quetta,Balochistan,2026-01-14,Facebook Ads,0
+421,Asad Dar,Female,19,Rawalpindi,Punjab,2024-02-22,Facebook Ads,1
+422,Sara Farooq,Female,39,Quetta,Balochistan,2024-03-16,Google Ads,1
+423,Kiran Jatoi,Female,30,Karachi,Sindh,2026-04-25,Organic,0
+424,Nida Hashmi,Male,19,Lahore,Punjab,2025-02-07,Facebook Ads,0
+425,Asad Shah,Female,42,Karachi,Sindh,2026-02-12,Facebook Ads,0
+426,Hamza Raza,Female,36,Karachi,Sindh,2025-05-27,Organic,1
+427,Ahmed Ahmed,Other,27,Faisalabad,Punjab,2025-12-31,Organic,0
+428,Omer Cheema,Male,46,Lahore,Punjab,2025-09-12,Direct,0
+429,Tariq Malik,Female,27,Karachi,Sindh,2024-06-15,Facebook Ads,1
+430,Kiran Hashmi,Female,28,Lahore,Punjab,2025-08-30,Direct,0
+431,Omer Jatoi,Female,35,Karachi,Sindh,2025-12-26,Google Ads,0
+432,Sara Abbasi,Male,29,Karachi,Sindh,2025-01-12,Facebook Ads,1
+433,Omer Sheikh,Female,37,Lahore,Punjab,2026-03-26,Google Ads,0
+434,Hina Khan,Female,32,Lahore,Punjab,2025-11-02,TikTok Ads,1
+435,Amna Baig,Male,38,Karachi,Sindh,2025-08-20,TikTok Ads,0
+436,Saad Butt,Female,21,Quetta,Balochistan,2024-05-31,Facebook Ads,1
+437,Yasmin Iqbal,Other,25,Faisalabad,Punjab,2025-12-18,Facebook Ads,0
+438,Zain Raza,Other,45,Islamabad,Islamabad Capital Territory,2024-11-17,Organic,1
+439,Mariam Malik,Male,31,Lahore,Punjab,2025-02-24,TikTok Ads,1
+440,Tariq Hashmi,Male,32,Faisalabad,Punjab,2025-12-23,TikTok Ads,1
+441,Hamza Jatoi,Female,38,Karachi,Sindh,2025-11-09,TikTok Ads,1
+442,Saad Jatoi,Male,39,Lahore,Punjab,2025-04-15,TikTok Ads,1
+443,Hassan Shah,Female,32,Gujranwala,Punjab,2025-09-16,Facebook Ads,0
+444,Saad Raza,Female,23,Quetta,Balochistan,2025-07-25,Google Ads,0
+445,Usman Iqbal,Female,32,Lahore,Punjab,2026-02-28,Organic,0
+446,Usman Raza,Female,33,Faisalabad,Punjab,2024-11-20,Google Ads,0
+447,Saad Mughal,Female,39,Rawalpindi,Punjab,2024-10-21,Organic,1
+448,Zain Baig,Female,20,Rawalpindi,Punjab,2025-02-08,Google Ads,0
+449,Asad Malik,Female,28,Lahore,Punjab,2026-01-01,Facebook Ads,0
+450,Ali Mughal,Female,31,Karachi,Sindh,2026-02-04,Google Ads,0
+451,Saad Raza,Female,42,Lahore,Punjab,2025-07-29,Google Ads,0
+452,Faisal Siddiqui,Male,23,Karachi,Sindh,2024-09-05,Google Ads,0
+453,Ahmed Jatoi,Male,43,Lahore,Punjab,2024-02-23,Google Ads,0
+454,Zain Qureshi,Female,38,Lahore,Punjab,2024-04-12,Direct,1
+455,Yasmin Malik,Other,18,Karachi,Sindh,2025-07-17,Facebook Ads,1
+456,Fatima Qureshi,Female,48,Lahore,Punjab,2025-05-03,Google Ads,0
+457,Raza Raza,Female,38,Lahore,Punjab,2024-11-24,Organic,1
+458,Usman Ahmed,Male,49,Rawalpindi,Punjab,2025-10-29,Organic,0
+459,Sara Iqbal,Male,36,Karachi,Sindh,2024-06-28,Direct,0
+460,Mariam Butt,Male,32,Karachi,Sindh,2026-05-06,Direct,0
+461,Kiran Cheema,Female,23,Lahore,Punjab,2024-02-08,Facebook Ads,1
+462,Muhammad Abbasi,Male,27,Karachi,Sindh,2024-12-09,Facebook Ads,1
+463,Usman Gill,Female,31,Karachi,Sindh,2024-05-17,TikTok Ads,1
+464,Tariq Gill,Male,41,Islamabad,Islamabad Capital Territory,2024-12-04,Facebook Ads,1
+465,Fatima Gill,Male,22,Karachi,Sindh,2024-01-15,TikTok Ads,1
+466,Hina Shah,Male,28,Karachi,Sindh,2024-06-28,Google Ads,1
+467,Nida Dar,Female,25,Lahore,Punjab,2024-03-29,Facebook Ads,1
+468,Kiran Sheikh,Male,32,Quetta,Balochistan,2025-05-03,Google Ads,0
+469,Omer Iqbal,Other,31,Karachi,Sindh,2025-01-27,TikTok Ads,0
+470,Sana Gill,Female,40,Peshawar,KPK,2024-11-05,TikTok Ads,0
+471,Sara Baig,Other,30,Karachi,Sindh,2025-10-31,Facebook Ads,1
+472,Asad Iqbal,Male,30,Lahore,Punjab,2025-04-21,Google Ads,1
+473,Usman Butt,Female,20,Rawalpindi,Punjab,2025-12-07,Facebook Ads,0
+474,Zain Abbasi,Male,24,Rawalpindi,Punjab,2024-08-12,Google Ads,1
+475,Hamza Cheema,Female,24,Lahore,Punjab,2025-03-01,Google Ads,0
+476,Faisal Farooq,Male,32,Lahore,Punjab,2026-02-19,Facebook Ads,0
+477,Sana Hashmi,Male,35,Karachi,Sindh,2025-06-22,Facebook Ads,0
+478,Zahra Jatoi,Male,33,Karachi,Sindh,2025-07-31,TikTok Ads,0
+479,Zain Ahmed,Male,37,Karachi,Sindh,2025-08-09,Google Ads,1
+480,Hassan Malik,Female,47,Lahore,Punjab,2024-04-29,Google Ads,1
+481,Yasmin Raza,Female,23,Lahore,Punjab,2024-04-03,Organic,0
+482,Tariq Gill,Female,43,Islamabad,Islamabad Capital Territory,2024-05-15,Referral,1
+483,Tariq Qureshi,Male,34,Karachi,Sindh,2025-07-26,Facebook Ads,1
+484,Zahra Abbasi,Female,43,Karachi,Sindh,2024-09-17,Direct,0
+485,Muhammad Raza,Male,25,Karachi,Sindh,2025-03-09,Google Ads,1
+486,Asad Ali,Male,21,Karachi,Sindh,2024-03-11,Google Ads,1
+487,Saad Ahmed,Male,31,Multan,Punjab,2026-02-26,TikTok Ads,0
+488,Hamza Qureshi,Female,18,Lahore,Punjab,2025-04-04,Facebook Ads,0
+489,Kiran Dar,Male,39,Gujranwala,Punjab,2025-10-31,TikTok Ads,0
+490,Asad Sheikh,Female,20,Lahore,Punjab,2025-06-25,Organic,1
+491,Hamza Iqbal,Male,24,Lahore,Punjab,2024-11-01,Referral,1
+492,Zahra Farooq,Female,29,Karachi,Sindh,2026-04-23,TikTok Ads,0
+493,Sana Iqbal,Male,31,Karachi,Sindh,2024-10-09,Google Ads,0
+494,Ayesha Sheikh,Other,18,Rawalpindi,Punjab,2025-11-07,Facebook Ads,0
+495,Mariam Hashmi,Male,38,Peshawar,KPK,2024-09-03,Facebook Ads,0
+496,Ayesha Ali,Male,34,Lahore,Punjab,2025-04-02,Facebook Ads,0
+497,Nida Ahmed,Male,39,Lahore,Punjab,2025-02-15,TikTok Ads,1
+498,Zahra Iqbal,Male,31,Karachi,Sindh,2024-05-23,Organic,0
+499,Tariq Abbasi,Female,31,Rawalpindi,Punjab,2025-08-14,Organic,0
+500,Nida Shah,Male,28,Karachi,Sindh,2025-11-07,Facebook Ads,0
+501,Tariq Iqbal,Female,23,Karachi,Sindh,2024-03-03,Direct,0
+502,Hassan Baig,Male,19,Lahore,Punjab,2025-10-03,Facebook Ads,1
+503,Yasmin Qureshi,Male,21,Lahore,Punjab,2024-12-18,Google Ads,1
+504,Raza Dar,Female,18,Multan,Punjab,2025-12-14,Google Ads,0
+505,Mariam Qureshi,Female,30,Lahore,Punjab,2024-07-07,Direct,1
+506,Amna Farooq,Male,29,Faisalabad,Punjab,2024-11-03,Organic,1
+507,Faisal Malik,Male,24,Karachi,Sindh,2025-07-29,Google Ads,0
+508,Mariam Qureshi,Male,37,Karachi,Sindh,2025-02-01,TikTok Ads,0
+509,Sana Siddiqui,Male,30,Lahore,Punjab,2025-04-05,Organic,0
+510,Asad Ali,Male,29,Karachi,Sindh,2024-02-22,Direct,1
+511,Bilal Dar,Male,29,Lahore,Punjab,2024-03-15,Organic,1
+512,Ayesha Baig,Male,36,Karachi,Sindh,2025-05-05,Google Ads,0
+513,Ayesha Shah,Male,21,Lahore,Punjab,2024-08-04,Facebook Ads,1
+514,Ayesha Sheikh,Female,27,Karachi,Sindh,2024-09-05,Facebook Ads,0
+515,Faisal Hashmi,Female,30,Quetta,Balochistan,2024-09-02,Google Ads,1
+516,Hassan Shah,Female,34,Karachi,Sindh,2025-04-22,Google Ads,0
+517,Hassan Mughal,Female,22,Lahore,Punjab,2025-06-09,Facebook Ads,0
+518,Saad Gill,Female,28,Lahore,Punjab,2026-02-18,TikTok Ads,0
+519,Omer Raza,Female,28,Karachi,Sindh,2024-02-16,Referral,1
+520,Sara Iqbal,Male,41,Karachi,Sindh,2024-09-24,TikTok Ads,0
+521,Hassan Baig,Female,25,Islamabad,Islamabad Capital Territory,2024-10-29,Facebook Ads,1
+522,Hamza Raza,Female,27,Lahore,Punjab,2025-08-06,Referral,1
+523,Sana Cheema,Female,33,Karachi,Sindh,2024-09-20,TikTok Ads,1
+524,Amna Cheema,Female,39,Lahore,Punjab,2025-04-16,Google Ads,1
+525,Fatima Mughal,Female,19,Lahore,Punjab,2024-07-07,Google Ads,0
+526,Hassan Ahmed,Male,28,Rawalpindi,Punjab,2026-04-17,Organic,0
+527,Yasmin Ahmed,Female,25,Karachi,Sindh,2024-05-20,Facebook Ads,0
+528,Raza Iqbal,Male,18,Rawalpindi,Punjab,2024-01-10,Facebook Ads,1
+529,Ayesha Jatoi,Male,18,Karachi,Sindh,2025-09-24,Facebook Ads,0
+530,Raza Hashmi,Female,31,Quetta,Balochistan,2024-01-17,Organic,1
+531,Muhammad Farooq,Male,29,Karachi,Sindh,2024-01-18,Google Ads,1
+532,Tariq Siddiqui,Female,34,Lahore,Punjab,2024-01-18,Organic,0
+533,Tariq Qureshi,Male,29,Karachi,Sindh,2024-04-19,Facebook Ads,1
+534,Zain Jatoi,Male,22,Islamabad,Islamabad Capital Territory,2025-09-26,Google Ads,0
+535,Tariq Siddiqui,Female,19,Lahore,Punjab,2026-03-25,Organic,0
+536,Kiran Ali,Female,18,Multan,Punjab,2025-04-15,Referral,0
+537,Sara Iqbal,Male,24,Islamabad,Islamabad Capital Territory,2024-11-03,Google Ads,1
+538,Yasmin Ali,Male,38,Karachi,Sindh,2024-04-05,Organic,1
+539,Kiran Dar,Female,47,Islamabad,Islamabad Capital Territory,2024-02-27,Direct,0
+540,Raza Khan,Male,25,Lahore,Punjab,2025-05-26,TikTok Ads,1
+541,Mariam Shah,Male,30,Karachi,Sindh,2025-06-24,Organic,1
+542,Ahmed Iqbal,Female,23,Lahore,Punjab,2024-10-04,TikTok Ads,0
+543,Ahmed Ali,Female,27,Karachi,Sindh,2025-07-10,Facebook Ads,0
+544,Sara Ahmed,Female,31,Peshawar,KPK,2024-01-17,Organic,1
+545,Ayesha Baig,Female,19,Karachi,Sindh,2024-03-19,Organic,1
+546,Usman Butt,Female,22,Islamabad,Islamabad Capital Territory,2025-11-24,Facebook Ads,0
+547,Hassan Shah,Male,39,Karachi,Sindh,2026-03-20,Facebook Ads,0
+548,Faisal Ali,Female,35,Karachi,Sindh,2024-02-24,Referral,0
+549,Zain Qureshi,Male,37,Lahore,Punjab,2024-12-14,Google Ads,1
+550,Nida Hashmi,Female,23,Karachi,Sindh,2026-03-03,Facebook Ads,0
+551,Omer Khan,Female,40,Lahore,Punjab,2025-05-17,Google Ads,1
+552,Sana Mughal,Female,34,Karachi,Sindh,2025-03-18,Referral,0
+553,Fatima Baig,Male,24,Quetta,Balochistan,2026-03-01,TikTok Ads,0
+554,Nida Abbasi,Male,37,Lahore,Punjab,2024-03-25,Organic,0
+555,Bilal Malik,Male,34,Karachi,Sindh,2026-01-27,Facebook Ads,0
+556,Kiran Shah,Male,38,Peshawar,KPK,2024-01-06,Facebook Ads,1
+557,Usman Gill,Female,21,Lahore,Punjab,2024-04-14,TikTok Ads,0
+558,Hamza Ali,Female,18,Peshawar,KPK,2025-07-24,Facebook Ads,0
+559,Hassan Jatoi,Male,28,Multan,Punjab,2024-04-01,TikTok Ads,1
+560,Asad Farooq,Female,27,Karachi,Sindh,2025-01-29,Organic,1
+561,Muhammad Abbasi,Male,28,Rawalpindi,Punjab,2026-01-12,Google Ads,1
+562,Hassan Iqbal,Male,32,Faisalabad,Punjab,2025-12-02,Organic,0
+563,Kiran Butt,Female,35,Karachi,Sindh,2024-10-01,Google Ads,1
+564,Saad Malik,Female,39,Sialkot,Punjab,2024-10-09,Direct,0
+565,Mariam Abbasi,Male,33,Rawalpindi,Punjab,2025-01-04,Facebook Ads,0
+566,Bilal Iqbal,Female,24,Lahore,Punjab,2025-08-31,Organic,0
+567,Nida Raza,Male,32,Lahore,Punjab,2024-11-07,Google Ads,1
+568,Muhammad Dar,Female,43,Karachi,Sindh,2026-04-03,TikTok Ads,0
+569,Omer Gill,Male,36,Lahore,Punjab,2024-11-03,Organic,1
+570,Omer Hashmi,Male,33,Karachi,Sindh,2025-05-05,Google Ads,0
+571,Omer Butt,Female,28,Rawalpindi,Punjab,2024-10-25,Facebook Ads,0
+572,Hina Cheema,Male,23,Lahore,Punjab,2024-11-29,Organic,1
+573,Kiran Siddiqui,Female,20,Lahore,Punjab,2025-01-08,Organic,0
+574,Zain Baig,Male,33,Lahore,Punjab,2025-11-29,Facebook Ads,0
+575,Amna Farooq,Other,23,Peshawar,KPK,2026-01-14,Google Ads,0
+576,Zahra Raza,Female,35,Karachi,Sindh,2026-05-01,Facebook Ads,0
+577,Faisal Ali,Female,35,Gujranwala,Punjab,2025-11-20,Google Ads,0
+578,Saad Malik,Male,27,Lahore,Punjab,2024-09-15,Organic,1
+579,Yasmin Malik,Female,31,Lahore,Punjab,2024-03-16,Google Ads,1
+580,Zahra Hashmi,Female,37,Islamabad,Islamabad Capital Territory,2025-07-01,Facebook Ads,1
+581,Tariq Qureshi,Female,18,Rawalpindi,Punjab,2025-12-19,Facebook Ads,0
+582,Hassan Hashmi,Male,40,Lahore,Punjab,2024-04-21,Google Ads,1
+583,Amna Iqbal,Female,25,Lahore,Punjab,2024-06-19,TikTok Ads,1
+584,Raza Hashmi,Other,31,Lahore,Punjab,2025-10-22,TikTok Ads,1
+585,Yasmin Dar,Female,38,Karachi,Sindh,2026-03-26,Organic,0
+586,Mariam Sheikh,Other,34,Lahore,Punjab,2024-09-21,Facebook Ads,1
+587,Sana Jatoi,Male,28,Rawalpindi,Punjab,2025-04-01,Organic,0
+588,Asad Dar,Male,26,Rawalpindi,Punjab,2024-12-19,Google Ads,0
+589,Muhammad Cheema,Female,20,Karachi,Sindh,2024-03-28,Google Ads,0
+590,Zain Malik,Female,28,Karachi,Sindh,2025-04-11,Facebook Ads,0
+591,Ayesha Jatoi,Female,42,Gujranwala,Punjab,2024-04-09,Direct,1
+592,Zahra Gill,Female,35,Lahore,Punjab,2024-02-15,Google Ads,1
+593,Faisal Sheikh,Other,39,Karachi,Sindh,2024-12-17,Google Ads,1
+594,Raza Sheikh,Male,34,Faisalabad,Punjab,2026-01-28,Google Ads,0
+595,Sana Jatoi,Male,45,Karachi,Sindh,2024-12-04,Google Ads,1
+596,Hassan Qureshi,Male,42,Karachi,Sindh,2026-03-27,Facebook Ads,0
+597,Kiran Butt,Female,31,Karachi,Sindh,2025-02-09,Direct,1
+598,Muhammad Hashmi,Female,18,Karachi,Sindh,2025-08-29,Google Ads,0
+599,Mariam Dar,Other,34,Lahore,Punjab,2024-08-07,Google Ads,1
+600,Ayesha Siddiqui,Male,25,Karachi,Sindh,2025-08-14,Facebook Ads,1
+601,Zain Farooq,Female,29,Lahore,Punjab,2024-07-20,Organic,1
+602,Zahra Sheikh,Female,44,Rawalpindi,Punjab,2025-06-24,Facebook Ads,0
+603,Raza Shah,Female,22,Rawalpindi,Punjab,2025-08-24,TikTok Ads,1
+604,Zain Mughal,Female,32,Peshawar,KPK,2025-09-24,Facebook Ads,0
+605,Fatima Abbasi,Male,29,Karachi,Sindh,2025-11-19,Facebook Ads,0
+606,Hamza Shah,Female,28,Multan,Punjab,2024-04-29,Facebook Ads,1
+607,Fatima Mughal,Female,37,Lahore,Punjab,2025-03-04,Organic,1
+608,Nida Malik,Female,23,Karachi,Sindh,2024-07-09,Google Ads,1
+609,Saad Farooq,Male,18,Karachi,Sindh,2025-07-22,Direct,1
+610,Fatima Cheema,Male,37,Karachi,Sindh,2024-11-18,TikTok Ads,0
+611,Zahra Hashmi,Female,30,Peshawar,KPK,2024-01-10,Facebook Ads,0
+612,Saad Malik,Female,34,Lahore,Punjab,2025-07-29,Facebook Ads,0
+613,Tariq Cheema,Female,36,Karachi,Sindh,2025-03-01,TikTok Ads,0
+614,Faisal Gill,Male,19,Lahore,Punjab,2025-08-01,Referral,1
+615,Muhammad Iqbal,Female,18,Karachi,Sindh,2024-08-18,Facebook Ads,1
+616,Hassan Abbasi,Female,39,Karachi,Sindh,2025-08-02,Facebook Ads,1
+617,Hina Cheema,Male,31,Lahore,Punjab,2025-08-09,Facebook Ads,1
+618,Zain Siddiqui,Female,39,Faisalabad,Punjab,2025-07-09,Organic,1
+619,Amna Ahmed,Female,31,Lahore,Punjab,2025-07-13,Facebook Ads,0
+620,Ayesha Qureshi,Male,27,Lahore,Punjab,2024-10-31,Google Ads,0
+621,Ahmed Gill,Male,33,Lahore,Punjab,2025-03-25,Google Ads,1
+622,Zain Iqbal,Female,37,Islamabad,Islamabad Capital Territory,2026-05-31,Google Ads,0
+623,Faisal Hashmi,Male,30,Rawalpindi,Punjab,2025-09-22,Google Ads,1
+624,Hamza Raza,Male,24,Karachi,Sindh,2025-08-06,Organic,1
+625,Asad Farooq,Male,24,Karachi,Sindh,2024-11-27,Facebook Ads,0
+626,Faisal Abbasi,Female,23,Rawalpindi,Punjab,2026-05-28,Google Ads,0
+627,Tariq Sheikh,Female,32,Faisalabad,Punjab,2024-03-01,Direct,1
+628,Bilal Malik,Male,27,Karachi,Sindh,2024-09-12,Google Ads,1
+629,Hamza Shah,Female,37,Lahore,Punjab,2025-05-16,Google Ads,1
+630,Hamza Baig,Female,29,Karachi,Sindh,2025-01-19,TikTok Ads,0
+631,Zahra Ali,Male,26,Rawalpindi,Punjab,2025-02-16,Referral,1
+632,Tariq Siddiqui,Female,39,Karachi,Sindh,2025-04-10,Google Ads,1
+633,Saad Shah,Male,37,Lahore,Punjab,2026-01-18,TikTok Ads,1
+634,Zahra Mughal,Female,24,Rawalpindi,Punjab,2024-08-11,Google Ads,1
+635,Mariam Raza,Female,30,Karachi,Sindh,2026-04-28,TikTok Ads,0
+636,Usman Shah,Male,36,Rawalpindi,Punjab,2025-08-02,Facebook Ads,0
+637,Saad Shah,Male,27,Karachi,Sindh,2024-02-17,Direct,1
+638,Zain Gill,Other,26,Islamabad,Islamabad Capital Territory,2026-05-28,Facebook Ads,0
+639,Fatima Gill,Female,46,Karachi,Sindh,2024-07-26,Direct,0
+640,Faisal Malik,Female,21,Rawalpindi,Punjab,2024-06-11,Google Ads,0
+641,Bilal Ali,Female,29,Sialkot,Punjab,2024-03-25,TikTok Ads,1
+642,Asad Butt,Female,33,Lahore,Punjab,2026-01-13,Facebook Ads,0
+643,Faisal Iqbal,Male,28,Karachi,Sindh,2025-12-21,Facebook Ads,1
+644,Zain Khan,Male,37,Lahore,Punjab,2024-05-15,Google Ads,1
+645,Sara Iqbal,Female,34,Karachi,Sindh,2024-01-10,Organic,0
+646,Muhammad Shah,Female,32,Karachi,Sindh,2025-12-11,Direct,0
+647,Hamza Cheema,Female,31,Islamabad,Islamabad Capital Territory,2024-04-01,Facebook Ads,1
+648,Hina Sheikh,Female,40,Lahore,Punjab,2024-11-02,Organic,1
+649,Hamza Dar,Male,18,Lahore,Punjab,2025-10-18,Organic,0
+650,Yasmin Malik,Male,25,Karachi,Sindh,2025-09-16,Facebook Ads,0
+651,Raza Butt,Male,36,Karachi,Sindh,2025-10-05,Facebook Ads,0
+652,Hina Malik,Female,34,Karachi,Sindh,2026-05-30,Facebook Ads,0
+653,Ayesha Ali,Male,42,Islamabad,Islamabad Capital Territory,2026-02-09,TikTok Ads,0
+654,Zain Baig,Female,27,Lahore,Punjab,2025-03-15,Organic,1
+655,Omer Malik,Male,33,Lahore,Punjab,2024-09-11,Facebook Ads,1
+656,Hassan Hashmi,Female,29,Islamabad,Islamabad Capital Territory,2026-03-08,Facebook Ads,0
+657,Faisal Khan,Female,26,Karachi,Sindh,2024-07-29,Direct,0
+658,Tariq Hashmi,Female,31,Karachi,Sindh,2024-10-29,Organic,0
+659,Raza Ahmed,Male,36,Islamabad,Islamabad Capital Territory,2025-05-21,Google Ads,1
+660,Kiran Sheikh,Male,19,Karachi,Sindh,2025-06-24,Facebook Ads,0
+661,Muhammad Mughal,Male,34,Faisalabad,Punjab,2025-01-31,Organic,0
+662,Sara Qureshi,Male,31,Rawalpindi,Punjab,2026-02-20,TikTok Ads,1
+663,Saad Ali,Other,33,Islamabad,Islamabad Capital Territory,2024-03-10,TikTok Ads,1
+664,Muhammad Siddiqui,Male,28,Karachi,Sindh,2026-03-19,Google Ads,0
+665,Kiran Jatoi,Female,38,Lahore,Punjab,2025-03-09,Google Ads,1
+666,Faisal Dar,Male,29,Quetta,Balochistan,2024-10-11,Facebook Ads,1
+667,Ali Abbasi,Male,25,Islamabad,Islamabad Capital Territory,2026-04-07,Direct,0
+668,Hamza Farooq,Male,29,Karachi,Sindh,2024-11-13,Direct,1
+669,Faisal Qureshi,Male,34,Rawalpindi,Punjab,2024-02-29,Organic,1
+670,Sana Ali,Male,27,Karachi,Sindh,2025-04-09,Referral,1
+671,Nida Hashmi,Male,22,Rawalpindi,Punjab,2024-05-02,Facebook Ads,1
+672,Muhammad Malik,Male,38,Faisalabad,Punjab,2025-05-23,Facebook Ads,1
+673,Asad Jatoi,Female,32,Karachi,Sindh,2024-06-19,Facebook Ads,0
+674,Asad Malik,Female,44,Karachi,Sindh,2026-01-20,Google Ads,0
+675,Zain Khan,Female,36,Karachi,Sindh,2024-10-05,Facebook Ads,0
+676,Tariq Ali,Male,18,Islamabad,Islamabad Capital Territory,2025-05-23,Facebook Ads,0
+677,Zahra Jatoi,Female,37,Multan,Punjab,2026-05-29,Facebook Ads,0
+678,Sara Butt,Female,43,Karachi,Sindh,2026-03-02,Facebook Ads,0
+679,Zain Baig,Male,30,Karachi,Sindh,2024-08-21,Organic,1
+680,Hina Jatoi,Other,39,Lahore,Punjab,2026-05-29,Facebook Ads,0
+681,Muhammad Iqbal,Other,37,Faisalabad,Punjab,2025-01-07,TikTok Ads,1
+682,Kiran Malik,Male,34,Lahore,Punjab,2025-07-20,Google Ads,1
+683,Faisal Qureshi,Male,24,Rawalpindi,Punjab,2025-03-02,TikTok Ads,0
+684,Hina Shah,Male,18,Multan,Punjab,2025-08-08,Google Ads,1
+685,Asad Sheikh,Male,42,Lahore,Punjab,2024-07-02,Organic,1
+686,Sana Jatoi,Female,40,Karachi,Sindh,2024-03-11,Google Ads,1
+687,Zahra Abbasi,Female,28,Lahore,Punjab,2024-12-01,TikTok Ads,1
+688,Ali Farooq,Female,23,Peshawar,KPK,2024-07-24,TikTok Ads,0
+689,Usman Baig,Male,30,Lahore,Punjab,2025-04-20,Facebook Ads,0
+690,Asad Baig,Male,43,Karachi,Sindh,2026-01-20,Google Ads,0
+691,Hassan Iqbal,Female,25,Karachi,Sindh,2024-01-25,Facebook Ads,0
+692,Sana Farooq,Male,29,Quetta,Balochistan,2024-12-09,Facebook Ads,1
+693,Muhammad Dar,Female,18,Lahore,Punjab,2024-04-16,Facebook Ads,1
+694,Ayesha Jatoi,Female,29,Karachi,Sindh,2025-05-18,Google Ads,0
+695,Ahmed Malik,Male,27,Rawalpindi,Punjab,2024-02-14,TikTok Ads,1
+696,Sana Jatoi,Female,23,Lahore,Punjab,2025-04-14,Facebook Ads,0
+697,Hina Ali,Male,28,Karachi,Sindh,2025-10-14,TikTok Ads,1
+698,Kiran Ali,Male,35,Karachi,Sindh,2025-03-21,Facebook Ads,0
+699,Yasmin Malik,Female,38,Lahore,Punjab,2026-05-21,Organic,0
+700,Omer Dar,Female,30,Gujranwala,Punjab,2024-11-21,Facebook Ads,1
+701,Zahra Siddiqui,Male,24,Lahore,Punjab,2024-05-19,Google Ads,0
+702,Amna Baig,Male,18,Multan,Punjab,2024-06-17,Organic,1
+703,Zahra Gill,Male,18,Rawalpindi,Punjab,2025-07-02,Referral,1
+704,Asad Raza,Female,37,Rawalpindi,Punjab,2024-09-28,Facebook Ads,0
+705,Zain Ali,Female,26,Karachi,Sindh,2026-04-26,Facebook Ads,0
+706,Faisal Hashmi,Other,31,Lahore,Punjab,2026-05-05,TikTok Ads,0
+707,Omer Malik,Male,27,Lahore,Punjab,2024-12-30,Google Ads,0
+708,Kiran Jatoi,Other,22,Karachi,Sindh,2024-11-02,Google Ads,1
+709,Bilal Butt,Other,28,Karachi,Sindh,2025-02-18,Google Ads,1
+710,Zahra Farooq,Male,30,Peshawar,KPK,2024-04-06,TikTok Ads,0
+711,Zahra Sheikh,Male,21,Lahore,Punjab,2024-05-04,Facebook Ads,1
+712,Muhammad Ahmed,Male,41,Lahore,Punjab,2024-05-13,Direct,0
+713,Ayesha Dar,Male,37,Islamabad,Islamabad Capital Territory,2025-08-19,Facebook Ads,0
+714,Sara Siddiqui,Male,32,Multan,Punjab,2024-01-23,Facebook Ads,1
+715,Ali Raza,Female,20,Karachi,Sindh,2026-04-08,Google Ads,0
+716,Hamza Ali,Female,30,Karachi,Sindh,2024-05-05,Google Ads,0
+717,Ahmed Gill,Female,25,Karachi,Sindh,2026-04-21,TikTok Ads,0
+718,Hina Dar,Female,30,Karachi,Sindh,2025-11-30,Organic,0
+719,Mariam Butt,Male,37,Islamabad,Islamabad Capital Territory,2024-10-08,Google Ads,0
+720,Bilal Gill,Male,33,Islamabad,Islamabad Capital Territory,2025-09-20,Facebook Ads,1
+721,Nida Hashmi,Female,38,Lahore,Punjab,2025-05-25,Organic,1
+722,Mariam Farooq,Male,24,Rawalpindi,Punjab,2024-10-13,Direct,0
+723,Kiran Malik,Male,28,Karachi,Sindh,2025-10-07,TikTok Ads,1
+724,Hassan Khan,Female,36,Lahore,Punjab,2025-05-06,TikTok Ads,0
+725,Hassan Cheema,Female,38,Lahore,Punjab,2025-02-01,Facebook Ads,0
+726,Bilal Butt,Other,39,Lahore,Punjab,2025-09-03,Facebook Ads,1
+727,Sana Khan,Female,27,Karachi,Sindh,2024-02-29,Facebook Ads,1
+728,Saad Jatoi,Male,36,Lahore,Punjab,2024-06-12,TikTok Ads,0
+729,Zain Iqbal,Female,25,Lahore,Punjab,2025-06-30,Facebook Ads,0
+730,Hina Ahmed,Male,28,Islamabad,Islamabad Capital Territory,2025-08-12,TikTok Ads,1
+731,Kiran Mughal,Male,20,Sialkot,Punjab,2024-06-29,Google Ads,1
+732,Sana Baig,Female,25,Islamabad,Islamabad Capital Territory,2025-08-28,Facebook Ads,1
+733,Muhammad Mughal,Male,26,Lahore,Punjab,2025-07-30,Referral,1
+734,Ayesha Cheema,Male,29,Lahore,Punjab,2025-05-17,Facebook Ads,1
+735,Ahmed Ali,Male,29,Karachi,Sindh,2024-01-21,Facebook Ads,1
+736,Tariq Cheema,Other,27,Rawalpindi,Punjab,2025-09-20,Google Ads,0
+737,Ayesha Malik,Male,34,Karachi,Sindh,2026-04-01,Referral,0
+738,Omer Ahmed,Other,27,Karachi,Sindh,2025-08-23,Direct,0
+739,Faisal Malik,Female,39,Sialkot,Punjab,2024-03-15,Facebook Ads,1
+740,Asad Dar,Female,32,Quetta,Balochistan,2024-11-05,Google Ads,1
+741,Omer Malik,Female,18,Lahore,Punjab,2026-03-21,Facebook Ads,0
+742,Raza Cheema,Male,20,Lahore,Punjab,2025-12-25,Google Ads,0
+743,Hassan Hashmi,Male,35,Lahore,Punjab,2025-11-12,Facebook Ads,1
+744,Sara Butt,Female,34,Karachi,Sindh,2024-05-10,Facebook Ads,1
+745,Fatima Khan,Female,28,Karachi,Sindh,2026-05-21,Referral,0
+746,Amna Baig,Other,26,Lahore,Punjab,2025-09-08,Facebook Ads,0
+747,Omer Hashmi,Male,21,Lahore,Punjab,2025-05-23,TikTok Ads,1
+748,Hamza Shah,Male,31,Lahore,Punjab,2024-12-21,Google Ads,1
+749,Omer Butt,Male,38,Lahore,Punjab,2026-04-21,Facebook Ads,0
+750,Faisal Shah,Female,45,Lahore,Punjab,2024-08-02,Facebook Ads,0
+751,Sana Ali,Male,51,Karachi,Sindh,2026-01-07,Referral,0
+752,Muhammad Ahmed,Female,18,Multan,Punjab,2024-06-19,Organic,1
+753,Mariam Cheema,Female,38,Karachi,Sindh,2025-07-13,Organic,1
+754,Kiran Sheikh,Male,30,Karachi,Sindh,2024-06-15,Organic,0
+755,Zahra Ali,Male,34,Peshawar,KPK,2024-10-28,Facebook Ads,0
+756,Muhammad Shah,Male,27,Lahore,Punjab,2024-03-16,Referral,1
+757,Omer Butt,Male,39,Lahore,Punjab,2026-01-19,Google Ads,0
+758,Ali Farooq,Male,29,Karachi,Sindh,2024-12-12,Facebook Ads,0
+759,Nida Hashmi,Male,25,Lahore,Punjab,2025-03-17,Google Ads,1
+760,Raza Butt,Female,40,Lahore,Punjab,2024-06-09,Direct,1
+761,Ahmed Sheikh,Male,29,Rawalpindi,Punjab,2025-02-23,Organic,0
+762,Faisal Farooq,Female,32,Lahore,Punjab,2025-11-07,Referral,1
+763,Usman Abbasi,Male,28,Faisalabad,Punjab,2025-02-06,Google Ads,1
+764,Sara Farooq,Male,28,Faisalabad,Punjab,2024-02-25,Direct,1
+765,Asad Khan,Female,34,Lahore,Punjab,2026-04-23,Direct,0
+766,Yasmin Hashmi,Male,18,Karachi,Sindh,2024-01-27,Google Ads,1
+767,Ayesha Butt,Male,38,Islamabad,Islamabad Capital Territory,2025-04-29,Facebook Ads,0
+768,Zain Abbasi,Female,37,Karachi,Sindh,2025-05-15,Google Ads,1
+769,Yasmin Siddiqui,Female,24,Karachi,Sindh,2024-07-08,Referral,1
+770,Asad Dar,Female,36,Karachi,Sindh,2024-02-15,Referral,0
+771,Bilal Gill,Male,37,Karachi,Sindh,2026-05-07,Facebook Ads,0
+772,Bilal Baig,Male,34,Islamabad,Islamabad Capital Territory,2024-03-28,Organic,0
+773,Yasmin Mughal,Female,24,Rawalpindi,Punjab,2026-02-13,Organic,0
+774,Sara Iqbal,Female,33,Islamabad,Islamabad Capital Territory,2026-04-18,Organic,0
+775,Tariq Qureshi,Female,32,Karachi,Sindh,2025-08-09,Google Ads,0
+776,Sana Cheema,Female,38,Karachi,Sindh,2026-05-24,Google Ads,0
+777,Faisal Ahmed,Male,24,Karachi,Sindh,2024-05-03,Facebook Ads,1
+778,Amna Gill,Male,28,Rawalpindi,Punjab,2024-08-04,Direct,1
+779,Ayesha Malik,Other,18,Karachi,Sindh,2024-03-21,Google Ads,1
+780,Yasmin Qureshi,Male,31,Rawalpindi,Punjab,2026-05-04,Organic,0
+781,Nida Siddiqui,Male,18,Karachi,Sindh,2024-03-30,Facebook Ads,0
+782,Kiran Farooq,Female,23,Rawalpindi,Punjab,2026-05-27,Direct,0
+783,Bilal Jatoi,Male,36,Karachi,Sindh,2026-03-16,Google Ads,0
+784,Faisal Hashmi,Female,28,Karachi,Sindh,2024-04-25,TikTok Ads,1
+785,Mariam Malik,Male,30,Lahore,Punjab,2024-04-18,TikTok Ads,0
+786,Sara Sheikh,Female,32,Karachi,Sindh,2025-02-24,Direct,0
+787,Bilal Dar,Female,18,Lahore,Punjab,2024-02-08,TikTok Ads,1
+788,Fatima Siddiqui,Female,31,Karachi,Sindh,2024-02-09,TikTok Ads,1
+789,Kiran Shah,Male,36,Rawalpindi,Punjab,2026-02-02,Organic,1
+790,Saad Siddiqui,Male,22,Lahore,Punjab,2024-12-11,Google Ads,1
+791,Usman Abbasi,Female,33,Karachi,Sindh,2026-05-28,Google Ads,0
+792,Faisal Sheikh,Male,25,Karachi,Sindh,2024-05-17,Facebook Ads,0
+793,Usman Gill,Female,25,Islamabad,Islamabad Capital Territory,2024-10-02,Facebook Ads,0
+794,Hina Qureshi,Male,31,Karachi,Sindh,2024-07-11,Google Ads,1
+795,Zahra Raza,Female,27,Faisalabad,Punjab,2026-01-28,Facebook Ads,1
+796,Saad Jatoi,Male,31,Karachi,Sindh,2025-06-11,Organic,0
+797,Fatima Ali,Female,24,Lahore,Punjab,2024-05-18,Facebook Ads,1
+798,Amna Jatoi,Male,27,Faisalabad,Punjab,2024-06-26,Facebook Ads,1
+799,Ayesha Raza,Male,32,Lahore,Punjab,2024-02-03,Direct,1
+800,Zahra Ahmed,Male,31,Lahore,Punjab,2024-10-07,Referral,1
+801,Asad Gill,Male,32,Lahore,Punjab,2025-11-28,Google Ads,0
+802,Muhammad Iqbal,Female,25,Lahore,Punjab,2024-06-30,Organic,1
+803,Saad Baig,Female,37,Quetta,Balochistan,2024-06-16,Organic,0
+804,Bilal Ali,Female,39,Peshawar,KPK,2024-02-20,Organic,1
+805,Fatima Baig,Male,25,Rawalpindi,Punjab,2026-05-27,TikTok Ads,0
+806,Sana Iqbal,Female,27,Karachi,Sindh,2025-10-29,Google Ads,1
+807,Mariam Jatoi,Other,30,Lahore,Punjab,2026-03-10,Google Ads,0
+808,Amna Khan,Male,34,Karachi,Sindh,2025-10-24,Google Ads,1
+809,Fatima Hashmi,Male,25,Rawalpindi,Punjab,2024-09-15,Google Ads,1
+810,Nida Abbasi,Female,28,Rawalpindi,Punjab,2025-03-09,Direct,0
+811,Kiran Mughal,Male,34,Lahore,Punjab,2025-04-22,Direct,1
+812,Usman Jatoi,Female,20,Karachi,Sindh,2025-08-21,TikTok Ads,0
+813,Zain Khan,Female,18,Karachi,Sindh,2025-07-28,TikTok Ads,1
+814,Raza Hashmi,Female,36,Islamabad,Islamabad Capital Territory,2025-12-01,Facebook Ads,0
+815,Zain Cheema,Female,20,Islamabad,Islamabad Capital Territory,2025-10-17,Facebook Ads,0
+816,Omer Siddiqui,Female,43,Multan,Punjab,2024-07-11,Facebook Ads,0
+817,Hamza Jatoi,Male,25,Karachi,Sindh,2026-04-04,Google Ads,0
+818,Nida Dar,Male,28,Karachi,Sindh,2026-01-08,Organic,0
+819,Muhammad Cheema,Female,28,Lahore,Punjab,2025-03-04,Google Ads,0
+820,Kiran Dar,Male,22,Lahore,Punjab,2024-12-17,TikTok Ads,1
+821,Hina Iqbal,Female,29,Quetta,Balochistan,2025-11-18,Google Ads,0
+822,Asad Jatoi,Male,27,Islamabad,Islamabad Capital Territory,2026-05-10,Facebook Ads,0
+823,Yasmin Farooq,Male,35,Lahore,Punjab,2025-04-27,Referral,0
+824,Hamza Siddiqui,Male,35,Karachi,Sindh,2025-11-27,Facebook Ads,0
+825,Omer Ali,Male,35,Karachi,Sindh,2026-02-01,Facebook Ads,0
+826,Usman Qureshi,Female,34,Karachi,Sindh,2025-01-15,Facebook Ads,0
+827,Bilal Baig,Male,30,Karachi,Sindh,2025-04-26,Google Ads,0
+828,Ahmed Baig,Male,42,Karachi,Sindh,2025-04-28,Facebook Ads,0
+829,Ayesha Jatoi,Female,31,Faisalabad,Punjab,2025-06-26,Facebook Ads,1
+830,Usman Qureshi,Male,30,Multan,Punjab,2024-05-20,Organic,0
+831,Ayesha Shah,Female,28,Lahore,Punjab,2024-05-26,Facebook Ads,1
+832,Omer Butt,Female,41,Karachi,Sindh,2024-12-06,Facebook Ads,0
+833,Raza Butt,Male,29,Islamabad,Islamabad Capital Territory,2024-01-05,Google Ads,0
+834,Zahra Siddiqui,Male,18,Karachi,Sindh,2025-08-13,Referral,0
+835,Amna Butt,Male,30,Quetta,Balochistan,2024-05-12,Facebook Ads,1
+836,Nida Qureshi,Female,31,Lahore,Punjab,2025-03-15,Facebook Ads,0
+837,Saad Dar,Other,26,Lahore,Punjab,2025-06-30,Organic,1
+838,Ayesha Mughal,Female,27,Lahore,Punjab,2026-02-14,Facebook Ads,0
+839,Tariq Raza,Other,33,Lahore,Punjab,2024-01-05,TikTok Ads,1
+840,Raza Iqbal,Female,39,Karachi,Sindh,2024-11-15,Facebook Ads,1
+841,Hamza Sheikh,Female,28,Lahore,Punjab,2024-06-20,Direct,1
+842,Ali Ahmed,Female,33,Islamabad,Islamabad Capital Territory,2025-04-11,Facebook Ads,0
+843,Hina Jatoi,Female,23,Karachi,Sindh,2025-03-20,Referral,0
+844,Yasmin Malik,Female,46,Lahore,Punjab,2025-01-02,Facebook Ads,1
+845,Amna Raza,Female,46,Karachi,Sindh,2024-01-20,Facebook Ads,0
+846,Sana Iqbal,Male,30,Rawalpindi,Punjab,2024-08-04,Google Ads,0
+847,Hina Khan,Male,18,Karachi,Sindh,2024-05-06,Facebook Ads,1
+848,Asad Ahmed,Female,42,Lahore,Punjab,2026-02-28,Facebook Ads,0
+849,Hassan Hashmi,Other,26,Quetta,Balochistan,2024-02-19,Facebook Ads,1
+850,Yasmin Sheikh,Male,34,Peshawar,KPK,2024-02-19,Referral,0
+851,Faisal Sheikh,Female,18,Lahore,Punjab,2024-05-06,TikTok Ads,1
+852,Hassan Siddiqui,Male,33,Karachi,Sindh,2024-07-29,TikTok Ads,0
+853,Faisal Khan,Male,33,Rawalpindi,Punjab,2025-11-09,Facebook Ads,0
+854,Tariq Siddiqui,Male,30,Lahore,Punjab,2025-03-04,Organic,0
+855,Zain Jatoi,Male,35,Islamabad,Islamabad Capital Territory,2024-10-16,Facebook Ads,0
+856,Zain Sheikh,Male,19,Lahore,Punjab,2026-03-07,Organic,0
+857,Bilal Jatoi,Female,27,Karachi,Sindh,2025-12-21,Google Ads,1
+858,Mariam Abbasi,Female,29,Peshawar,KPK,2024-07-31,Facebook Ads,1
+859,Faisal Cheema,Male,19,Karachi,Sindh,2024-01-14,Organic,1
+860,Yasmin Ali,Female,34,Islamabad,Islamabad Capital Territory,2024-06-01,Facebook Ads,0
+861,Ali Jatoi,Male,26,Lahore,Punjab,2024-09-19,TikTok Ads,1
+862,Raza Iqbal,Female,29,Karachi,Sindh,2024-09-27,Facebook Ads,1
+863,Zahra Ahmed,Male,35,Gujranwala,Punjab,2024-02-10,Facebook Ads,1
+864,Usman Mughal,Female,28,Rawalpindi,Punjab,2025-03-12,Google Ads,1
+865,Hina Sheikh,Male,41,Multan,Punjab,2024-01-10,Referral,0
+866,Hamza Butt,Female,25,Lahore,Punjab,2025-09-28,Google Ads,0
+867,Bilal Ali,Female,24,Lahore,Punjab,2024-07-06,Google Ads,1
+868,Zain Dar,Female,36,Islamabad,Islamabad Capital Territory,2024-10-05,Facebook Ads,0
+869,Kiran Cheema,Male,30,Karachi,Sindh,2024-04-25,Facebook Ads,1
+870,Hamza Ahmed,Male,22,Karachi,Sindh,2024-04-16,Facebook Ads,1
+871,Mariam Baig,Female,26,Peshawar,KPK,2024-07-04,TikTok Ads,0
+872,Nida Dar,Male,35,Lahore,Punjab,2025-12-01,TikTok Ads,0
+873,Hina Malik,Female,42,Karachi,Sindh,2024-04-25,Google Ads,0
+874,Mariam Gill,Other,30,Multan,Punjab,2024-09-24,Direct,1
+875,Raza Shah,Other,28,Rawalpindi,Punjab,2025-11-25,Google Ads,0
+876,Tariq Baig,Male,37,Lahore,Punjab,2025-11-16,Facebook Ads,1
+877,Omer Jatoi,Male,19,Karachi,Sindh,2025-03-19,Direct,1
+878,Yasmin Iqbal,Female,32,Karachi,Sindh,2024-06-01,Facebook Ads,0
+879,Hassan Hashmi,Male,18,Rawalpindi,Punjab,2025-06-01,Organic,0
+880,Saad Cheema,Male,31,Karachi,Sindh,2026-02-08,TikTok Ads,0
+881,Saad Shah,Female,35,Karachi,Sindh,2024-02-21,Direct,1
+882,Tariq Iqbal,Female,39,Lahore,Punjab,2025-02-16,Facebook Ads,1
+883,Sana Ali,Female,25,Karachi,Sindh,2024-03-31,Organic,1
+884,Saad Gill,Female,29,Karachi,Sindh,2026-02-02,Google Ads,0
+885,Raza Khan,Female,24,Quetta,Balochistan,2024-02-06,Facebook Ads,1
+886,Hassan Farooq,Other,30,Karachi,Sindh,2024-04-03,Facebook Ads,1
+887,Nida Hashmi,Male,35,Islamabad,Islamabad Capital Territory,2025-11-01,Organic,0
+888,Yasmin Gill,Female,20,Lahore,Punjab,2026-04-25,Facebook Ads,0
+889,Ahmed Iqbal,Female,39,Rawalpindi,Punjab,2025-07-27,Facebook Ads,1
+890,Amna Hashmi,Female,22,Lahore,Punjab,2026-01-03,Direct,0
+891,Zahra Sheikh,Male,25,Lahore,Punjab,2024-01-03,TikTok Ads,1
+892,Omer Mughal,Female,41,Karachi,Sindh,2025-07-14,Google Ads,0
+893,Tariq Mughal,Male,23,Rawalpindi,Punjab,2024-06-17,TikTok Ads,0
+894,Saad Malik,Female,34,Peshawar,KPK,2024-04-19,Facebook Ads,0
+895,Bilal Hashmi,Male,35,Karachi,Sindh,2026-05-22,Organic,0
+896,Kiran Raza,Male,18,Rawalpindi,Punjab,2026-01-03,Facebook Ads,1
+897,Omer Sheikh,Male,45,Lahore,Punjab,2025-10-10,Direct,0
+898,Yasmin Baig,Female,54,Rawalpindi,Punjab,2025-04-13,TikTok Ads,1
+899,Yasmin Baig,Male,27,Peshawar,KPK,2025-05-25,TikTok Ads,0
+900,Muhammad Jatoi,Female,44,Islamabad,Islamabad Capital Territory,2026-05-08,Direct,0
+901,Sara Cheema,Male,36,Karachi,Sindh,2025-12-09,Facebook Ads,1
+902,Sara Butt,Male,25,Karachi,Sindh,2024-04-16,Referral,1
+903,Kiran Hashmi,Female,33,Islamabad,Islamabad Capital Territory,2025-05-31,TikTok Ads,0
+904,Kiran Qureshi,Male,36,Peshawar,KPK,2024-10-07,Google Ads,1
+905,Kiran Shah,Female,21,Rawalpindi,Punjab,2026-04-04,Organic,0
+906,Hamza Malik,Female,26,Lahore,Punjab,2026-05-13,Facebook Ads,0
+907,Faisal Farooq,Male,18,Islamabad,Islamabad Capital Territory,2024-07-24,Organic,1
+908,Ayesha Hashmi,Female,27,Lahore,Punjab,2025-11-19,Referral,1
+909,Hamza Butt,Female,30,Islamabad,Islamabad Capital Territory,2025-12-28,Direct,0
+910,Zain Mughal,Female,24,Karachi,Sindh,2025-11-21,Organic,1
+911,Hina Farooq,Female,18,Karachi,Sindh,2026-04-07,Direct,0
+912,Muhammad Jatoi,Female,38,Karachi,Sindh,2024-05-28,Facebook Ads,1
+913,Ahmed Ahmed,Male,35,Islamabad,Islamabad Capital Territory,2024-10-20,Organic,1
+914,Yasmin Siddiqui,Male,26,Karachi,Sindh,2025-12-08,TikTok Ads,0
+915,Usman Raza,Male,39,Multan,Punjab,2025-01-02,Facebook Ads,1
+916,Zahra Sheikh,Male,32,Islamabad,Islamabad Capital Territory,2026-01-30,Facebook Ads,0
+917,Raza Farooq,Female,18,Karachi,Sindh,2025-12-10,Google Ads,0
+918,Yasmin Ahmed,Female,33,Lahore,Punjab,2025-03-02,Facebook Ads,0
+919,Yasmin Shah,Male,24,Karachi,Sindh,2024-01-14,Organic,1
+920,Hina Siddiqui,Female,42,Karachi,Sindh,2026-04-29,Google Ads,0
+921,Sana Mughal,Male,21,Karachi,Sindh,2026-03-05,Google Ads,0
+922,Hina Raza,Male,39,Peshawar,KPK,2025-11-30,TikTok Ads,0
+923,Ali Butt,Male,38,Karachi,Sindh,2025-01-21,Google Ads,1
+924,Ahmed Qureshi,Female,41,Rawalpindi,Punjab,2024-05-13,Facebook Ads,0
+925,Fatima Baig,Male,22,Lahore,Punjab,2024-12-04,Referral,1
+926,Zahra Malik,Other,22,Karachi,Sindh,2024-11-26,Google Ads,0
+927,Nida Ahmed,Female,28,Islamabad,Islamabad Capital Territory,2025-05-17,Organic,0
+928,Sara Farooq,Female,22,Lahore,Punjab,2025-06-22,Facebook Ads,1
+929,Sana Butt,Male,18,Karachi,Sindh,2025-03-01,Google Ads,1
+930,Hassan Farooq,Female,24,Karachi,Sindh,2024-08-14,Facebook Ads,0
+931,Ayesha Shah,Female,31,Lahore,Punjab,2024-08-11,Facebook Ads,1
+932,Amna Hashmi,Male,30,Karachi,Sindh,2024-04-27,Referral,1
+933,Yasmin Mughal,Male,25,Lahore,Punjab,2024-02-10,TikTok Ads,0
+934,Yasmin Shah,Male,27,Lahore,Punjab,2025-01-30,Facebook Ads,1
+935,Bilal Farooq,Male,36,Islamabad,Islamabad Capital Territory,2025-06-13,TikTok Ads,0
+936,Amna Mughal,Female,20,Karachi,Sindh,2025-05-13,Facebook Ads,1
+937,Ahmed Abbasi,Male,38,Peshawar,KPK,2024-11-24,Facebook Ads,0
+938,Tariq Ali,Male,32,Karachi,Sindh,2026-03-02,Direct,0
+939,Hassan Farooq,Other,34,Karachi,Sindh,2024-03-08,TikTok Ads,1
+940,Ayesha Raza,Female,32,Islamabad,Islamabad Capital Territory,2026-05-05,TikTok Ads,0
+941,Zain Raza,Female,28,Lahore,Punjab,2025-10-24,Facebook Ads,1
+942,Ali Malik,Other,29,Lahore,Punjab,2026-01-04,Referral,1
+943,Omer Ahmed,Male,38,Karachi,Sindh,2024-07-01,TikTok Ads,1
+944,Bilal Farooq,Male,27,Quetta,Balochistan,2024-09-21,Facebook Ads,1
+945,Mariam Dar,Female,29,Karachi,Sindh,2025-03-19,Organic,0
+946,Omer Khan,Male,28,Multan,Punjab,2025-07-01,Google Ads,1
+947,Muhammad Hashmi,Male,26,Islamabad,Islamabad Capital Territory,2025-12-18,Facebook Ads,0
+948,Ali Mughal,Male,18,Lahore,Punjab,2024-10-23,TikTok Ads,1
+949,Yasmin Abbasi,Female,19,Islamabad,Islamabad Capital Territory,2026-02-22,Facebook Ads,0
+950,Zahra Dar,Male,35,Karachi,Sindh,2025-04-30,Direct,1
+951,Fatima Farooq,Female,23,Karachi,Sindh,2026-03-26,Facebook Ads,0
+952,Hassan Abbasi,Male,24,Karachi,Sindh,2024-11-01,Google Ads,1
+953,Yasmin Mughal,Male,35,Islamabad,Islamabad Capital Territory,2025-07-20,Facebook Ads,0
+954,Hassan Malik,Male,41,Peshawar,KPK,2025-08-09,Organic,0
+955,Nida Dar,Male,33,Peshawar,KPK,2024-11-08,Google Ads,1
+956,Ayesha Mughal,Male,33,Karachi,Sindh,2024-06-13,TikTok Ads,0
+957,Fatima Iqbal,Female,36,Lahore,Punjab,2024-07-17,Facebook Ads,0
+958,Zain Butt,Male,37,Lahore,Punjab,2026-05-21,Direct,0
+959,Amna Farooq,Male,38,Karachi,Sindh,2024-10-24,Google Ads,1
+960,Yasmin Ali,Male,48,Multan,Punjab,2026-01-13,TikTok Ads,0
+961,Sara Cheema,Female,28,Lahore,Punjab,2024-05-11,Facebook Ads,1
+962,Yasmin Iqbal,Male,41,Islamabad,Islamabad Capital Territory,2024-07-17,Google Ads,1
+963,Omer Cheema,Female,45,Peshawar,KPK,2025-12-11,Facebook Ads,0
+964,Sara Malik,Female,23,Rawalpindi,Punjab,2026-04-07,Facebook Ads,0
+965,Omer Qureshi,Female,26,Karachi,Sindh,2024-09-09,Google Ads,1
+966,Sana Qureshi,Female,29,Karachi,Sindh,2024-05-17,Google Ads,0
+967,Yasmin Shah,Female,26,Islamabad,Islamabad Capital Territory,2025-04-01,Facebook Ads,1
+968,Asad Abbasi,Male,41,Karachi,Sindh,2024-06-28,Facebook Ads,1
+969,Raza Hashmi,Female,36,Rawalpindi,Punjab,2026-05-29,TikTok Ads,0
+970,Hamza Farooq,Male,32,Karachi,Sindh,2026-01-14,Facebook Ads,1
+971,Ali Khan,Male,21,Lahore,Punjab,2026-04-12,Google Ads,0
+972,Sara Baig,Male,23,Lahore,Punjab,2024-02-07,Google Ads,0
+973,Hassan Siddiqui,Female,33,Karachi,Sindh,2025-10-31,Direct,0
+974,Amna Malik,Male,34,Peshawar,KPK,2026-03-01,Facebook Ads,0
+975,Sara Abbasi,Male,30,Peshawar,KPK,2025-02-10,Direct,1
+976,Asad Jatoi,Other,18,Karachi,Sindh,2024-09-01,Google Ads,1
+977,Nida Butt,Male,31,Karachi,Sindh,2025-04-01,Direct,1
+978,Fatima Butt,Male,53,Islamabad,Islamabad Capital Territory,2026-01-23,Organic,0
+979,Hina Cheema,Male,33,Lahore,Punjab,2024-08-12,TikTok Ads,1
+980,Amna Cheema,Female,34,Karachi,Sindh,2025-01-13,TikTok Ads,0
+981,Sana Ahmed,Female,34,Karachi,Sindh,2025-02-01,Facebook Ads,0
+982,Saad Gill,Male,22,Karachi,Sindh,2025-10-26,Facebook Ads,0
+983,Omer Sheikh,Female,37,Lahore,Punjab,2026-05-04,Facebook Ads,0
+984,Hina Siddiqui,Male,37,Karachi,Sindh,2025-01-20,Facebook Ads,0
+985,Raza Dar,Male,24,Karachi,Sindh,2025-06-13,Facebook Ads,0
+986,Bilal Dar,Male,19,Lahore,Punjab,2025-06-12,TikTok Ads,1
+987,Kiran Mughal,Female,18,Karachi,Sindh,2025-05-13,Referral,1
+988,Saad Hashmi,Other,25,Lahore,Punjab,2024-05-22,TikTok Ads,1
+989,Zahra Butt,Female,18,Lahore,Punjab,2024-08-04,TikTok Ads,1
+990,Hamza Butt,Male,18,Islamabad,Islamabad Capital Territory,2025-11-07,Facebook Ads,0
+991,Sana Qureshi,Male,18,Faisalabad,Punjab,2025-05-08,TikTok Ads,1
+992,Yasmin Cheema,Male,30,Lahore,Punjab,2025-10-24,Facebook Ads,0
+993,Mariam Khan,Male,22,Karachi,Sindh,2025-08-10,Facebook Ads,1
+994,Sara Butt,Male,32,Islamabad,Islamabad Capital Territory,2025-08-09,Facebook Ads,0
+995,Hamza Ahmed,Male,36,Karachi,Sindh,2025-06-13,Google Ads,1
+996,Kiran Hashmi,Male,28,Lahore,Punjab,2026-01-06,Facebook Ads,1
+997,Hina Abbasi,Male,50,Lahore,Punjab,2025-04-04,TikTok Ads,1
+998,Nida Cheema,Male,21,Karachi,Sindh,2024-08-12,Facebook Ads,1
+999,Mariam Hashmi,Male,32,Faisalabad,Punjab,2025-09-30,Organic,1
+1000,Yasmin Jatoi,Female,44,Faisalabad,Punjab,2025-04-09,Google Ads,0
+1001,Nida Baig,Female,38,Lahore,Punjab,2025-01-29,Facebook Ads,1
+1002,Hamza Sheikh,Other,24,Faisalabad,Punjab,2025-06-19,Direct,1
+1003,Tariq Qureshi,Male,23,Lahore,Punjab,2024-06-30,Organic,1
+1004,Saad Hashmi,Male,29,Multan,Punjab,2024-04-05,Facebook Ads,1
+1005,Saad Malik,Male,36,Quetta,Balochistan,2026-03-04,Facebook Ads,0
+1006,Yasmin Qureshi,Female,18,Lahore,Punjab,2024-02-14,Facebook Ads,1
+1007,Faisal Jatoi,Female,39,Lahore,Punjab,2026-03-19,Referral,0
+1008,Amna Dar,Male,26,Lahore,Punjab,2025-03-11,Facebook Ads,0
+1009,Hamza Siddiqui,Male,24,Lahore,Punjab,2026-05-29,Facebook Ads,0
+1010,Ali Abbasi,Female,20,Lahore,Punjab,2024-09-20,Google Ads,1
+1011,Ayesha Khan,Male,37,Islamabad,Islamabad Capital Territory,2025-08-14,Facebook Ads,1
+1012,Tariq Sheikh,Female,40,Karachi,Sindh,2025-11-01,TikTok Ads,0
+1013,Ayesha Shah,Male,28,Rawalpindi,Punjab,2024-06-07,Organic,0
+1014,Mariam Baig,Female,29,Lahore,Punjab,2025-08-01,Facebook Ads,1
+1015,Asad Hashmi,Female,33,Rawalpindi,Punjab,2026-02-12,Organic,0
+1016,Ayesha Qureshi,Female,41,Rawalpindi,Punjab,2024-07-02,Google Ads,0
+1017,Asad Farooq,Female,33,Lahore,Punjab,2024-11-10,Organic,1
+1018,Sara Mughal,Female,23,Karachi,Sindh,2026-01-23,Facebook Ads,0
+1019,Hamza Sheikh,Female,32,Multan,Punjab,2026-03-12,Organic,0
+1020,Faisal Butt,Female,33,Lahore,Punjab,2026-03-15,TikTok Ads,0
+1021,Omer Farooq,Male,31,Lahore,Punjab,2024-06-13,Facebook Ads,1
+1022,Kiran Khan,Male,37,Lahore,Punjab,2025-04-27,Organic,1
+1023,Nida Qureshi,Female,23,Karachi,Sindh,2024-08-15,Facebook Ads,1
+1024,Asad Ali,Female,24,Karachi,Sindh,2025-02-14,Google Ads,1
+1025,Nida Jatoi,Male,30,Karachi,Sindh,2026-03-03,Facebook Ads,0
+1026,Fatima Cheema,Male,37,Islamabad,Islamabad Capital Territory,2026-05-20,Google Ads,0
+1027,Yasmin Jatoi,Male,34,Rawalpindi,Punjab,2026-03-13,Facebook Ads,0
+1028,Nida Jatoi,Male,38,Islamabad,Islamabad Capital Territory,2025-09-21,Facebook Ads,0
+1029,Fatima Ahmed,Male,31,Karachi,Sindh,2024-06-10,Facebook Ads,0
+1030,Ali Siddiqui,Female,34,Karachi,Sindh,2025-11-16,TikTok Ads,0
+1031,Kiran Dar,Male,33,Karachi,Sindh,2026-01-24,TikTok Ads,0
+1032,Faisal Ali,Female,19,Rawalpindi,Punjab,2026-01-13,Organic,0
+1033,Hassan Baig,Female,24,Karachi,Sindh,2024-08-19,TikTok Ads,1
+1034,Nida Raza,Female,34,Lahore,Punjab,2025-08-11,Google Ads,0
+1035,Muhammad Siddiqui,Male,32,Karachi,Sindh,2025-07-26,TikTok Ads,0
+1036,Ali Jatoi,Male,18,Karachi,Sindh,2026-04-02,Direct,0
+1037,Tariq Siddiqui,Female,27,Multan,Punjab,2025-12-11,Referral,0
+1038,Zahra Dar,Male,35,Rawalpindi,Punjab,2026-02-14,Organic,1
+1039,Omer Gill,Male,33,Karachi,Sindh,2025-05-08,Facebook Ads,1
+1040,Zain Siddiqui,Male,18,Gujranwala,Punjab,2025-11-24,Facebook Ads,0
+1041,Faisal Iqbal,Female,36,Faisalabad,Punjab,2024-12-27,Referral,1
+1042,Tariq Farooq,Other,34,Karachi,Sindh,2026-05-02,Facebook Ads,0
+1043,Bilal Iqbal,Female,21,Karachi,Sindh,2025-11-20,Google Ads,0
+1044,Hina Shah,Male,28,Rawalpindi,Punjab,2025-05-02,TikTok Ads,0
+1045,Omer Mughal,Female,38,Karachi,Sindh,2024-07-06,Facebook Ads,0
+1046,Hina Raza,Male,19,Rawalpindi,Punjab,2024-08-28,TikTok Ads,1
+1047,Hina Iqbal,Male,33,Lahore,Punjab,2024-08-22,TikTok Ads,1
+1048,Ayesha Iqbal,Female,38,Faisalabad,Punjab,2024-06-08,TikTok Ads,0
+1049,Amna Sheikh,Male,31,Rawalpindi,Punjab,2025-11-23,Google Ads,0
+1050,Yasmin Cheema,Male,30,Islamabad,Islamabad Capital Territory,2026-05-18,Google Ads,0
+1051,Saad Mughal,Female,33,Peshawar,KPK,2025-08-11,Direct,1
+1052,Bilal Cheema,Female,18,Karachi,Sindh,2025-02-11,Google Ads,1
+1053,Sana Baig,Female,35,Lahore,Punjab,2025-05-04,Facebook Ads,0
+1054,Hassan Ahmed,Female,37,Lahore,Punjab,2026-05-31,TikTok Ads,0
+1055,Yasmin Butt,Male,21,Peshawar,KPK,2025-12-16,Facebook Ads,0
+1056,Tariq Gill,Male,41,Lahore,Punjab,2024-01-13,TikTok Ads,1
+1057,Yasmin Raza,Male,38,Karachi,Sindh,2024-11-29,Facebook Ads,1
+1058,Asad Hashmi,Male,40,Lahore,Punjab,2025-07-15,TikTok Ads,0
+1059,Bilal Iqbal,Female,34,Lahore,Punjab,2025-01-09,TikTok Ads,1
+1060,Fatima Cheema,Female,22,Faisalabad,Punjab,2025-12-18,Facebook Ads,1
+1061,Amna Mughal,Female,42,Faisalabad,Punjab,2024-10-13,Organic,1
+1062,Zahra Butt,Male,36,Quetta,Balochistan,2026-04-13,Google Ads,0
+1063,Zain Siddiqui,Female,18,Karachi,Sindh,2026-05-26,TikTok Ads,0
+1064,Kiran Raza,Male,27,Karachi,Sindh,2025-04-29,Direct,1
+1065,Muhammad Butt,Male,44,Lahore,Punjab,2026-05-19,Facebook Ads,0
+1066,Raza Jatoi,Female,42,Karachi,Sindh,2026-03-15,Google Ads,0
+1067,Saad Abbasi,Male,31,Multan,Punjab,2025-02-11,Direct,0
+1068,Zain Butt,Female,23,Islamabad,Islamabad Capital Territory,2025-05-02,Facebook Ads,1
+1069,Raza Sheikh,Female,35,Karachi,Sindh,2024-09-23,Organic,1
+1070,Asad Mughal,Female,23,Gujranwala,Punjab,2024-12-18,Facebook Ads,1
+1071,Muhammad Qureshi,Male,32,Quetta,Balochistan,2025-08-13,Google Ads,0
+1072,Sara Farooq,Female,36,Faisalabad,Punjab,2024-12-29,Facebook Ads,1
+1073,Omer Jatoi,Female,25,Quetta,Balochistan,2024-03-21,Organic,1
+1074,Kiran Hashmi,Male,28,Faisalabad,Punjab,2024-06-20,Direct,1
+1075,Raza Shah,Female,28,Karachi,Sindh,2026-05-19,Facebook Ads,0
+1076,Ali Ali,Male,24,Karachi,Sindh,2024-11-17,Google Ads,0
+1077,Omer Abbasi,Female,26,Karachi,Sindh,2024-10-04,Facebook Ads,0
+1078,Zahra Mughal,Female,27,Quetta,Balochistan,2025-02-27,Organic,0
+1079,Fatima Butt,Male,29,Karachi,Sindh,2026-01-15,Organic,0
+1080,Sana Siddiqui,Male,33,Karachi,Sindh,2024-08-03,Facebook Ads,1
+1081,Fatima Dar,Male,26,Karachi,Sindh,2025-04-29,Google Ads,0
+1082,Hassan Ahmed,Other,27,Islamabad,Islamabad Capital Territory,2025-02-10,Facebook Ads,0
+1083,Tariq Ali,Male,34,Karachi,Sindh,2024-03-27,Facebook Ads,0
+1084,Raza Dar,Male,25,Faisalabad,Punjab,2026-01-25,Facebook Ads,0
+1085,Usman Gill,Male,29,Karachi,Sindh,2025-06-23,TikTok Ads,0
+1086,Fatima Khan,Other,23,Rawalpindi,Punjab,2024-12-31,Facebook Ads,0
+1087,Omer Cheema,Female,31,Karachi,Sindh,2025-07-15,TikTok Ads,0
+1088,Zahra Malik,Male,51,Karachi,Sindh,2025-08-28,Google Ads,0
+1089,Nida Gill,Female,29,Karachi,Sindh,2025-06-20,Organic,0
+1090,Raza Farooq,Female,23,Karachi,Sindh,2025-05-08,Google Ads,1
+1091,Hassan Iqbal,Female,43,Lahore,Punjab,2024-11-11,TikTok Ads,0
+1092,Asad Qureshi,Female,27,Rawalpindi,Punjab,2024-01-11,Direct,0
+1093,Muhammad Jatoi,Male,33,Faisalabad,Punjab,2024-12-18,Referral,0
+1094,Usman Cheema,Female,18,Multan,Punjab,2026-02-12,Google Ads,0
+1095,Saad Abbasi,Other,29,Islamabad,Islamabad Capital Territory,2025-03-16,Google Ads,1
+1096,Usman Hashmi,Male,18,Lahore,Punjab,2025-07-15,Organic,0
+1097,Asad Raza,Female,37,Lahore,Punjab,2025-02-08,Facebook Ads,1
+1098,Sana Butt,Female,27,Lahore,Punjab,2026-04-28,Organic,0
+1099,Kiran Iqbal,Female,28,Peshawar,KPK,2025-10-02,Facebook Ads,1
+1100,Sana Jatoi,Female,27,Lahore,Punjab,2024-10-18,TikTok Ads,1
+1101,Raza Farooq,Female,47,Karachi,Sindh,2024-07-11,TikTok Ads,0
+1102,Ali Butt,Male,28,Lahore,Punjab,2025-10-14,TikTok Ads,0
+1103,Zahra Hashmi,Female,31,Karachi,Sindh,2024-07-11,Facebook Ads,1
+1104,Omer Khan,Male,21,Karachi,Sindh,2024-07-09,Facebook Ads,0
+1105,Zain Abbasi,Female,25,Peshawar,KPK,2026-01-14,Referral,0
+1106,Muhammad Iqbal,Male,36,Lahore,Punjab,2025-05-20,Facebook Ads,1
+1107,Ayesha Shah,Female,39,Lahore,Punjab,2025-01-15,Facebook Ads,0
+1108,Zahra Ahmed,Male,25,Lahore,Punjab,2024-02-27,Organic,0
+1109,Bilal Dar,Female,25,Islamabad,Islamabad Capital Territory,2024-07-04,Facebook Ads,0
+1110,Ayesha Siddiqui,Male,33,Karachi,Sindh,2024-05-04,Direct,1
+1111,Amna Iqbal,Female,23,Karachi,Sindh,2024-09-10,Direct,0
+1112,Hina Ahmed,Male,22,Rawalpindi,Punjab,2025-06-17,TikTok Ads,1
+1113,Yasmin Raza,Female,24,Lahore,Punjab,2024-11-26,Google Ads,1
+1114,Fatima Ahmed,Male,33,Karachi,Sindh,2024-09-16,Google Ads,0
+1115,Saad Abbasi,Male,22,Karachi,Sindh,2025-11-13,Direct,0
+1116,Ayesha Sheikh,Female,24,Lahore,Punjab,2024-11-28,Google Ads,1
+1117,Muhammad Butt,Male,25,Lahore,Punjab,2025-02-09,Google Ads,0
+1118,Sana Khan,Female,33,Lahore,Punjab,2025-12-05,Referral,0
+1119,Nida Malik,Male,25,Rawalpindi,Punjab,2024-09-11,Facebook Ads,0
+1120,Fatima Cheema,Female,41,Karachi,Sindh,2026-02-16,Facebook Ads,1
+1121,Raza Ahmed,Male,31,Lahore,Punjab,2025-12-19,Direct,0
+1122,Hassan Sheikh,Male,18,Lahore,Punjab,2024-11-20,Google Ads,0
+1123,Hassan Mughal,Female,18,Faisalabad,Punjab,2026-01-20,Facebook Ads,0
+1124,Ayesha Khan,Female,43,Karachi,Sindh,2026-01-11,Google Ads,0
+1125,Hamza Siddiqui,Female,25,Lahore,Punjab,2025-12-24,Facebook Ads,0
+1126,Zahra Farooq,Female,32,Karachi,Sindh,2024-07-13,Google Ads,1
+1127,Sara Butt,Female,26,Rawalpindi,Punjab,2026-01-19,Facebook Ads,0
+1128,Zahra Siddiqui,Male,40,Rawalpindi,Punjab,2024-03-11,Facebook Ads,1
+1129,Tariq Malik,Female,35,Peshawar,KPK,2025-07-08,Google Ads,0
+1130,Asad Gill,Other,44,Karachi,Sindh,2025-10-15,Facebook Ads,0
+1131,Tariq Dar,Male,30,Rawalpindi,Punjab,2025-09-26,Facebook Ads,0
+1132,Asad Hashmi,Male,40,Karachi,Sindh,2025-11-05,Facebook Ads,1
+1133,Hassan Dar,Female,30,Peshawar,KPK,2026-02-23,Facebook Ads,1
+1134,Hassan Malik,Female,32,Lahore,Punjab,2025-02-23,TikTok Ads,0
+1135,Raza Shah,Male,36,Peshawar,KPK,2024-02-14,Direct,1
+1136,Hamza Butt,Male,26,Islamabad,Islamabad Capital Territory,2024-04-19,Facebook Ads,1
+1137,Saad Raza,Female,37,Gujranwala,Punjab,2025-11-04,Facebook Ads,0
+1138,Saad Jatoi,Female,41,Karachi,Sindh,2024-02-20,Facebook Ads,0
+1139,Asad Iqbal,Male,18,Karachi,Sindh,2024-01-14,Organic,1
+1140,Ayesha Cheema,Male,26,Peshawar,KPK,2025-04-24,Facebook Ads,1
+1141,Raza Ahmed,Female,35,Karachi,Sindh,2026-04-21,Facebook Ads,0
+1142,Asad Ahmed,Female,28,Karachi,Sindh,2025-06-25,TikTok Ads,0
+1143,Ahmed Ali,Male,30,Karachi,Sindh,2024-08-09,Google Ads,0
+1144,Tariq Sheikh,Male,18,Islamabad,Islamabad Capital Territory,2025-06-28,Organic,0
+1145,Kiran Raza,Male,33,Multan,Punjab,2025-08-06,Organic,1
+1146,Raza Butt,Female,42,Rawalpindi,Punjab,2026-02-03,Facebook Ads,0
+1147,Zain Baig,Female,22,Lahore,Punjab,2025-12-20,Direct,0
+1148,Yasmin Qureshi,Male,43,Multan,Punjab,2026-03-22,Direct,0
+1149,Fatima Farooq,Female,39,Karachi,Sindh,2025-11-04,Facebook Ads,0
+1150,Fatima Farooq,Female,21,Karachi,Sindh,2024-12-26,Facebook Ads,1
+1151,Omer Farooq,Female,39,Karachi,Sindh,2026-05-15,Organic,0
+1152,Asad Qureshi,Female,27,Lahore,Punjab,2026-04-25,Facebook Ads,0
+1153,Hina Shah,Male,18,Lahore,Punjab,2025-01-19,Google Ads,0
+1154,Amna Farooq,Female,29,Karachi,Sindh,2025-01-03,Facebook Ads,0
+1155,Zahra Gill,Male,37,Karachi,Sindh,2026-01-13,Organic,0
+1156,Ahmed Abbasi,Male,30,Islamabad,Islamabad Capital Territory,2024-11-05,Direct,0
+1157,Muhammad Abbasi,Male,32,Islamabad,Islamabad Capital Territory,2026-05-26,Direct,0
+1158,Omer Khan,Female,40,Lahore,Punjab,2025-07-20,Facebook Ads,1
+1159,Tariq Farooq,Male,29,Lahore,Punjab,2024-04-06,Google Ads,1
+1160,Ahmed Gill,Male,30,Karachi,Sindh,2024-09-28,Referral,1
+1161,Asad Baig,Female,42,Karachi,Sindh,2026-04-10,TikTok Ads,0
+1162,Usman Ali,Male,34,Lahore,Punjab,2026-01-21,Facebook Ads,1
+1163,Ali Shah,Male,32,Karachi,Sindh,2025-05-14,Direct,0
+1164,Faisal Baig,Male,20,Rawalpindi,Punjab,2025-09-01,Referral,0
+1165,Raza Abbasi,Other,18,Karachi,Sindh,2026-04-07,Facebook Ads,0
+1166,Sara Dar,Male,23,Islamabad,Islamabad Capital Territory,2026-02-28,Google Ads,0
+1167,Omer Mughal,Female,34,Karachi,Sindh,2025-03-02,TikTok Ads,1
+1168,Zain Iqbal,Male,19,Lahore,Punjab,2025-10-11,Organic,0
+1169,Amna Dar,Male,29,Lahore,Punjab,2024-11-22,Google Ads,1
+1170,Hassan Baig,Male,40,Rawalpindi,Punjab,2024-06-05,Facebook Ads,0
+1171,Ahmed Dar,Male,18,Faisalabad,Punjab,2024-08-15,Facebook Ads,0
+1172,Mariam Abbasi,Male,18,Lahore,Punjab,2024-05-15,Organic,0
+1173,Omer Ali,Male,26,Lahore,Punjab,2025-07-15,Facebook Ads,0
+1174,Kiran Siddiqui,Female,39,Peshawar,KPK,2026-03-03,Facebook Ads,0
+1175,Faisal Malik,Female,31,Lahore,Punjab,2025-07-26,Facebook Ads,0
+1176,Ayesha Cheema,Male,33,Lahore,Punjab,2025-07-28,Google Ads,0
+1177,Nida Jatoi,Male,33,Quetta,Balochistan,2024-09-29,TikTok Ads,1
+1178,Amna Qureshi,Male,22,Islamabad,Islamabad Capital Territory,2024-04-25,Facebook Ads,1
+1179,Yasmin Qureshi,Female,22,Lahore,Punjab,2024-07-14,Direct,1
+1180,Omer Mughal,Male,28,Islamabad,Islamabad Capital Territory,2026-02-27,Facebook Ads,0
+1181,Usman Butt,Female,35,Lahore,Punjab,2025-09-30,Organic,0
+1182,Hamza Gill,Other,18,Rawalpindi,Punjab,2026-04-17,TikTok Ads,0
+1183,Sana Raza,Male,19,Karachi,Sindh,2026-02-14,Google Ads,0
+1184,Hina Ali,Male,24,Lahore,Punjab,2024-09-05,TikTok Ads,1
+1185,Nida Malik,Female,25,Lahore,Punjab,2024-01-15,Facebook Ads,1
+1186,Omer Sheikh,Female,31,Karachi,Sindh,2024-01-24,Organic,0
+1187,Omer Raza,Male,29,Karachi,Sindh,2024-07-27,Direct,0
+1188,Hassan Jatoi,Female,25,Lahore,Punjab,2025-09-29,Facebook Ads,0
+1189,Hina Malik,Male,44,Peshawar,KPK,2025-01-20,Facebook Ads,0
+1190,Sara Jatoi,Other,30,Multan,Punjab,2024-06-23,Direct,1
+1191,Ahmed Abbasi,Female,31,Lahore,Punjab,2024-02-24,Google Ads,1
+1192,Zahra Khan,Female,35,Rawalpindi,Punjab,2025-11-09,Google Ads,0
+1193,Yasmin Mughal,Male,24,Islamabad,Islamabad Capital Territory,2024-10-26,Organic,1
+1194,Raza Dar,Female,44,Karachi,Sindh,2025-06-04,Organic,1
+1195,Faisal Sheikh,Female,39,Lahore,Punjab,2025-09-03,Google Ads,1
+1196,Hassan Ali,Female,31,Multan,Punjab,2025-07-28,Facebook Ads,0
+1197,Faisal Khan,Other,29,Lahore,Punjab,2025-06-26,Facebook Ads,1
+1198,Usman Shah,Male,39,Lahore,Punjab,2024-01-19,Facebook Ads,0
+1199,Asad Mughal,Female,29,Islamabad,Islamabad Capital Territory,2024-08-29,Facebook Ads,1
+1200,Tariq Siddiqui,Female,33,Islamabad,Islamabad Capital Territory,2025-01-31,Organic,0
+1201,Muhammad Farooq,Male,28,Rawalpindi,Punjab,2024-06-04,Facebook Ads,0
+1202,Omer Dar,Male,34,Gujranwala,Punjab,2026-01-17,Facebook Ads,1
+1203,Kiran Jatoi,Male,43,Islamabad,Islamabad Capital Territory,2025-03-03,Facebook Ads,1
+1204,Sana Baig,Female,38,Peshawar,KPK,2025-09-11,Facebook Ads,0
+1205,Omer Gill,Male,19,Karachi,Sindh,2025-10-30,Google Ads,1
+1206,Hamza Baig,Male,34,Lahore,Punjab,2024-05-21,Facebook Ads,1
+1207,Usman Jatoi,Female,27,Rawalpindi,Punjab,2026-02-27,Direct,0
+1208,Hamza Baig,Female,20,Karachi,Sindh,2024-03-10,Google Ads,1
+1209,Hassan Farooq,Male,38,Karachi,Sindh,2024-07-07,Facebook Ads,0
+1210,Omer Malik,Female,43,Karachi,Sindh,2025-02-27,Organic,1
+1211,Mariam Abbasi,Female,33,Peshawar,KPK,2024-06-04,Google Ads,0
+1212,Amna Raza,Male,27,Karachi,Sindh,2024-01-27,Facebook Ads,0
+1213,Amna Hashmi,Male,18,Karachi,Sindh,2025-09-02,TikTok Ads,1
+1214,Sana Iqbal,Female,40,Karachi,Sindh,2024-03-22,Organic,1
+1215,Faisal Cheema,Female,29,Lahore,Punjab,2025-12-30,Google Ads,0
+1216,Raza Mughal,Female,29,Quetta,Balochistan,2025-05-18,Google Ads,0
+1217,Saad Malik,Male,37,Karachi,Sindh,2024-02-03,Direct,1
+1218,Mariam Khan,Female,21,Lahore,Punjab,2024-08-15,Google Ads,1
+1219,Hina Raza,Male,29,Faisalabad,Punjab,2024-06-30,Organic,1
+1220,Zahra Hashmi,Female,25,Karachi,Sindh,2025-04-13,Facebook Ads,1
+1221,Sana Qureshi,Male,29,Karachi,Sindh,2025-09-14,Direct,1
+1222,Hina Dar,Female,22,Karachi,Sindh,2025-09-18,Facebook Ads,0
+1223,Hina Baig,Male,18,Karachi,Sindh,2025-06-17,Google Ads,1
+1224,Zain Gill,Male,27,Lahore,Punjab,2024-09-08,Facebook Ads,1
+1225,Tariq Farooq,Male,40,Rawalpindi,Punjab,2025-07-25,Facebook Ads,0
+1226,Kiran Jatoi,Male,32,Karachi,Sindh,2024-07-13,Facebook Ads,1
+1227,Usman Gill,Female,20,Islamabad,Islamabad Capital Territory,2026-03-03,Facebook Ads,0
+1228,Usman Gill,Female,18,Karachi,Sindh,2025-09-19,Google Ads,0
+1229,Ahmed Jatoi,Female,22,Lahore,Punjab,2026-04-29,Facebook Ads,0
+1230,Raza Gill,Male,34,Multan,Punjab,2024-07-03,Direct,1
+1231,Amna Baig,Male,21,Lahore,Punjab,2025-02-06,Facebook Ads,0
+1232,Mariam Shah,Male,23,Islamabad,Islamabad Capital Territory,2025-04-09,Organic,1
+1233,Sara Raza,Male,37,Lahore,Punjab,2024-09-13,Facebook Ads,0
+1234,Omer Butt,Male,34,Islamabad,Islamabad Capital Territory,2024-04-03,Google Ads,1
+1235,Zain Gill,Male,20,Karachi,Sindh,2025-06-20,Referral,0
+1236,Faisal Dar,Male,37,Karachi,Sindh,2025-01-22,Referral,1
+1237,Hassan Dar,Other,37,Faisalabad,Punjab,2024-06-23,Facebook Ads,1
+1238,Omer Baig,Male,44,Lahore,Punjab,2024-06-15,TikTok Ads,0
+1239,Hamza Butt,Male,18,Karachi,Sindh,2025-03-05,TikTok Ads,0
+1240,Usman Abbasi,Female,18,Faisalabad,Punjab,2024-10-22,Facebook Ads,1
+1241,Raza Butt,Male,31,Rawalpindi,Punjab,2024-07-26,TikTok Ads,1
+1242,Muhammad Hashmi,Male,33,Rawalpindi,Punjab,2025-04-14,Facebook Ads,1
+1243,Saad Cheema,Male,22,Rawalpindi,Punjab,2025-09-14,Facebook Ads,1
+1244,Saad Iqbal,Female,24,Faisalabad,Punjab,2025-04-09,Facebook Ads,0
+1245,Mariam Gill,Male,37,Karachi,Sindh,2024-09-07,TikTok Ads,0
+1246,Hassan Siddiqui,Male,33,Lahore,Punjab,2024-02-20,TikTok Ads,0
+1247,Fatima Malik,Female,35,Lahore,Punjab,2024-02-07,Facebook Ads,1
+1248,Hamza Ahmed,Female,44,Rawalpindi,Punjab,2024-12-05,Facebook Ads,1
+1249,Ali Ahmed,Male,21,Lahore,Punjab,2024-06-14,Organic,1
+1250,Yasmin Abbasi,Male,36,Karachi,Sindh,2025-04-11,Facebook Ads,1
+1251,Hina Baig,Male,32,Faisalabad,Punjab,2024-04-05,Facebook Ads,1
+1252,Amna Abbasi,Female,22,Islamabad,Islamabad Capital Territory,2026-04-19,Facebook Ads,0
+1253,Ali Qureshi,Male,36,Karachi,Sindh,2024-10-26,Google Ads,0
+1254,Saad Malik,Female,29,Karachi,Sindh,2024-12-03,Facebook Ads,1
+1255,Tariq Qureshi,Male,21,Lahore,Punjab,2025-09-18,Facebook Ads,0
+1256,Ahmed Sheikh,Male,45,Karachi,Sindh,2025-05-10,TikTok Ads,1
+1257,Hina Hashmi,Female,31,Lahore,Punjab,2025-03-13,Google Ads,0
+1258,Nida Shah,Female,37,Karachi,Sindh,2024-05-12,Facebook Ads,1
+1259,Nida Baig,Female,18,Multan,Punjab,2025-05-19,Google Ads,1
+1260,Fatima Hashmi,Female,38,Karachi,Sindh,2024-07-17,Organic,1
+1261,Muhammad Sheikh,Other,31,Islamabad,Islamabad Capital Territory,2025-10-02,Direct,0
+1262,Zain Raza,Female,18,Rawalpindi,Punjab,2025-02-27,TikTok Ads,0
+1263,Ahmed Shah,Male,32,Karachi,Sindh,2024-01-12,Facebook Ads,1
+1264,Raza Raza,Female,31,Karachi,Sindh,2026-03-20,Facebook Ads,0
+1265,Ali Abbasi,Female,39,Lahore,Punjab,2026-02-24,Facebook Ads,0
+1266,Muhammad Sheikh,Female,41,Islamabad,Islamabad Capital Territory,2025-02-09,Facebook Ads,1
+1267,Hina Baig,Male,35,Karachi,Sindh,2026-05-02,Facebook Ads,0
+1268,Fatima Raza,Female,45,Karachi,Sindh,2025-11-19,Organic,1
+1269,Saad Cheema,Male,31,Karachi,Sindh,2025-05-08,Google Ads,1
+1270,Hamza Gill,Female,35,Islamabad,Islamabad Capital Territory,2025-04-18,Organic,0
+1271,Mariam Ahmed,Female,22,Karachi,Sindh,2025-08-01,Facebook Ads,0
+1272,Hina Shah,Male,40,Lahore,Punjab,2024-08-01,Direct,0
+1273,Sara Shah,Female,30,Lahore,Punjab,2024-03-08,Facebook Ads,1
+1274,Hamza Siddiqui,Female,34,Lahore,Punjab,2025-01-19,Google Ads,0
+1275,Raza Farooq,Female,18,Karachi,Sindh,2024-07-10,Facebook Ads,1
+1276,Nida Sheikh,Female,42,Karachi,Sindh,2025-12-23,Facebook Ads,0
+1277,Omer Ahmed,Male,41,Faisalabad,Punjab,2025-05-23,Referral,0
+1278,Sana Mughal,Female,18,Lahore,Punjab,2024-08-09,Organic,0
+1279,Tariq Abbasi,Female,20,Lahore,Punjab,2026-03-14,TikTok Ads,0
+1280,Ahmed Raza,Female,21,Islamabad,Islamabad Capital Territory,2025-06-02,Facebook Ads,0
+1281,Muhammad Cheema,Male,32,Karachi,Sindh,2024-07-13,TikTok Ads,1
+1282,Omer Cheema,Female,22,Islamabad,Islamabad Capital Territory,2026-03-05,Organic,0
+1283,Omer Malik,Male,34,Lahore,Punjab,2026-04-21,Organic,0
+1284,Tariq Malik,Male,32,Lahore,Punjab,2025-04-15,Facebook Ads,0
+1285,Kiran Jatoi,Female,46,Faisalabad,Punjab,2024-02-15,Facebook Ads,0
+1286,Yasmin Hashmi,Female,21,Karachi,Sindh,2025-04-23,Referral,0
+1287,Ahmed Sheikh,Female,29,Lahore,Punjab,2024-01-24,Google Ads,0
+1288,Sara Abbasi,Male,22,Karachi,Sindh,2024-11-24,Facebook Ads,0
+1289,Ayesha Raza,Female,31,Lahore,Punjab,2026-03-02,Facebook Ads,0
+1290,Zahra Sheikh,Male,22,Lahore,Punjab,2024-10-07,Organic,0
+1291,Zain Khan,Male,29,Islamabad,Islamabad Capital Territory,2024-07-30,Facebook Ads,1
+1292,Hassan Mughal,Female,25,Karachi,Sindh,2024-05-24,TikTok Ads,0
+1293,Faisal Abbasi,Male,42,Lahore,Punjab,2024-03-13,TikTok Ads,1
+1294,Usman Hashmi,Female,34,Lahore,Punjab,2024-02-21,Facebook Ads,0
+1295,Hamza Khan,Male,34,Lahore,Punjab,2024-04-18,Direct,0
+1296,Kiran Ahmed,Female,44,Karachi,Sindh,2024-07-02,Facebook Ads,0
+1297,Faisal Hashmi,Female,21,Islamabad,Islamabad Capital Territory,2025-09-23,Google Ads,0
+1298,Asad Abbasi,Male,39,Rawalpindi,Punjab,2025-12-31,Google Ads,1
+1299,Amna Farooq,Female,35,Karachi,Sindh,2025-08-04,Facebook Ads,1
+1300,Hamza Ali,Female,28,Lahore,Punjab,2024-04-09,Referral,1
+1301,Zahra Abbasi,Female,25,Karachi,Sindh,2025-04-26,Google Ads,0
+1302,Sana Iqbal,Female,28,Karachi,Sindh,2025-01-07,TikTok Ads,1
+1303,Kiran Butt,Female,20,Karachi,Sindh,2026-03-18,Direct,0
+1304,Omer Gill,Male,18,Lahore,Punjab,2025-05-01,Google Ads,0
+1305,Zain Mughal,Male,24,Lahore,Punjab,2024-10-16,Facebook Ads,0
+1306,Amna Mughal,Male,45,Rawalpindi,Punjab,2025-06-04,Direct,0
+1307,Zain Dar,Male,33,Karachi,Sindh,2024-11-29,Google Ads,1
+1308,Hassan Ali,Female,31,Lahore,Punjab,2025-02-14,TikTok Ads,1
+1309,Sara Qureshi,Male,18,Karachi,Sindh,2025-07-15,Google Ads,0
+1310,Fatima Cheema,Female,21,Karachi,Sindh,2024-08-01,Organic,1
+1311,Faisal Baig,Female,47,Faisalabad,Punjab,2025-08-03,TikTok Ads,1
+1312,Omer Farooq,Male,39,Karachi,Sindh,2025-11-09,Organic,0
+1313,Yasmin Ali,Female,23,Lahore,Punjab,2024-04-27,Direct,0
+1314,Sara Hashmi,Male,30,Lahore,Punjab,2026-04-21,Facebook Ads,0
+1315,Zahra Butt,Female,29,Lahore,Punjab,2024-03-12,TikTok Ads,1
+1316,Nida Sheikh,Female,29,Karachi,Sindh,2024-12-01,Direct,0
+1317,Saad Ahmed,Male,34,Rawalpindi,Punjab,2025-08-17,Facebook Ads,0
+1318,Amna Khan,Male,41,Lahore,Punjab,2025-04-08,TikTok Ads,0
+1319,Hassan Abbasi,Female,33,Karachi,Sindh,2024-07-19,Direct,0
+1320,Ayesha Shah,Female,34,Karachi,Sindh,2025-03-21,Direct,0
+1321,Faisal Mughal,Male,33,Lahore,Punjab,2025-09-18,Direct,0
+1322,Tariq Dar,Female,18,Islamabad,Islamabad Capital Territory,2024-03-04,Google Ads,1
+1323,Asad Farooq,Male,24,Lahore,Punjab,2025-12-21,TikTok Ads,1
+1324,Hassan Mughal,Female,26,Lahore,Punjab,2024-02-01,Facebook Ads,1
+1325,Sana Qureshi,Female,36,Lahore,Punjab,2025-10-02,Facebook Ads,0
+1326,Omer Dar,Female,31,Lahore,Punjab,2025-07-12,Facebook Ads,0
+1327,Ayesha Butt,Male,33,Lahore,Punjab,2025-07-22,Google Ads,0
+1328,Kiran Mughal,Male,33,Rawalpindi,Punjab,2024-10-22,TikTok Ads,1
+1329,Yasmin Malik,Male,33,Rawalpindi,Punjab,2025-10-25,TikTok Ads,0
+1330,Muhammad Malik,Female,38,Lahore,Punjab,2025-11-04,Referral,1
+1331,Mariam Malik,Female,48,Karachi,Sindh,2026-05-30,TikTok Ads,0
+1332,Zahra Hashmi,Male,37,Lahore,Punjab,2025-04-10,Facebook Ads,1
+1333,Tariq Qureshi,Female,31,Rawalpindi,Punjab,2025-01-28,Google Ads,1
+1334,Asad Iqbal,Male,25,Karachi,Sindh,2025-08-14,TikTok Ads,0
+1335,Saad Iqbal,Female,29,Karachi,Sindh,2025-02-24,Facebook Ads,1
+1336,Hassan Baig,Male,23,Karachi,Sindh,2025-08-04,Google Ads,0
+1337,Saad Mughal,Female,28,Lahore,Punjab,2025-12-08,Google Ads,0
+1338,Ali Malik,Female,25,Lahore,Punjab,2025-04-21,Organic,0
+1339,Tariq Ali,Male,30,Karachi,Sindh,2024-09-08,Facebook Ads,1
+1340,Saad Ali,Female,20,Lahore,Punjab,2025-09-19,TikTok Ads,0
+1341,Ahmed Shah,Male,31,Peshawar,KPK,2025-04-25,Facebook Ads,1
+1342,Zahra Jatoi,Female,38,Karachi,Sindh,2025-03-07,Facebook Ads,0
+1343,Asad Abbasi,Male,31,Lahore,Punjab,2025-12-12,Facebook Ads,1
+1344,Nida Abbasi,Female,19,Peshawar,KPK,2024-03-03,Organic,1
+1345,Raza Cheema,Male,26,Karachi,Sindh,2025-11-03,Facebook Ads,0
+1346,Usman Hashmi,Other,28,Karachi,Sindh,2025-05-11,Google Ads,0
+1347,Ali Malik,Female,24,Sialkot,Punjab,2024-09-15,TikTok Ads,0
+1348,Hamza Hashmi,Female,19,Peshawar,KPK,2024-01-15,Facebook Ads,1
+1349,Hina Sheikh,Male,37,Karachi,Sindh,2025-11-05,Facebook Ads,0
+1350,Zahra Mughal,Female,18,Islamabad,Islamabad Capital Territory,2026-03-12,TikTok Ads,0
+1351,Faisal Iqbal,Male,27,Lahore,Punjab,2024-12-17,Facebook Ads,0
+1352,Ali Malik,Male,18,Karachi,Sindh,2026-05-07,Facebook Ads,0
+1353,Saad Qureshi,Male,42,Karachi,Sindh,2025-11-07,Google Ads,1
+1354,Zahra Butt,Female,35,Karachi,Sindh,2024-02-25,Facebook Ads,0
+1355,Raza Siddiqui,Male,33,Islamabad,Islamabad Capital Territory,2024-02-23,Google Ads,0
+1356,Fatima Gill,Female,25,Lahore,Punjab,2025-05-02,Direct,1
+1357,Hina Farooq,Female,28,Karachi,Sindh,2025-04-30,Organic,1
+1358,Bilal Malik,Female,27,Gujranwala,Punjab,2024-01-13,Facebook Ads,0
+1359,Usman Gill,Female,30,Karachi,Sindh,2025-06-26,Google Ads,0
+1360,Yasmin Ahmed,Female,30,Lahore,Punjab,2026-05-14,Referral,0
+1361,Mariam Hashmi,Female,34,Karachi,Sindh,2024-12-09,Organic,1
+1362,Bilal Siddiqui,Female,25,Lahore,Punjab,2025-11-01,TikTok Ads,0
+1363,Sara Dar,Male,33,Faisalabad,Punjab,2026-01-21,Facebook Ads,0
+1364,Yasmin Baig,Female,33,Islamabad,Islamabad Capital Territory,2025-11-24,Facebook Ads,0
+1365,Faisal Butt,Male,40,Lahore,Punjab,2025-11-19,Google Ads,0
+1366,Muhammad Ali,Other,18,Gujranwala,Punjab,2024-04-10,Facebook Ads,1
+1367,Tariq Sheikh,Female,22,Karachi,Sindh,2024-08-12,Facebook Ads,1
+1368,Hina Abbasi,Male,43,Peshawar,KPK,2024-01-25,Direct,1
+1369,Nida Ali,Male,25,Islamabad,Islamabad Capital Territory,2025-09-05,Google Ads,0
+1370,Raza Sheikh,Male,20,Lahore,Punjab,2024-03-29,Google Ads,0
+1371,Nida Malik,Male,41,Karachi,Sindh,2024-04-23,Google Ads,1
+1372,Faisal Butt,Female,44,Lahore,Punjab,2025-11-07,TikTok Ads,1
+1373,Ali Gill,Female,35,Karachi,Sindh,2026-02-26,Google Ads,0
+1374,Mariam Shah,Male,23,Rawalpindi,Punjab,2024-10-10,TikTok Ads,1
+1375,Amna Ahmed,Female,37,Lahore,Punjab,2024-03-02,Organic,0
+1376,Bilal Siddiqui,Male,21,Islamabad,Islamabad Capital Territory,2025-05-18,TikTok Ads,0
+1377,Ayesha Hashmi,Female,21,Karachi,Sindh,2024-04-21,Google Ads,0
+1378,Hamza Farooq,Male,29,Lahore,Punjab,2025-09-20,Google Ads,0
+1379,Raza Sheikh,Female,18,Islamabad,Islamabad Capital Territory,2024-04-15,Facebook Ads,1
+1380,Ahmed Ali,Female,29,Lahore,Punjab,2026-03-06,Direct,0
+1381,Zahra Khan,Male,29,Karachi,Sindh,2025-10-30,TikTok Ads,1
+1382,Raza Khan,Female,19,Lahore,Punjab,2024-09-29,Google Ads,1
+1383,Hamza Shah,Male,37,Karachi,Sindh,2025-06-11,Facebook Ads,1
+1384,Faisal Cheema,Female,30,Faisalabad,Punjab,2026-05-14,TikTok Ads,0
+1385,Hina Ali,Male,31,Rawalpindi,Punjab,2025-01-28,Google Ads,0
+1386,Faisal Cheema,Female,37,Islamabad,Islamabad Capital Territory,2024-12-07,Direct,1
+1387,Yasmin Abbasi,Male,19,Karachi,Sindh,2025-01-09,Facebook Ads,1
+1388,Hassan Shah,Female,32,Karachi,Sindh,2026-02-17,Facebook Ads,0
+1389,Amna Abbasi,Male,46,Lahore,Punjab,2025-07-21,TikTok Ads,0
+1390,Ahmed Dar,Female,40,Karachi,Sindh,2025-12-13,Facebook Ads,0
+1391,Kiran Sheikh,Female,30,Karachi,Sindh,2025-05-13,Facebook Ads,1
+1392,Ali Gill,Male,19,Lahore,Punjab,2024-02-06,Organic,0
+1393,Ayesha Khan,Male,38,Peshawar,KPK,2025-05-15,Facebook Ads,1
+1394,Kiran Ali,Female,34,Karachi,Sindh,2025-05-26,Direct,1
+1395,Hassan Gill,Male,48,Islamabad,Islamabad Capital Territory,2024-02-07,TikTok Ads,0
+1396,Omer Ahmed,Male,18,Peshawar,KPK,2025-02-19,Referral,0
+1397,Zain Raza,Female,22,Faisalabad,Punjab,2025-11-25,Facebook Ads,1
+1398,Hassan Malik,Male,38,Karachi,Sindh,2024-03-14,Direct,0
+1399,Ahmed Malik,Male,23,Karachi,Sindh,2025-04-27,Direct,0
+1400,Nida Ahmed,Male,24,Lahore,Punjab,2024-01-15,TikTok Ads,0
+1401,Fatima Ahmed,Male,36,Rawalpindi,Punjab,2025-04-12,Facebook Ads,1
+1402,Nida Butt,Male,23,Lahore,Punjab,2026-04-17,Facebook Ads,0
+1403,Zain Sheikh,Male,30,Peshawar,KPK,2024-03-05,Facebook Ads,1
+1404,Ayesha Qureshi,Female,30,Rawalpindi,Punjab,2024-11-28,Organic,1
+1405,Zain Baig,Female,22,Islamabad,Islamabad Capital Territory,2026-05-06,Organic,0
+1406,Ayesha Ahmed,Female,27,Lahore,Punjab,2024-03-05,Facebook Ads,0
+1407,Zain Siddiqui,Female,18,Lahore,Punjab,2024-06-21,TikTok Ads,1
+1408,Faisal Mughal,Female,30,Islamabad,Islamabad Capital Territory,2024-09-06,Facebook Ads,1
+1409,Sara Ahmed,Female,18,Karachi,Sindh,2026-03-07,Organic,0
+1410,Fatima Khan,Male,24,Multan,Punjab,2024-01-07,Google Ads,1
+1411,Muhammad Butt,Female,33,Faisalabad,Punjab,2025-03-02,Facebook Ads,1
+1412,Faisal Cheema,Male,32,Peshawar,KPK,2024-05-26,Google Ads,1
+1413,Raza Siddiqui,Female,26,Lahore,Punjab,2024-09-01,Facebook Ads,1
+1414,Fatima Hashmi,Male,28,Karachi,Sindh,2026-01-04,Facebook Ads,0
+1415,Saad Hashmi,Female,32,Karachi,Sindh,2024-12-22,Direct,1
+1416,Mariam Khan,Male,31,Faisalabad,Punjab,2024-04-30,Organic,1
+1417,Tariq Sheikh,Male,33,Peshawar,KPK,2025-04-20,TikTok Ads,0
+1418,Amna Raza,Male,23,Karachi,Sindh,2024-04-25,Google Ads,1
+1419,Hamza Cheema,Male,31,Karachi,Sindh,2025-11-17,Facebook Ads,0
+1420,Ahmed Ahmed,Female,47,Rawalpindi,Punjab,2024-08-02,Direct,0
+1421,Mariam Siddiqui,Female,39,Rawalpindi,Punjab,2024-02-14,Organic,1
+1422,Zain Ahmed,Male,19,Peshawar,KPK,2024-06-10,Facebook Ads,1
+1423,Muhammad Cheema,Male,38,Islamabad,Islamabad Capital Territory,2024-08-28,Facebook Ads,0
+1424,Hina Gill,Female,36,Faisalabad,Punjab,2025-03-05,Facebook Ads,1
+1425,Ayesha Shah,Male,30,Lahore,Punjab,2024-11-29,Organic,1
+1426,Sana Sheikh,Female,28,Lahore,Punjab,2024-07-23,Facebook Ads,1
+1427,Kiran Iqbal,Female,31,Karachi,Sindh,2024-02-25,Organic,0
+1428,Mariam Malik,Female,39,Lahore,Punjab,2024-07-01,TikTok Ads,0
+1429,Kiran Mughal,Male,40,Rawalpindi,Punjab,2025-10-09,Organic,1
+1430,Asad Siddiqui,Male,28,Karachi,Sindh,2024-02-02,Organic,1
+1431,Faisal Baig,Male,39,Lahore,Punjab,2024-04-23,Direct,1
+1432,Zahra Gill,Female,38,Islamabad,Islamabad Capital Territory,2024-08-13,Facebook Ads,0
+1433,Usman Hashmi,Male,37,Karachi,Sindh,2025-08-14,Referral,1
+1434,Hassan Iqbal,Female,28,Islamabad,Islamabad Capital Territory,2024-08-09,TikTok Ads,1
+1435,Sara Cheema,Female,22,Peshawar,KPK,2024-01-15,Facebook Ads,1
+1436,Hina Qureshi,Male,23,Rawalpindi,Punjab,2024-09-10,Google Ads,1
+1437,Omer Qureshi,Male,33,Lahore,Punjab,2025-08-10,Google Ads,0
+1438,Muhammad Qureshi,Male,30,Karachi,Sindh,2025-04-26,Google Ads,1
+1439,Hina Jatoi,Other,38,Lahore,Punjab,2025-06-27,Google Ads,1
+1440,Kiran Cheema,Male,28,Karachi,Sindh,2025-04-08,Referral,1
+1441,Saad Iqbal,Male,28,Islamabad,Islamabad Capital Territory,2025-12-10,TikTok Ads,1
+1442,Hina Qureshi,Male,29,Lahore,Punjab,2025-01-02,Google Ads,1
+1443,Usman Iqbal,Male,25,Rawalpindi,Punjab,2024-01-17,TikTok Ads,0
+1444,Saad Abbasi,Female,34,Lahore,Punjab,2026-05-28,Google Ads,0
+1445,Sara Baig,Other,36,Lahore,Punjab,2025-04-10,Facebook Ads,1
+1446,Zahra Malik,Female,23,Lahore,Punjab,2024-07-08,Referral,1
+1447,Asad Gill,Male,36,Karachi,Sindh,2026-05-31,Facebook Ads,0
+1448,Raza Ali,Female,29,Karachi,Sindh,2025-06-27,Google Ads,1
+1449,Ahmed Abbasi,Female,24,Karachi,Sindh,2025-12-15,Facebook Ads,1
+1450,Nida Farooq,Male,34,Islamabad,Islamabad Capital Territory,2026-03-17,Direct,0
+1451,Yasmin Ali,Female,22,Lahore,Punjab,2026-01-23,Facebook Ads,0
+1452,Ahmed Jatoi,Female,28,Lahore,Punjab,2024-02-22,TikTok Ads,0
+1453,Zain Dar,Male,25,Karachi,Sindh,2025-01-09,Referral,0
+1454,Asad Butt,Male,32,Karachi,Sindh,2025-07-28,Facebook Ads,1
+1455,Faisal Raza,Female,40,Karachi,Sindh,2024-09-01,Google Ads,1
+1456,Hassan Sheikh,Male,26,Islamabad,Islamabad Capital Territory,2026-02-10,Google Ads,0
+1457,Hina Iqbal,Female,32,Lahore,Punjab,2025-05-30,Referral,0
+1458,Yasmin Qureshi,Male,29,Rawalpindi,Punjab,2025-01-16,Facebook Ads,1
+1459,Asad Gill,Male,31,Faisalabad,Punjab,2025-04-26,Facebook Ads,1
+1460,Faisal Farooq,Female,30,Islamabad,Islamabad Capital Territory,2025-04-07,Facebook Ads,1
+1461,Nida Mughal,Male,35,Karachi,Sindh,2024-07-11,Organic,1
+1462,Zahra Ali,Male,25,Karachi,Sindh,2024-10-22,Facebook Ads,0
+1463,Ali Sheikh,Male,23,Karachi,Sindh,2025-12-14,Facebook Ads,0
+1464,Hamza Cheema,Male,23,Lahore,Punjab,2025-06-17,Facebook Ads,1
+1465,Raza Khan,Male,18,Faisalabad,Punjab,2025-04-30,Direct,1
+1466,Asad Qureshi,Male,20,Lahore,Punjab,2024-10-25,Facebook Ads,1
+1467,Ayesha Ali,Other,28,Karachi,Sindh,2026-04-01,Facebook Ads,0
+1468,Sana Jatoi,Female,27,Karachi,Sindh,2025-08-15,Organic,0
+1469,Omer Shah,Female,32,Karachi,Sindh,2025-04-13,Facebook Ads,1
+1470,Usman Baig,Female,22,Multan,Punjab,2024-06-24,Facebook Ads,1
+1471,Bilal Iqbal,Female,31,Karachi,Sindh,2026-02-27,Referral,0
+1472,Ahmed Malik,Female,40,Karachi,Sindh,2024-06-19,Direct,0
+1473,Nida Butt,Female,32,Karachi,Sindh,2024-07-05,Google Ads,1
+1474,Fatima Malik,Male,28,Rawalpindi,Punjab,2024-02-12,Direct,1
+1475,Omer Baig,Female,28,Karachi,Sindh,2025-01-13,Facebook Ads,1
+1476,Fatima Raza,Male,31,Lahore,Punjab,2025-11-12,Google Ads,0
+1477,Omer Mughal,Female,20,Islamabad,Islamabad Capital Territory,2025-07-06,Facebook Ads,1
+1478,Fatima Farooq,Male,31,Karachi,Sindh,2025-02-18,Google Ads,1
+1479,Saad Malik,Female,35,Lahore,Punjab,2024-06-08,Facebook Ads,0
+1480,Muhammad Farooq,Female,36,Lahore,Punjab,2025-10-24,Facebook Ads,1
+1481,Faisal Abbasi,Female,19,Karachi,Sindh,2026-02-11,Facebook Ads,0
+1482,Sara Malik,Female,18,Peshawar,KPK,2024-12-12,Referral,0
+1483,Faisal Sheikh,Male,26,Karachi,Sindh,2024-05-22,Google Ads,1
+1484,Yasmin Farooq,Male,29,Peshawar,KPK,2025-02-15,Facebook Ads,0
+1485,Nida Iqbal,Male,26,Sialkot,Punjab,2024-11-30,Google Ads,1
+1486,Ahmed Hashmi,Male,32,Rawalpindi,Punjab,2026-03-11,Facebook Ads,0
+1487,Amna Siddiqui,Male,20,Karachi,Sindh,2025-07-05,Direct,0
+1488,Zahra Ali,Female,33,Multan,Punjab,2024-07-18,Direct,1
+1489,Saad Shah,Male,39,Karachi,Sindh,2025-11-13,Facebook Ads,1
+1490,Asad Dar,Female,33,Karachi,Sindh,2025-01-13,TikTok Ads,1
+1491,Kiran Mughal,Other,22,Lahore,Punjab,2024-12-19,Organic,1
+1492,Asad Abbasi,Male,26,Lahore,Punjab,2024-08-08,Facebook Ads,0
+1493,Hina Gill,Female,25,Karachi,Sindh,2026-04-02,TikTok Ads,0
+1494,Zahra Abbasi,Female,24,Lahore,Punjab,2026-01-16,TikTok Ads,0
+1495,Mariam Malik,Male,38,Karachi,Sindh,2024-05-27,Google Ads,0
+1496,Ayesha Abbasi,Female,26,Rawalpindi,Punjab,2024-03-08,Facebook Ads,0
+1497,Sara Dar,Female,40,Karachi,Sindh,2025-10-16,TikTok Ads,0
+1498,Bilal Qureshi,Female,21,Karachi,Sindh,2025-12-28,Facebook Ads,0
+1499,Sara Malik,Female,18,Lahore,Punjab,2024-10-23,Facebook Ads,1
+1500,Hassan Cheema,Other,34,Karachi,Sindh,2026-04-26,Facebook Ads,0
+1501,Usman Baig,Female,29,Karachi,Sindh,2024-08-17,Facebook Ads,1
+1502,Muhammad Khan,Female,28,Peshawar,KPK,2025-10-17,Facebook Ads,0
+1503,Raza Cheema,Female,32,Multan,Punjab,2025-03-03,TikTok Ads,0
+1504,Fatima Cheema,Male,43,Lahore,Punjab,2024-01-30,Facebook Ads,1
+1505,Zain Siddiqui,Male,21,Rawalpindi,Punjab,2025-09-05,Facebook Ads,1
+1506,Hina Mughal,Female,18,Peshawar,KPK,2024-09-21,Organic,1
+1507,Raza Cheema,Male,37,Karachi,Sindh,2025-01-17,Facebook Ads,1
+1508,Tariq Baig,Other,31,Lahore,Punjab,2024-09-22,Facebook Ads,0
+1509,Fatima Baig,Female,32,Lahore,Punjab,2025-04-17,Facebook Ads,0
+1510,Faisal Malik,Male,31,Quetta,Balochistan,2024-10-06,Google Ads,0
+1511,Asad Qureshi,Female,18,Multan,Punjab,2024-02-19,TikTok Ads,1
+1512,Usman Abbasi,Male,28,Rawalpindi,Punjab,2025-06-10,Organic,1
+1513,Ayesha Butt,Male,23,Faisalabad,Punjab,2025-07-10,Google Ads,1
+1514,Omer Shah,Female,18,Rawalpindi,Punjab,2024-10-04,Direct,1
+1515,Yasmin Mughal,Female,41,Rawalpindi,Punjab,2026-04-23,Organic,0
+1516,Hamza Khan,Female,35,Lahore,Punjab,2025-01-16,Facebook Ads,1
+1517,Amna Cheema,Male,43,Lahore,Punjab,2024-04-14,Organic,1
+1518,Ayesha Malik,Male,22,Lahore,Punjab,2026-03-25,TikTok Ads,0
+1519,Hassan Hashmi,Male,34,Lahore,Punjab,2025-03-03,Facebook Ads,1
+1520,Zahra Ali,Male,24,Karachi,Sindh,2024-01-18,Organic,0
+1521,Saad Mughal,Female,18,Quetta,Balochistan,2024-05-22,Organic,0
+1522,Zahra Hashmi,Female,29,Peshawar,KPK,2024-06-25,Google Ads,1
+1523,Faisal Abbasi,Other,37,Lahore,Punjab,2026-04-14,Organic,0
+1524,Zain Iqbal,Male,29,Karachi,Sindh,2025-12-05,Google Ads,0
+1525,Sana Abbasi,Male,27,Karachi,Sindh,2024-03-21,Facebook Ads,1
+1526,Mariam Sheikh,Female,27,Quetta,Balochistan,2026-02-14,Facebook Ads,0
+1527,Mariam Ahmed,Male,37,Lahore,Punjab,2026-03-23,Facebook Ads,0
+1528,Yasmin Jatoi,Female,33,Islamabad,Islamabad Capital Territory,2024-05-01,TikTok Ads,0
+1529,Bilal Ahmed,Male,37,Quetta,Balochistan,2026-02-11,TikTok Ads,0
+1530,Zain Sheikh,Male,36,Karachi,Sindh,2025-08-24,TikTok Ads,1
+1531,Ayesha Butt,Male,27,Rawalpindi,Punjab,2024-04-02,TikTok Ads,0
+1532,Hamza Siddiqui,Female,23,Lahore,Punjab,2024-12-26,Google Ads,1
+1533,Fatima Jatoi,Male,26,Faisalabad,Punjab,2025-06-01,Facebook Ads,1
+1534,Sara Ali,Male,37,Rawalpindi,Punjab,2025-06-25,Organic,0
+1535,Ayesha Raza,Male,27,Karachi,Sindh,2026-02-11,Organic,0
+1536,Hassan Khan,Male,19,Lahore,Punjab,2024-08-07,TikTok Ads,1
+1537,Tariq Cheema,Male,25,Karachi,Sindh,2025-03-26,Facebook Ads,1
+1538,Yasmin Sheikh,Female,25,Lahore,Punjab,2025-01-23,Direct,0
+1539,Mariam Raza,Female,24,Peshawar,KPK,2024-04-25,Organic,0
+1540,Amna Shah,Male,45,Peshawar,KPK,2025-06-16,Google Ads,1
+1541,Hamza Cheema,Female,25,Karachi,Sindh,2025-07-24,Google Ads,1
+1542,Hina Ahmed,Female,32,Lahore,Punjab,2024-04-28,TikTok Ads,1
+1543,Kiran Abbasi,Female,26,Lahore,Punjab,2025-12-04,Referral,0
+1544,Zahra Iqbal,Female,21,Islamabad,Islamabad Capital Territory,2026-05-25,Direct,0
+1545,Mariam Raza,Female,34,Karachi,Sindh,2025-11-26,TikTok Ads,0
+1546,Asad Butt,Other,41,Lahore,Punjab,2025-11-21,TikTok Ads,0
+1547,Saad Sheikh,Male,55,Karachi,Sindh,2024-05-02,Google Ads,1
+1548,Hamza Dar,Male,21,Karachi,Sindh,2026-01-29,Organic,0
+1549,Fatima Ali,Male,45,Lahore,Punjab,2024-12-12,Facebook Ads,1
+1550,Ayesha Hashmi,Female,23,Lahore,Punjab,2024-05-05,Facebook Ads,0
+1551,Sana Qureshi,Female,18,Islamabad,Islamabad Capital Territory,2026-02-22,Facebook Ads,0
+1552,Faisal Baig,Female,30,Lahore,Punjab,2024-12-30,Facebook Ads,1
+1553,Saad Hashmi,Female,43,Lahore,Punjab,2025-06-07,Facebook Ads,1
+1554,Bilal Malik,Male,32,Quetta,Balochistan,2024-05-05,Google Ads,1
+1555,Bilal Cheema,Male,19,Lahore,Punjab,2024-01-31,Google Ads,0
+1556,Zain Ahmed,Female,34,Karachi,Sindh,2025-11-25,Facebook Ads,0
+1557,Muhammad Butt,Female,26,Karachi,Sindh,2024-06-05,Google Ads,0
+1558,Usman Hashmi,Male,35,Rawalpindi,Punjab,2025-11-07,Facebook Ads,0
+1559,Amna Jatoi,Female,22,Karachi,Sindh,2024-07-25,Facebook Ads,1
+1560,Usman Cheema,Female,31,Faisalabad,Punjab,2025-07-09,Facebook Ads,1
+1561,Omer Farooq,Male,29,Faisalabad,Punjab,2025-03-16,Facebook Ads,0
+1562,Zain Dar,Female,25,Lahore,Punjab,2025-03-29,Facebook Ads,1
+1563,Zahra Ahmed,Other,47,Lahore,Punjab,2025-07-24,Facebook Ads,1
+1564,Yasmin Abbasi,Male,18,Karachi,Sindh,2025-05-18,Facebook Ads,1
+1565,Mariam Malik,Female,23,Rawalpindi,Punjab,2025-05-14,Referral,1
+1566,Amna Sheikh,Female,27,Quetta,Balochistan,2025-11-06,Direct,1
+1567,Hassan Farooq,Female,42,Karachi,Sindh,2025-07-29,TikTok Ads,1
+1568,Fatima Jatoi,Female,36,Lahore,Punjab,2025-05-21,Google Ads,1
+1569,Sara Dar,Female,23,Karachi,Sindh,2026-02-23,Direct,0
+1570,Usman Shah,Male,37,Karachi,Sindh,2024-05-11,Google Ads,1
+1571,Asad Mughal,Male,31,Lahore,Punjab,2026-02-22,Facebook Ads,0
+1572,Raza Shah,Female,36,Karachi,Sindh,2024-12-19,Direct,0
+1573,Asad Qureshi,Male,35,Karachi,Sindh,2024-09-10,Facebook Ads,0
+1574,Sana Abbasi,Male,52,Quetta,Balochistan,2024-11-08,Google Ads,0
+1575,Zain Shah,Female,24,Islamabad,Islamabad Capital Territory,2024-02-08,Direct,1
+1576,Zahra Qureshi,Female,31,Lahore,Punjab,2024-09-30,Facebook Ads,0
+1577,Muhammad Cheema,Female,41,Lahore,Punjab,2025-01-21,Direct,0
+1578,Sara Dar,Male,33,Lahore,Punjab,2026-04-07,Direct,0
+1579,Saad Sheikh,Male,22,Karachi,Sindh,2024-12-10,Facebook Ads,1
+1580,Saad Jatoi,Female,32,Multan,Punjab,2024-06-19,Organic,1
+1581,Nida Abbasi,Female,20,Karachi,Sindh,2024-07-25,Organic,1
+1582,Saad Ali,Male,38,Lahore,Punjab,2024-10-21,Facebook Ads,1
+1583,Bilal Ahmed,Female,26,Karachi,Sindh,2026-04-03,Google Ads,0
+1584,Sana Hashmi,Male,30,Karachi,Sindh,2026-01-04,Referral,0
+1585,Sara Sheikh,Female,26,Karachi,Sindh,2024-03-09,Organic,1
+1586,Sara Jatoi,Male,27,Lahore,Punjab,2024-12-21,TikTok Ads,1
+1587,Ali Abbasi,Female,40,Multan,Punjab,2025-03-19,Facebook Ads,0
+1588,Yasmin Farooq,Female,28,Lahore,Punjab,2025-02-15,Direct,0
+1589,Bilal Hashmi,Male,39,Karachi,Sindh,2024-01-20,Direct,1
+1590,Raza Jatoi,Female,26,Rawalpindi,Punjab,2024-08-06,Direct,1
+1591,Yasmin Gill,Female,21,Peshawar,KPK,2025-08-02,Facebook Ads,0
+1592,Hina Ahmed,Female,41,Karachi,Sindh,2025-04-18,Organic,0
+1593,Hamza Iqbal,Female,34,Islamabad,Islamabad Capital Territory,2026-05-14,Facebook Ads,0
+1594,Mariam Qureshi,Male,25,Lahore,Punjab,2025-10-11,Facebook Ads,0
+1595,Ayesha Qureshi,Female,40,Quetta,Balochistan,2025-10-23,Google Ads,0
+1596,Fatima Siddiqui,Male,37,Rawalpindi,Punjab,2025-02-19,Google Ads,1
+1597,Sana Sheikh,Male,28,Peshawar,KPK,2024-09-08,Facebook Ads,1
+1598,Usman Gill,Female,31,Karachi,Sindh,2025-03-08,Organic,0
+1599,Raza Ahmed,Female,42,Lahore,Punjab,2024-05-19,Organic,1
+1600,Muhammad Siddiqui,Female,18,Karachi,Sindh,2025-11-05,Facebook Ads,1
+1601,Hassan Butt,Male,28,Karachi,Sindh,2026-01-09,Google Ads,0
+1602,Saad Khan,Male,18,Lahore,Punjab,2024-11-17,Facebook Ads,1
+1603,Nida Abbasi,Female,37,Karachi,Sindh,2025-01-07,TikTok Ads,0
+1604,Yasmin Ali,Male,31,Islamabad,Islamabad Capital Territory,2024-08-29,Google Ads,1
+1605,Zain Baig,Male,24,Lahore,Punjab,2025-06-18,Facebook Ads,1
+1606,Yasmin Baig,Female,43,Islamabad,Islamabad Capital Territory,2025-05-23,TikTok Ads,0
+1607,Ali Iqbal,Female,29,Quetta,Balochistan,2024-12-03,Google Ads,1
+1608,Sara Dar,Male,26,Lahore,Punjab,2025-03-09,Direct,1
+1609,Ayesha Malik,Male,34,Rawalpindi,Punjab,2024-10-08,Direct,0
+1610,Zahra Qureshi,Male,43,Lahore,Punjab,2025-05-17,Google Ads,1
+1611,Hassan Mughal,Male,33,Islamabad,Islamabad Capital Territory,2024-11-20,Facebook Ads,1
+1612,Hassan Qureshi,Male,29,Faisalabad,Punjab,2024-10-11,Google Ads,1
+1613,Hamza Mughal,Female,30,Lahore,Punjab,2026-04-21,Direct,0
+1614,Usman Khan,Male,24,Karachi,Sindh,2026-05-11,Organic,0
+1615,Hina Ahmed,Male,24,Quetta,Balochistan,2024-09-16,Google Ads,1
+1616,Hassan Dar,Female,30,Karachi,Sindh,2026-04-11,Google Ads,0
+1617,Yasmin Sheikh,Male,26,Karachi,Sindh,2026-05-28,Facebook Ads,0
+1618,Zahra Dar,Other,36,Karachi,Sindh,2025-02-06,Organic,0
+1619,Bilal Abbasi,Male,18,Karachi,Sindh,2024-10-31,Facebook Ads,1
+1620,Ayesha Butt,Female,28,Peshawar,KPK,2026-04-11,Facebook Ads,0
+1621,Amna Qureshi,Female,29,Karachi,Sindh,2024-03-23,Direct,1
+1622,Amna Cheema,Female,32,Lahore,Punjab,2026-05-11,Organic,0
+1623,Omer Qureshi,Male,32,Karachi,Sindh,2026-04-24,Facebook Ads,0
+1624,Fatima Siddiqui,Female,25,Karachi,Sindh,2025-03-06,Facebook Ads,0
+1625,Nida Farooq,Female,26,Lahore,Punjab,2025-12-12,TikTok Ads,0
+1626,Muhammad Ahmed,Male,32,Lahore,Punjab,2025-10-07,Facebook Ads,0
+1627,Zahra Malik,Other,33,Lahore,Punjab,2024-07-23,Google Ads,1
+1628,Raza Abbasi,Male,32,Lahore,Punjab,2024-04-23,Google Ads,1
+1629,Fatima Iqbal,Male,38,Peshawar,KPK,2026-05-17,Referral,0
+1630,Nida Qureshi,Female,18,Lahore,Punjab,2025-04-07,Google Ads,0
+1631,Saad Malik,Female,31,Karachi,Sindh,2026-03-29,Facebook Ads,0
+1632,Usman Raza,Female,21,Lahore,Punjab,2024-07-05,Referral,0
+1633,Kiran Dar,Male,30,Karachi,Sindh,2024-01-22,Facebook Ads,1
+1634,Muhammad Farooq,Male,24,Lahore,Punjab,2024-04-01,Google Ads,0
+1635,Zahra Raza,Male,23,Karachi,Sindh,2024-02-20,Facebook Ads,1
+1636,Kiran Hashmi,Female,20,Quetta,Balochistan,2024-06-01,Direct,1
+1637,Ali Mughal,Male,36,Multan,Punjab,2024-01-15,Facebook Ads,1
+1638,Faisal Jatoi,Female,18,Rawalpindi,Punjab,2026-04-27,Direct,0
+1639,Yasmin Cheema,Male,30,Karachi,Sindh,2024-07-14,Facebook Ads,1
+1640,Bilal Abbasi,Female,34,Lahore,Punjab,2024-05-13,TikTok Ads,0
+1641,Mariam Raza,Female,32,Lahore,Punjab,2026-01-14,Google Ads,0
+1642,Yasmin Raza,Female,18,Karachi,Sindh,2026-03-22,Referral,0
+1643,Hamza Khan,Female,29,Lahore,Punjab,2024-08-29,Facebook Ads,1
+1644,Nida Gill,Female,39,Lahore,Punjab,2025-08-19,TikTok Ads,0
+1645,Yasmin Gill,Female,32,Lahore,Punjab,2024-05-16,Google Ads,1
+1646,Omer Dar,Female,30,Rawalpindi,Punjab,2025-12-26,Facebook Ads,0
+1647,Mariam Hashmi,Male,18,Lahore,Punjab,2025-07-24,Organic,1
+1648,Ahmed Ahmed,Male,20,Lahore,Punjab,2025-04-27,Organic,0
+1649,Asad Hashmi,Male,18,Rawalpindi,Punjab,2024-01-06,Facebook Ads,1
+1650,Bilal Jatoi,Female,37,Karachi,Sindh,2025-02-08,Google Ads,1
+1651,Yasmin Mughal,Male,31,Lahore,Punjab,2025-08-17,Referral,0
+1652,Fatima Siddiqui,Female,47,Lahore,Punjab,2024-12-13,Direct,1
+1653,Zahra Malik,Female,31,Faisalabad,Punjab,2024-05-25,TikTok Ads,1
+1654,Bilal Sheikh,Male,21,Islamabad,Islamabad Capital Territory,2025-05-26,Google Ads,1
+1655,Bilal Mughal,Female,29,Lahore,Punjab,2024-09-26,Direct,0
+1656,Nida Siddiqui,Female,22,Karachi,Sindh,2024-06-17,Referral,1
+1657,Omer Cheema,Male,36,Quetta,Balochistan,2025-07-23,Google Ads,0
+1658,Yasmin Gill,Male,27,Karachi,Sindh,2024-02-25,Google Ads,1
+1659,Sana Butt,Other,21,Islamabad,Islamabad Capital Territory,2024-09-23,Facebook Ads,1
+1660,Fatima Gill,Female,37,Karachi,Sindh,2024-02-11,Google Ads,1
+1661,Zahra Mughal,Female,19,Lahore,Punjab,2025-04-13,Facebook Ads,0
+1662,Saad Sheikh,Male,21,Karachi,Sindh,2024-05-06,Facebook Ads,1
+1663,Asad Ali,Female,29,Lahore,Punjab,2024-07-03,TikTok Ads,1
+1664,Fatima Jatoi,Male,32,Sialkot,Punjab,2025-08-20,Facebook Ads,1
+1665,Muhammad Jatoi,Male,39,Lahore,Punjab,2025-03-02,Facebook Ads,0
+1666,Ali Iqbal,Male,37,Islamabad,Islamabad Capital Territory,2024-12-02,Facebook Ads,0
+1667,Muhammad Abbasi,Male,42,Karachi,Sindh,2025-02-07,Organic,1
+1668,Asad Baig,Male,34,Karachi,Sindh,2026-05-07,Organic,0
+1669,Omer Malik,Other,18,Karachi,Sindh,2025-04-16,Referral,1
+1670,Faisal Cheema,Female,28,Karachi,Sindh,2025-08-31,Facebook Ads,1
+1671,Yasmin Khan,Male,39,Lahore,Punjab,2025-11-02,Facebook Ads,0
+1672,Nida Gill,Male,18,Karachi,Sindh,2024-08-04,Facebook Ads,0
+1673,Ahmed Abbasi,Male,26,Islamabad,Islamabad Capital Territory,2026-01-31,Facebook Ads,0
+1674,Ali Farooq,Female,19,Lahore,Punjab,2024-04-04,Google Ads,1
+1675,Kiran Siddiqui,Female,24,Karachi,Sindh,2024-04-01,Facebook Ads,1
+1676,Muhammad Raza,Female,35,Karachi,Sindh,2024-10-18,Google Ads,1
+1677,Raza Malik,Female,33,Faisalabad,Punjab,2026-03-31,Google Ads,0
+1678,Mariam Abbasi,Male,33,Islamabad,Islamabad Capital Territory,2025-01-02,Facebook Ads,1
+1679,Yasmin Sheikh,Male,31,Karachi,Sindh,2025-05-16,Google Ads,1
+1680,Zahra Dar,Female,27,Karachi,Sindh,2024-04-02,TikTok Ads,1
+1681,Amna Qureshi,Male,23,Rawalpindi,Punjab,2025-03-20,Facebook Ads,0
+1682,Raza Qureshi,Female,38,Lahore,Punjab,2025-04-19,Organic,0
+1683,Yasmin Iqbal,Male,35,Lahore,Punjab,2025-05-22,Direct,0
+1684,Tariq Jatoi,Female,20,Karachi,Sindh,2025-03-23,Organic,0
+1685,Ali Cheema,Male,18,Lahore,Punjab,2025-12-01,Facebook Ads,0
+1686,Usman Iqbal,Female,34,Lahore,Punjab,2025-08-05,Direct,0
+1687,Ahmed Farooq,Male,45,Lahore,Punjab,2025-06-09,Facebook Ads,0
+1688,Zain Jatoi,Male,38,Karachi,Sindh,2025-04-20,Google Ads,0
+1689,Yasmin Baig,Female,22,Lahore,Punjab,2024-09-17,Facebook Ads,1
+1690,Sara Ali,Male,25,Karachi,Sindh,2024-04-26,Google Ads,1
+1691,Hina Gill,Male,33,Karachi,Sindh,2026-05-13,Organic,0
+1692,Kiran Ahmed,Female,35,Rawalpindi,Punjab,2024-11-17,Organic,0
+1693,Sara Gill,Female,32,Faisalabad,Punjab,2025-09-30,TikTok Ads,1
+1694,Bilal Shah,Male,23,Lahore,Punjab,2024-08-04,Google Ads,0
+1695,Fatima Ali,Female,25,Lahore,Punjab,2025-11-20,Facebook Ads,1
+1696,Zain Qureshi,Male,30,Lahore,Punjab,2025-02-08,Facebook Ads,0
+1697,Zain Khan,Female,21,Islamabad,Islamabad Capital Territory,2025-04-16,Organic,0
+1698,Faisal Dar,Female,31,Karachi,Sindh,2024-11-06,Facebook Ads,1
+1699,Nida Hashmi,Female,18,Karachi,Sindh,2026-04-03,TikTok Ads,0
+1700,Usman Ali,Male,46,Faisalabad,Punjab,2024-07-14,Organic,1
+1701,Zain Khan,Male,24,Karachi,Sindh,2026-05-29,Facebook Ads,0
+1702,Muhammad Raza,Male,31,Karachi,Sindh,2025-10-27,Facebook Ads,0
+1703,Sana Qureshi,Male,24,Peshawar,KPK,2024-03-29,TikTok Ads,1
+1704,Usman Gill,Female,18,Faisalabad,Punjab,2024-01-23,Organic,1
+1705,Zain Butt,Female,32,Karachi,Sindh,2025-05-11,TikTok Ads,1
+1706,Saad Khan,Male,25,Karachi,Sindh,2024-07-25,Referral,0
+1707,Usman Baig,Female,22,Peshawar,KPK,2024-02-22,Facebook Ads,1
+1708,Omer Khan,Female,22,Islamabad,Islamabad Capital Territory,2025-03-01,Organic,1
+1709,Saad Baig,Female,33,Lahore,Punjab,2024-02-07,Facebook Ads,1
+1710,Saad Dar,Female,38,Islamabad,Islamabad Capital Territory,2024-08-25,Referral,0
+1711,Faisal Ahmed,Female,28,Karachi,Sindh,2025-08-13,Google Ads,0
+1712,Omer Farooq,Female,36,Rawalpindi,Punjab,2025-04-29,Organic,0
+1713,Zain Cheema,Female,24,Lahore,Punjab,2025-04-04,Google Ads,1
+1714,Faisal Qureshi,Other,29,Peshawar,KPK,2024-10-21,TikTok Ads,1
+1715,Hina Raza,Female,32,Karachi,Sindh,2024-08-25,Referral,0
+1716,Tariq Iqbal,Female,18,Lahore,Punjab,2025-09-08,Google Ads,1
+1717,Faisal Gill,Female,40,Islamabad,Islamabad Capital Territory,2026-01-10,Organic,0
+1718,Faisal Dar,Female,21,Karachi,Sindh,2026-03-26,Facebook Ads,0
+1719,Saad Butt,Female,32,Karachi,Sindh,2025-12-08,TikTok Ads,0
+1720,Hina Ali,Male,23,Faisalabad,Punjab,2024-06-26,Direct,1
+1721,Ayesha Butt,Male,18,Karachi,Sindh,2026-03-23,TikTok Ads,0
+1722,Mariam Cheema,Male,18,Rawalpindi,Punjab,2025-07-24,Facebook Ads,1
+1723,Ahmed Khan,Female,39,Faisalabad,Punjab,2024-12-31,Facebook Ads,0
+1724,Yasmin Butt,Male,27,Lahore,Punjab,2026-04-06,Facebook Ads,0
+1725,Ali Shah,Male,34,Karachi,Sindh,2024-05-03,Organic,1
+1726,Hassan Iqbal,Female,35,Lahore,Punjab,2026-03-14,Facebook Ads,0
+1727,Asad Ahmed,Female,22,Rawalpindi,Punjab,2024-06-03,TikTok Ads,1
+1728,Faisal Jatoi,Male,30,Karachi,Sindh,2025-12-24,Facebook Ads,1
+1729,Ahmed Gill,Male,39,Karachi,Sindh,2024-04-18,Facebook Ads,1
+1730,Nida Hashmi,Male,32,Lahore,Punjab,2026-04-23,Organic,0
+1731,Hassan Ahmed,Male,20,Lahore,Punjab,2025-10-07,Facebook Ads,1
+1732,Zain Raza,Male,19,Karachi,Sindh,2026-01-15,Organic,0
+1733,Usman Gill,Female,39,Islamabad,Islamabad Capital Territory,2026-01-20,TikTok Ads,0
+1734,Zain Malik,Female,44,Karachi,Sindh,2026-04-18,Google Ads,0
+1735,Hamza Sheikh,Female,36,Quetta,Balochistan,2025-03-01,TikTok Ads,0
+1736,Amna Khan,Female,33,Karachi,Sindh,2024-12-15,Facebook Ads,0
+1737,Usman Jatoi,Female,32,Lahore,Punjab,2025-01-16,Organic,0
+1738,Faisal Qureshi,Male,40,Islamabad,Islamabad Capital Territory,2024-06-04,Organic,1
+1739,Amna Jatoi,Male,26,Lahore,Punjab,2024-05-21,Facebook Ads,0
+1740,Mariam Qureshi,Female,36,Peshawar,KPK,2026-05-22,Facebook Ads,0
+1741,Tariq Mughal,Female,20,Islamabad,Islamabad Capital Territory,2024-05-29,Facebook Ads,0
+1742,Amna Khan,Male,32,Karachi,Sindh,2024-03-27,Google Ads,1
+1743,Omer Shah,Male,33,Lahore,Punjab,2025-03-20,Direct,1
+1744,Ahmed Dar,Male,25,Karachi,Sindh,2025-08-11,TikTok Ads,1
+1745,Ahmed Jatoi,Female,25,Islamabad,Islamabad Capital Territory,2025-02-15,TikTok Ads,1
+1746,Yasmin Farooq,Female,26,Rawalpindi,Punjab,2024-12-18,Facebook Ads,0
+1747,Muhammad Siddiqui,Male,18,Sialkot,Punjab,2025-12-18,Facebook Ads,0
+1748,Kiran Gill,Female,20,Karachi,Sindh,2025-12-15,Google Ads,1
+1749,Asad Dar,Female,18,Multan,Punjab,2024-03-27,Facebook Ads,1
+1750,Ahmed Farooq,Male,33,Multan,Punjab,2025-06-16,Facebook Ads,1
+1751,Hassan Abbasi,Female,35,Karachi,Sindh,2025-06-17,Referral,0
+1752,Omer Butt,Other,32,Lahore,Punjab,2026-03-26,Direct,0
+1753,Hassan Baig,Female,20,Karachi,Sindh,2026-01-13,Facebook Ads,0
+1754,Mariam Jatoi,Male,38,Karachi,Sindh,2026-05-11,Facebook Ads,0
+1755,Asad Siddiqui,Female,28,Rawalpindi,Punjab,2024-05-06,Facebook Ads,1
+1756,Ahmed Sheikh,Male,22,Karachi,Sindh,2025-04-09,TikTok Ads,0
+1757,Omer Iqbal,Male,26,Islamabad,Islamabad Capital Territory,2024-12-24,Google Ads,1
+1758,Usman Abbasi,Male,38,Islamabad,Islamabad Capital Territory,2026-01-01,TikTok Ads,0
+1759,Kiran Jatoi,Male,18,Karachi,Sindh,2024-12-01,Google Ads,0
+1760,Tariq Baig,Female,36,Multan,Punjab,2025-04-10,TikTok Ads,0
+1761,Zain Malik,Female,34,Islamabad,Islamabad Capital Territory,2024-03-24,Referral,1
+1762,Ali Ahmed,Male,22,Sialkot,Punjab,2025-05-02,TikTok Ads,1
+1763,Ayesha Gill,Female,35,Karachi,Sindh,2025-08-25,Organic,1
+1764,Hassan Jatoi,Female,24,Multan,Punjab,2025-08-21,Google Ads,1
+1765,Saad Qureshi,Female,21,Lahore,Punjab,2026-01-19,Facebook Ads,1
+1766,Mariam Butt,Male,45,Rawalpindi,Punjab,2025-05-11,Direct,1
+1767,Faisal Gill,Male,32,Karachi,Sindh,2025-12-12,Facebook Ads,1
+1768,Ayesha Gill,Male,34,Karachi,Sindh,2025-07-26,Direct,0
+1769,Asad Sheikh,Female,41,Karachi,Sindh,2024-04-22,Organic,1
+1770,Zain Mughal,Male,36,Karachi,Sindh,2025-06-19,Google Ads,0
+1771,Hamza Sheikh,Female,21,Rawalpindi,Punjab,2024-11-06,Facebook Ads,1
+1772,Usman Cheema,Other,32,Islamabad,Islamabad Capital Territory,2024-05-26,Google Ads,0
+1773,Hamza Baig,Female,22,Karachi,Sindh,2024-10-17,Direct,0
+1774,Ayesha Butt,Female,31,Karachi,Sindh,2024-01-03,Organic,1
+1775,Zain Farooq,Male,36,Quetta,Balochistan,2025-03-03,Direct,1
+1776,Saad Baig,Female,20,Lahore,Punjab,2024-12-11,Organic,1
+1777,Kiran Cheema,Male,25,Karachi,Sindh,2026-02-19,Organic,1
+1778,Hamza Jatoi,Female,27,Lahore,Punjab,2025-11-14,Facebook Ads,0
+1779,Zahra Malik,Female,20,Karachi,Sindh,2024-04-01,Referral,1
+1780,Nida Hashmi,Male,44,Rawalpindi,Punjab,2025-02-08,Facebook Ads,1
+1781,Omer Farooq,Other,31,Peshawar,KPK,2025-11-17,Google Ads,1
+1782,Zahra Siddiqui,Male,22,Faisalabad,Punjab,2025-12-25,Google Ads,1
+1783,Muhammad Baig,Female,38,Karachi,Sindh,2025-07-28,Google Ads,1
+1784,Raza Sheikh,Male,37,Lahore,Punjab,2024-07-16,Facebook Ads,0
+1785,Nida Farooq,Male,34,Gujranwala,Punjab,2025-08-06,Google Ads,0
+1786,Tariq Raza,Male,18,Rawalpindi,Punjab,2024-05-03,Google Ads,1
+1787,Yasmin Farooq,Male,33,Multan,Punjab,2024-10-08,Google Ads,1
+1788,Ayesha Iqbal,Female,40,Lahore,Punjab,2024-03-27,TikTok Ads,0
+1789,Hassan Hashmi,Male,21,Karachi,Sindh,2025-05-18,Facebook Ads,1
+1790,Muhammad Shah,Female,27,Faisalabad,Punjab,2024-01-25,Facebook Ads,1
+1791,Tariq Shah,Male,35,Karachi,Sindh,2024-04-27,Google Ads,1
+1792,Zain Farooq,Male,23,Karachi,Sindh,2024-07-06,Referral,1
+1793,Bilal Ali,Female,41,Karachi,Sindh,2025-11-25,Facebook Ads,0
+1794,Fatima Ahmed,Female,25,Karachi,Sindh,2024-07-04,TikTok Ads,1
+1795,Muhammad Ahmed,Male,39,Karachi,Sindh,2024-11-23,Google Ads,1
+1796,Hamza Qureshi,Female,18,Islamabad,Islamabad Capital Territory,2025-01-19,Google Ads,1
+1797,Zain Ahmed,Male,22,Rawalpindi,Punjab,2025-05-19,TikTok Ads,0
+1798,Tariq Jatoi,Male,36,Karachi,Sindh,2024-10-02,Facebook Ads,0
+1799,Ahmed Shah,Female,38,Lahore,Punjab,2024-03-08,Facebook Ads,1
+1800,Saad Khan,Male,33,Faisalabad,Punjab,2024-01-20,TikTok Ads,0
+1801,Bilal Farooq,Male,24,Karachi,Sindh,2024-09-09,TikTok Ads,1
+1802,Amna Farooq,Male,18,Lahore,Punjab,2024-11-07,Referral,0
+1803,Sara Qureshi,Male,18,Lahore,Punjab,2026-03-12,Direct,0
+1804,Hamza Mughal,Male,18,Rawalpindi,Punjab,2026-03-11,Google Ads,0
+1805,Sana Farooq,Female,35,Lahore,Punjab,2024-02-12,Facebook Ads,1
+1806,Muhammad Gill,Female,42,Lahore,Punjab,2025-10-30,Facebook Ads,0
+1807,Fatima Khan,Female,28,Peshawar,KPK,2024-10-06,Google Ads,0
+1808,Nida Siddiqui,Female,35,Lahore,Punjab,2024-12-25,Google Ads,1
+1809,Raza Raza,Female,27,Karachi,Sindh,2024-02-16,TikTok Ads,1
+1810,Fatima Farooq,Female,22,Lahore,Punjab,2024-04-01,Organic,1
+1811,Kiran Sheikh,Female,25,Lahore,Punjab,2025-03-18,Direct,0
+1812,Ayesha Hashmi,Female,26,Islamabad,Islamabad Capital Territory,2025-11-29,Google Ads,1
+1813,Omer Siddiqui,Female,23,Sialkot,Punjab,2024-10-06,TikTok Ads,1
+1814,Sana Shah,Female,30,Karachi,Sindh,2025-09-05,TikTok Ads,1
+1815,Omer Khan,Male,33,Karachi,Sindh,2025-10-23,Organic,0
+1816,Muhammad Hashmi,Male,21,Rawalpindi,Punjab,2025-11-19,TikTok Ads,0
+1817,Fatima Qureshi,Female,36,Karachi,Sindh,2026-02-19,Facebook Ads,0
+1818,Kiran Farooq,Male,32,Karachi,Sindh,2025-07-05,Referral,1
+1819,Muhammad Gill,Female,41,Islamabad,Islamabad Capital Territory,2026-04-12,Facebook Ads,0
+1820,Kiran Hashmi,Male,24,Karachi,Sindh,2026-05-09,Facebook Ads,0
+1821,Amna Khan,Female,18,Karachi,Sindh,2024-07-16,Direct,1
+1822,Zahra Khan,Male,26,Quetta,Balochistan,2026-02-15,Facebook Ads,0
+1823,Bilal Mughal,Female,37,Karachi,Sindh,2026-04-07,Facebook Ads,0
+1824,Faisal Iqbal,Female,34,Rawalpindi,Punjab,2025-01-06,TikTok Ads,1
+1825,Ahmed Siddiqui,Male,31,Karachi,Sindh,2024-01-08,Google Ads,1
+1826,Ayesha Dar,Female,26,Rawalpindi,Punjab,2025-08-05,Organic,1
+1827,Tariq Cheema,Male,34,Lahore,Punjab,2025-11-06,Organic,1
+1828,Hina Baig,Male,28,Lahore,Punjab,2024-03-07,Direct,1
+1829,Sara Malik,Male,25,Rawalpindi,Punjab,2024-09-22,Direct,0
+1830,Sara Iqbal,Female,34,Karachi,Sindh,2024-07-15,Referral,1
+1831,Yasmin Khan,Female,49,Lahore,Punjab,2025-11-28,Facebook Ads,0
+1832,Hassan Gill,Other,39,Quetta,Balochistan,2025-03-13,Facebook Ads,1
+1833,Raza Ahmed,Female,35,Islamabad,Islamabad Capital Territory,2025-03-18,Organic,0
+1834,Mariam Siddiqui,Female,30,Karachi,Sindh,2025-05-22,Google Ads,1
+1835,Asad Jatoi,Male,29,Karachi,Sindh,2024-02-18,TikTok Ads,0
+1836,Bilal Qureshi,Female,18,Lahore,Punjab,2024-01-06,Organic,1
+1837,Kiran Raza,Male,20,Lahore,Punjab,2026-01-25,Facebook Ads,0
+1838,Sana Qureshi,Male,29,Faisalabad,Punjab,2024-07-20,TikTok Ads,0
+1839,Fatima Shah,Male,23,Lahore,Punjab,2024-01-29,Facebook Ads,0
+1840,Saad Qureshi,Female,30,Rawalpindi,Punjab,2026-05-10,Organic,0
+1841,Bilal Iqbal,Male,30,Lahore,Punjab,2024-12-14,Organic,1
+1842,Ahmed Shah,Male,33,Karachi,Sindh,2024-03-15,Google Ads,1
+1843,Amna Hashmi,Male,23,Lahore,Punjab,2025-10-02,Direct,0
+1844,Zahra Baig,Male,30,Faisalabad,Punjab,2024-02-04,Facebook Ads,1
+1845,Kiran Shah,Male,28,Faisalabad,Punjab,2026-03-12,Facebook Ads,0
+1846,Hamza Ahmed,Female,26,Islamabad,Islamabad Capital Territory,2024-02-26,Facebook Ads,1
+1847,Usman Hashmi,Male,18,Rawalpindi,Punjab,2024-04-14,Facebook Ads,1
+1848,Yasmin Ahmed,Female,40,Lahore,Punjab,2026-05-20,Facebook Ads,0
+1849,Kiran Dar,Female,35,Karachi,Sindh,2024-08-26,Direct,1
+1850,Nida Hashmi,Other,33,Lahore,Punjab,2025-01-28,Facebook Ads,0
+1851,Zahra Qureshi,Male,20,Islamabad,Islamabad Capital Territory,2024-12-13,Organic,0
+1852,Raza Khan,Female,27,Karachi,Sindh,2025-08-24,Google Ads,1
+1853,Ayesha Sheikh,Male,35,Lahore,Punjab,2025-08-30,Google Ads,1
+1854,Ayesha Baig,Female,30,Faisalabad,Punjab,2024-12-29,Google Ads,0
+1855,Mariam Cheema,Female,21,Faisalabad,Punjab,2024-07-09,Organic,1
+1856,Sana Malik,Male,18,Lahore,Punjab,2024-05-10,Facebook Ads,1
+1857,Usman Baig,Female,52,Karachi,Sindh,2024-11-14,Organic,0
+1858,Sara Farooq,Male,27,Lahore,Punjab,2025-04-25,Facebook Ads,0
+1859,Usman Hashmi,Female,27,Peshawar,KPK,2024-01-09,Facebook Ads,1
+1860,Tariq Baig,Male,26,Karachi,Sindh,2024-02-28,Google Ads,1
+1861,Sana Jatoi,Male,33,Lahore,Punjab,2025-03-08,Google Ads,1
+1862,Asad Raza,Male,18,Lahore,Punjab,2026-03-15,Referral,0
+1863,Ali Shah,Female,18,Karachi,Sindh,2025-12-12,Google Ads,0
+1864,Faisal Gill,Female,24,Rawalpindi,Punjab,2026-05-22,Facebook Ads,0
+1865,Sara Baig,Female,41,Karachi,Sindh,2025-03-04,TikTok Ads,1
+1866,Omer Butt,Male,26,Karachi,Sindh,2025-05-22,Organic,0
+1867,Sana Khan,Male,32,Lahore,Punjab,2025-04-22,Organic,0
+1868,Nida Raza,Female,28,Karachi,Sindh,2026-04-06,Direct,0
+1869,Hina Dar,Male,28,Lahore,Punjab,2026-04-25,Facebook Ads,0
+1870,Muhammad Mughal,Other,28,Karachi,Sindh,2025-01-01,Direct,0
+1871,Muhammad Farooq,Female,29,Peshawar,KPK,2025-03-26,Google Ads,1
+1872,Ayesha Baig,Female,31,Karachi,Sindh,2024-02-14,Organic,0
+1873,Muhammad Raza,Male,36,Karachi,Sindh,2024-08-12,Facebook Ads,1
+1874,Bilal Butt,Male,20,Karachi,Sindh,2024-07-01,Referral,0
+1875,Ayesha Khan,Female,34,Lahore,Punjab,2024-04-13,Facebook Ads,1
+1876,Muhammad Malik,Male,34,Karachi,Sindh,2024-12-12,Facebook Ads,1
+1877,Ayesha Abbasi,Female,40,Lahore,Punjab,2026-04-08,Facebook Ads,0
+1878,Asad Butt,Female,24,Karachi,Sindh,2025-12-29,Facebook Ads,1
+1879,Ali Sheikh,Male,35,Lahore,Punjab,2026-03-24,Organic,0
+1880,Ayesha Raza,Female,28,Lahore,Punjab,2024-11-21,Google Ads,1
+1881,Nida Qureshi,Male,25,Lahore,Punjab,2024-02-17,Google Ads,1
+1882,Amna Hashmi,Female,33,Lahore,Punjab,2026-03-19,Direct,0
+1883,Hamza Shah,Female,39,Karachi,Sindh,2024-05-09,Facebook Ads,1
+1884,Tariq Baig,Male,48,Karachi,Sindh,2026-01-14,Facebook Ads,1
+1885,Ali Cheema,Male,36,Karachi,Sindh,2024-06-20,Organic,0
+1886,Tariq Dar,Female,37,Karachi,Sindh,2025-05-25,Facebook Ads,0
+1887,Tariq Gill,Female,24,Karachi,Sindh,2025-06-22,Google Ads,0
+1888,Faisal Cheema,Female,19,Lahore,Punjab,2025-04-30,Referral,0
+1889,Bilal Baig,Male,31,Karachi,Sindh,2024-07-31,Organic,0
+1890,Sana Raza,Male,25,Lahore,Punjab,2025-02-09,Google Ads,0
+1891,Ayesha Abbasi,Female,20,Karachi,Sindh,2025-08-08,Facebook Ads,0
+1892,Fatima Mughal,Male,31,Lahore,Punjab,2024-05-17,Facebook Ads,1
+1893,Amna Ali,Female,24,Karachi,Sindh,2024-08-23,Facebook Ads,0
+1894,Sara Ahmed,Female,37,Islamabad,Islamabad Capital Territory,2025-03-12,TikTok Ads,0
+1895,Zahra Gill,Female,23,Karachi,Sindh,2026-04-03,Organic,0
+1896,Saad Shah,Male,33,Karachi,Sindh,2024-07-02,Facebook Ads,1
+1897,Zahra Iqbal,Male,23,Peshawar,KPK,2025-01-02,TikTok Ads,0
+1898,Ali Abbasi,Male,42,Karachi,Sindh,2026-03-15,Direct,0
+1899,Bilal Iqbal,Male,23,Lahore,Punjab,2025-01-03,Facebook Ads,1
+1900,Ahmed Farooq,Male,20,Lahore,Punjab,2025-11-22,Facebook Ads,1
+1901,Omer Siddiqui,Female,18,Rawalpindi,Punjab,2024-07-14,Organic,0
+1902,Faisal Hashmi,Female,21,Karachi,Sindh,2024-01-09,Google Ads,1
+1903,Amna Abbasi,Female,21,Rawalpindi,Punjab,2026-03-12,Organic,0
+1904,Kiran Dar,Male,27,Karachi,Sindh,2025-04-28,Google Ads,1
+1905,Raza Jatoi,Male,32,Karachi,Sindh,2025-02-11,Referral,0
+1906,Sana Iqbal,Male,23,Rawalpindi,Punjab,2025-04-30,Google Ads,0
+1907,Sana Jatoi,Female,36,Lahore,Punjab,2026-01-09,Facebook Ads,0
+1908,Zahra Shah,Female,31,Lahore,Punjab,2026-05-16,Organic,0
+1909,Ayesha Qureshi,Female,40,Faisalabad,Punjab,2024-08-02,Direct,0
+1910,Zahra Gill,Male,40,Multan,Punjab,2025-01-18,Facebook Ads,1
+1911,Hamza Baig,Female,43,Rawalpindi,Punjab,2026-01-25,TikTok Ads,0
+1912,Muhammad Cheema,Female,32,Karachi,Sindh,2024-12-13,Organic,1
+1913,Sana Qureshi,Female,26,Lahore,Punjab,2026-02-20,Facebook Ads,0
+1914,Amna Farooq,Male,31,Karachi,Sindh,2025-08-04,Facebook Ads,0
+1915,Ahmed Malik,Female,38,Lahore,Punjab,2025-08-04,TikTok Ads,0
+1916,Raza Hashmi,Female,18,Faisalabad,Punjab,2025-01-25,Facebook Ads,1
+1917,Ayesha Dar,Female,30,Sialkot,Punjab,2024-07-11,Facebook Ads,0
+1918,Saad Sheikh,Female,39,Karachi,Sindh,2025-10-16,TikTok Ads,0
+1919,Usman Ali,Male,34,Karachi,Sindh,2024-02-02,Google Ads,1
+1920,Faisal Hashmi,Male,28,Lahore,Punjab,2024-07-22,TikTok Ads,1
+1921,Ali Dar,Male,24,Faisalabad,Punjab,2024-10-25,Facebook Ads,1
+1922,Yasmin Jatoi,Male,19,Rawalpindi,Punjab,2025-01-12,TikTok Ads,1
+1923,Tariq Khan,Female,36,Karachi,Sindh,2025-02-04,TikTok Ads,0
+1924,Fatima Sheikh,Female,37,Faisalabad,Punjab,2025-05-04,Google Ads,0
+1925,Hina Ali,Male,29,Karachi,Sindh,2024-05-13,Google Ads,1
+1926,Ayesha Abbasi,Female,34,Peshawar,KPK,2024-06-11,Facebook Ads,0
+1927,Nida Baig,Male,24,Islamabad,Islamabad Capital Territory,2025-05-29,Facebook Ads,0
+1928,Faisal Gill,Male,28,Rawalpindi,Punjab,2024-05-26,Google Ads,0
+1929,Zahra Ali,Male,42,Lahore,Punjab,2025-06-22,Google Ads,0
+1930,Omer Baig,Female,29,Lahore,Punjab,2025-04-18,Google Ads,1
+1931,Sara Ahmed,Female,41,Lahore,Punjab,2025-10-23,Google Ads,0
+1932,Zahra Mughal,Female,30,Islamabad,Islamabad Capital Territory,2025-02-04,Facebook Ads,0
+1933,Nida Butt,Male,32,Islamabad,Islamabad Capital Territory,2025-09-24,TikTok Ads,1
+1934,Hina Qureshi,Male,28,Lahore,Punjab,2025-12-16,Facebook Ads,0
+1935,Sara Sheikh,Male,31,Lahore,Punjab,2024-09-02,Google Ads,0
+1936,Fatima Siddiqui,Female,49,Karachi,Sindh,2025-11-13,Facebook Ads,0
+1937,Ali Raza,Female,29,Lahore,Punjab,2026-02-19,Facebook Ads,0
+1938,Hassan Sheikh,Male,34,Karachi,Sindh,2026-02-12,Organic,0
+1939,Zain Jatoi,Female,35,Karachi,Sindh,2025-02-23,Organic,0
+1940,Zahra Butt,Male,54,Karachi,Sindh,2025-04-18,Facebook Ads,1
+1941,Muhammad Ali,Female,18,Karachi,Sindh,2025-01-25,TikTok Ads,0
+1942,Omer Dar,Female,27,Islamabad,Islamabad Capital Territory,2024-02-08,Organic,0
+1943,Muhammad Siddiqui,Male,24,Karachi,Sindh,2024-11-30,Referral,0
+1944,Yasmin Gill,Male,28,Lahore,Punjab,2024-03-25,Organic,1
+1945,Hassan Iqbal,Female,30,Karachi,Sindh,2024-05-23,TikTok Ads,0
+1946,Saad Siddiqui,Male,28,Peshawar,KPK,2026-05-08,Referral,0
+1947,Muhammad Hashmi,Female,18,Peshawar,KPK,2024-05-07,TikTok Ads,1
+1948,Hassan Dar,Male,46,Karachi,Sindh,2025-11-24,Google Ads,1
+1949,Bilal Malik,Male,28,Lahore,Punjab,2024-08-09,TikTok Ads,1
+1950,Faisal Ahmed,Male,18,Lahore,Punjab,2025-03-28,Facebook Ads,1
+1951,Faisal Ahmed,Male,40,Islamabad,Islamabad Capital Territory,2025-02-03,Facebook Ads,0
+1952,Faisal Abbasi,Male,30,Peshawar,KPK,2024-02-19,Direct,1
+1953,Amna Dar,Male,35,Quetta,Balochistan,2025-01-18,Direct,1
+1954,Sana Raza,Female,34,Lahore,Punjab,2024-01-29,Google Ads,1
+1955,Muhammad Shah,Male,47,Lahore,Punjab,2024-08-13,Organic,1
+1956,Zain Butt,Male,24,Karachi,Sindh,2025-03-01,TikTok Ads,1
+1957,Tariq Sheikh,Female,28,Rawalpindi,Punjab,2025-07-29,TikTok Ads,0
+1958,Raza Raza,Female,23,Gujranwala,Punjab,2025-03-14,Facebook Ads,0
+1959,Zain Iqbal,Female,18,Lahore,Punjab,2024-11-27,Direct,0
+1960,Fatima Khan,Female,29,Islamabad,Islamabad Capital Territory,2024-01-13,Direct,1
+1961,Kiran Raza,Male,32,Karachi,Sindh,2025-11-04,Direct,0
+1962,Bilal Hashmi,Male,27,Karachi,Sindh,2024-08-11,Facebook Ads,1
+1963,Mariam Abbasi,Female,35,Karachi,Sindh,2024-04-14,Google Ads,1
+1964,Faisal Farooq,Male,30,Faisalabad,Punjab,2024-09-14,Google Ads,1
+1965,Zain Hashmi,Female,27,Lahore,Punjab,2025-11-25,Direct,0
+1966,Amna Malik,Female,19,Rawalpindi,Punjab,2026-05-21,Google Ads,0
+1967,Yasmin Cheema,Male,29,Karachi,Sindh,2025-09-15,Facebook Ads,0
+1968,Sara Gill,Male,32,Lahore,Punjab,2025-05-30,Facebook Ads,1
+1969,Sara Khan,Male,34,Islamabad,Islamabad Capital Territory,2024-11-12,Direct,0
+1970,Sana Qureshi,Male,18,Multan,Punjab,2024-03-02,Google Ads,1
+1971,Hamza Mughal,Male,32,Lahore,Punjab,2024-06-04,Facebook Ads,1
+1972,Kiran Raza,Male,41,Karachi,Sindh,2026-01-12,Google Ads,1
+1973,Nida Gill,Female,37,Quetta,Balochistan,2024-05-17,Google Ads,0
+1974,Bilal Shah,Male,48,Karachi,Sindh,2025-06-17,TikTok Ads,0
+1975,Mariam Abbasi,Male,18,Multan,Punjab,2026-05-17,Facebook Ads,0
+1976,Hina Shah,Male,24,Lahore,Punjab,2025-07-06,Google Ads,1
+1977,Ahmed Iqbal,Male,29,Karachi,Sindh,2025-09-14,TikTok Ads,1
+1978,Kiran Jatoi,Female,27,Peshawar,KPK,2025-10-06,Facebook Ads,0
+1979,Muhammad Ali,Male,23,Peshawar,KPK,2024-07-16,Organic,1
+1980,Ahmed Malik,Male,30,Islamabad,Islamabad Capital Territory,2024-04-03,Organic,0
+1981,Fatima Baig,Male,31,Islamabad,Islamabad Capital Territory,2024-08-29,Direct,1
+1982,Tariq Ali,Female,30,Lahore,Punjab,2024-11-14,Facebook Ads,1
+1983,Fatima Raza,Male,21,Lahore,Punjab,2025-09-12,Google Ads,1
+1984,Sana Abbasi,Female,30,Lahore,Punjab,2025-10-12,Facebook Ads,0
+1985,Ayesha Siddiqui,Female,29,Peshawar,KPK,2024-03-22,Google Ads,1
+1986,Asad Dar,Female,18,Lahore,Punjab,2025-03-27,Organic,0
+1987,Mariam Jatoi,Female,18,Lahore,Punjab,2026-02-17,Facebook Ads,0
+1988,Hamza Cheema,Other,36,Quetta,Balochistan,2025-01-25,Facebook Ads,1
+1989,Mariam Ali,Female,27,Karachi,Sindh,2025-09-01,Organic,0
+1990,Hassan Malik,Male,29,Karachi,Sindh,2024-09-20,Facebook Ads,1
+1991,Kiran Gill,Female,27,Karachi,Sindh,2025-01-19,Organic,0
+1992,Hassan Hashmi,Female,29,Rawalpindi,Punjab,2024-05-19,Direct,0
+1993,Faisal Cheema,Male,33,Karachi,Sindh,2024-01-05,Organic,1
+1994,Muhammad Jatoi,Female,36,Faisalabad,Punjab,2025-05-18,Organic,1
+1995,Kiran Qureshi,Female,18,Faisalabad,Punjab,2025-01-28,Organic,0
+1996,Saad Abbasi,Male,30,Sialkot,Punjab,2025-02-22,Facebook Ads,0
+1997,Ahmed Sheikh,Male,24,Rawalpindi,Punjab,2024-07-17,Facebook Ads,1
+1998,Amna Qureshi,Female,24,Karachi,Sindh,2025-06-05,Referral,1
+1999,Faisal Cheema,Female,38,Lahore,Punjab,2025-12-14,Direct,0
+2000,Ahmed Dar,Male,26,Peshawar,KPK,2024-09-05,Facebook Ads,1
+2001,Saad Ahmed,Female,29,Islamabad,Islamabad Capital Territory,2025-10-08,Direct,1
+2002,Faisal Khan,Male,28,Lahore,Punjab,2024-09-24,TikTok Ads,1
+2003,Nida Gill,Male,34,Quetta,Balochistan,2024-09-17,Facebook Ads,0
+2004,Sana Hashmi,Male,25,Lahore,Punjab,2024-01-13,Facebook Ads,1
+2005,Zain Ali,Female,31,Karachi,Sindh,2025-02-11,Google Ads,0
+2006,Faisal Baig,Male,53,Karachi,Sindh,2025-06-14,Google Ads,0
+2007,Ayesha Qureshi,Female,29,Rawalpindi,Punjab,2024-09-15,Organic,1
+2008,Faisal Abbasi,Female,30,Lahore,Punjab,2025-08-23,Facebook Ads,0
+2009,Usman Qureshi,Male,23,Karachi,Sindh,2024-04-21,TikTok Ads,1
+2010,Raza Baig,Female,20,Karachi,Sindh,2026-04-13,Google Ads,0
+2011,Hamza Siddiqui,Female,34,Lahore,Punjab,2025-12-16,Google Ads,1
+2012,Usman Khan,Female,44,Lahore,Punjab,2024-01-02,Facebook Ads,1
+2013,Zain Ali,Female,31,Peshawar,KPK,2025-06-21,Facebook Ads,1
+2014,Mariam Abbasi,Male,26,Lahore,Punjab,2024-06-29,TikTok Ads,1
+2015,Asad Butt,Male,27,Islamabad,Islamabad Capital Territory,2025-05-13,Google Ads,0
+2016,Fatima Jatoi,Female,31,Lahore,Punjab,2025-08-03,Facebook Ads,1
+2017,Ayesha Butt,Male,34,Lahore,Punjab,2026-04-08,Facebook Ads,0
+2018,Amna Raza,Female,25,Lahore,Punjab,2025-03-27,Direct,1
+2019,Raza Hashmi,Male,23,Karachi,Sindh,2024-03-22,Facebook Ads,1
+2020,Usman Ali,Female,37,Peshawar,KPK,2024-03-06,TikTok Ads,0
+2021,Omer Khan,Female,49,Lahore,Punjab,2025-05-11,Organic,0
+2022,Yasmin Sheikh,Other,36,Lahore,Punjab,2024-09-29,Facebook Ads,1
+2023,Amna Khan,Male,30,Peshawar,KPK,2024-04-09,Facebook Ads,1
+2024,Ayesha Jatoi,Female,21,Faisalabad,Punjab,2025-09-09,Organic,0
+2025,Tariq Siddiqui,Female,32,Karachi,Sindh,2026-02-14,Google Ads,0
+2026,Omer Hashmi,Female,25,Lahore,Punjab,2025-11-29,Organic,0
+2027,Omer Shah,Female,28,Lahore,Punjab,2025-11-12,Google Ads,0
+2028,Kiran Dar,Female,22,Rawalpindi,Punjab,2024-12-04,Facebook Ads,0
+2029,Zain Khan,Female,34,Lahore,Punjab,2026-01-12,TikTok Ads,0
+2030,Hamza Khan,Female,37,Lahore,Punjab,2025-12-17,Facebook Ads,0
+2031,Amna Iqbal,Female,32,Lahore,Punjab,2025-06-11,Facebook Ads,1
+2032,Mariam Raza,Other,46,Multan,Punjab,2025-10-15,TikTok Ads,0
+2033,Omer Khan,Male,29,Rawalpindi,Punjab,2026-04-06,Organic,0
+2034,Hina Shah,Male,23,Lahore,Punjab,2025-09-13,Direct,0
+2035,Saad Dar,Male,25,Multan,Punjab,2024-12-22,Direct,1
+2036,Mariam Cheema,Male,18,Islamabad,Islamabad Capital Territory,2026-01-21,Direct,0
+2037,Kiran Abbasi,Male,22,Karachi,Sindh,2025-06-16,Google Ads,0
+2038,Sara Jatoi,Other,25,Karachi,Sindh,2025-05-24,Facebook Ads,1
+2039,Ali Abbasi,Female,26,Lahore,Punjab,2024-06-21,Google Ads,1
+2040,Zahra Sheikh,Male,24,Karachi,Sindh,2024-09-06,Organic,1
+2041,Ayesha Butt,Male,32,Karachi,Sindh,2024-04-18,Organic,1
+2042,Mariam Khan,Female,33,Karachi,Sindh,2025-01-27,Facebook Ads,1
+2043,Amna Siddiqui,Female,38,Karachi,Sindh,2025-11-12,Facebook Ads,1
+2044,Saad Sheikh,Female,25,Karachi,Sindh,2024-04-02,Direct,0
+2045,Faisal Shah,Male,19,Lahore,Punjab,2025-10-21,Google Ads,0
+2046,Omer Dar,Female,35,Islamabad,Islamabad Capital Territory,2025-10-31,Facebook Ads,0
+2047,Raza Farooq,Female,26,Islamabad,Islamabad Capital Territory,2026-04-07,Facebook Ads,0
+2048,Sana Iqbal,Female,36,Lahore,Punjab,2024-03-30,Google Ads,1
+2049,Zain Ali,Male,23,Rawalpindi,Punjab,2026-02-01,Facebook Ads,1
+2050,Zain Baig,Female,30,Islamabad,Islamabad Capital Territory,2025-01-24,Organic,1
+2051,Sara Khan,Male,42,Islamabad,Islamabad Capital Territory,2026-05-17,Google Ads,0
+2052,Kiran Qureshi,Female,33,Rawalpindi,Punjab,2026-03-27,Facebook Ads,0
+2053,Yasmin Malik,Male,42,Lahore,Punjab,2024-04-19,Facebook Ads,0
+2054,Kiran Khan,Female,33,Lahore,Punjab,2024-11-19,Organic,1
+2055,Hamza Abbasi,Female,30,Islamabad,Islamabad Capital Territory,2025-11-27,Direct,0
+2056,Zahra Malik,Male,36,Karachi,Sindh,2026-02-03,Facebook Ads,0
+2057,Yasmin Ahmed,Female,36,Faisalabad,Punjab,2025-05-29,Google Ads,0
+2058,Faisal Sheikh,Female,34,Karachi,Sindh,2025-10-08,Google Ads,0
+2059,Ayesha Cheema,Female,23,Rawalpindi,Punjab,2024-03-01,Facebook Ads,1
+2060,Omer Malik,Male,22,Rawalpindi,Punjab,2026-05-18,Google Ads,0
+2061,Hina Iqbal,Male,23,Karachi,Sindh,2026-03-05,Facebook Ads,0
+2062,Fatima Cheema,Female,31,Quetta,Balochistan,2026-04-14,Organic,0
+2063,Yasmin Butt,Female,18,Peshawar,KPK,2024-12-11,Facebook Ads,1
+2064,Mariam Cheema,Female,28,Karachi,Sindh,2025-02-04,TikTok Ads,1
+2065,Ali Jatoi,Female,38,Lahore,Punjab,2025-12-14,Referral,1
+2066,Ayesha Farooq,Male,31,Islamabad,Islamabad Capital Territory,2024-11-27,Facebook Ads,0
+2067,Amna Baig,Male,33,Karachi,Sindh,2026-05-20,Facebook Ads,0
+2068,Faisal Abbasi,Male,18,Karachi,Sindh,2025-08-14,Google Ads,1
+2069,Hamza Gill,Female,32,Gujranwala,Punjab,2024-05-28,Facebook Ads,1
+2070,Ayesha Raza,Male,39,Karachi,Sindh,2026-01-22,Facebook Ads,0
+2071,Raza Khan,Male,25,Rawalpindi,Punjab,2025-11-25,Direct,1
+2072,Hamza Dar,Female,23,Quetta,Balochistan,2025-11-26,Facebook Ads,0
+2073,Fatima Ahmed,Female,27,Karachi,Sindh,2024-07-02,Direct,0
+2074,Ahmed Sheikh,Female,36,Lahore,Punjab,2025-08-30,Facebook Ads,0
+2075,Mariam Malik,Female,18,Islamabad,Islamabad Capital Territory,2024-09-07,Google Ads,1
+2076,Ahmed Sheikh,Female,25,Sialkot,Punjab,2024-11-05,Facebook Ads,1
+2077,Faisal Hashmi,Female,27,Lahore,Punjab,2026-03-05,Facebook Ads,0
+2078,Faisal Ali,Female,18,Islamabad,Islamabad Capital Territory,2024-10-08,Direct,0
+2079,Raza Gill,Male,31,Rawalpindi,Punjab,2024-04-29,Facebook Ads,1
+2080,Ali Sheikh,Male,39,Lahore,Punjab,2024-01-24,Facebook Ads,1
+2081,Sara Baig,Female,18,Quetta,Balochistan,2024-10-07,Facebook Ads,0
+2082,Faisal Sheikh,Male,27,Karachi,Sindh,2025-01-28,Google Ads,1
+2083,Saad Qureshi,Male,28,Lahore,Punjab,2024-04-11,Organic,1
+2084,Omer Ali,Male,18,Islamabad,Islamabad Capital Territory,2025-02-19,Google Ads,0
+2085,Faisal Khan,Female,20,Rawalpindi,Punjab,2024-03-06,Facebook Ads,1
+2086,Tariq Baig,Male,20,Karachi,Sindh,2026-02-10,Organic,0
+2087,Amna Raza,Male,21,Karachi,Sindh,2024-07-04,Direct,1
+2088,Nida Butt,Other,29,Faisalabad,Punjab,2025-04-02,Organic,0
+2089,Omer Sheikh,Other,50,Quetta,Balochistan,2025-08-11,Referral,0
+2090,Ayesha Butt,Female,18,Karachi,Sindh,2026-05-21,Organic,0
+2091,Amna Ahmed,Male,25,Islamabad,Islamabad Capital Territory,2025-06-02,Google Ads,1
+2092,Usman Mughal,Male,25,Peshawar,KPK,2025-03-09,Facebook Ads,0
+2093,Yasmin Khan,Male,36,Multan,Punjab,2025-06-15,Facebook Ads,0
+2094,Usman Farooq,Female,30,Lahore,Punjab,2025-12-12,TikTok Ads,0
+2095,Omer Jatoi,Female,19,Lahore,Punjab,2025-09-12,Facebook Ads,1
+2096,Hassan Jatoi,Male,18,Karachi,Sindh,2025-11-09,Direct,1
+2097,Ahmed Iqbal,Other,30,Karachi,Sindh,2024-05-25,Facebook Ads,1
+2098,Usman Raza,Male,31,Lahore,Punjab,2025-08-28,Facebook Ads,1
+2099,Asad Siddiqui,Female,31,Karachi,Sindh,2024-03-17,Direct,1
+2100,Hassan Siddiqui,Male,35,Peshawar,KPK,2025-02-13,Facebook Ads,1
+2101,Zahra Ali,Female,18,Lahore,Punjab,2025-12-12,Facebook Ads,0
+2102,Hamza Farooq,Female,32,Lahore,Punjab,2025-10-10,Referral,1
+2103,Faisal Raza,Male,23,Lahore,Punjab,2025-03-05,Facebook Ads,0
+2104,Hamza Shah,Female,30,Faisalabad,Punjab,2025-01-23,Google Ads,1
+2105,Muhammad Hashmi,Female,25,Rawalpindi,Punjab,2024-05-07,Facebook Ads,1
+2106,Hassan Sheikh,Female,25,Rawalpindi,Punjab,2024-03-08,Facebook Ads,0
+2107,Omer Ali,Female,26,Peshawar,KPK,2026-03-07,Direct,0
+2108,Bilal Malik,Male,18,Karachi,Sindh,2024-10-07,Google Ads,1
+2109,Muhammad Sheikh,Male,30,Lahore,Punjab,2025-01-22,Direct,1
+2110,Zain Sheikh,Female,20,Peshawar,KPK,2025-08-25,Google Ads,0
+2111,Saad Sheikh,Female,37,Rawalpindi,Punjab,2025-07-18,Facebook Ads,0
+2112,Bilal Hashmi,Male,29,Karachi,Sindh,2024-06-23,Google Ads,0
+2113,Omer Dar,Female,24,Karachi,Sindh,2025-05-03,TikTok Ads,0
+2114,Sara Malik,Male,25,Karachi,Sindh,2025-11-04,Facebook Ads,1
+2115,Hamza Malik,Female,35,Faisalabad,Punjab,2024-02-24,Google Ads,1
+2116,Hina Mughal,Male,25,Lahore,Punjab,2025-11-25,Referral,0
+2117,Nida Qureshi,Male,25,Karachi,Sindh,2025-03-25,Facebook Ads,0
+2118,Asad Gill,Female,24,Lahore,Punjab,2025-03-14,Direct,1
+2119,Tariq Iqbal,Male,19,Peshawar,KPK,2024-11-08,Facebook Ads,1
+2120,Mariam Shah,Male,44,Karachi,Sindh,2024-03-19,TikTok Ads,1
+2121,Hina Iqbal,Male,26,Lahore,Punjab,2025-08-12,TikTok Ads,0
+2122,Ahmed Ali,Female,30,Islamabad,Islamabad Capital Territory,2026-04-07,TikTok Ads,0
+2123,Muhammad Qureshi,Male,24,Lahore,Punjab,2025-05-06,Facebook Ads,1
+2124,Saad Jatoi,Male,27,Peshawar,KPK,2025-02-19,Google Ads,1
+2125,Muhammad Hashmi,Male,38,Lahore,Punjab,2026-01-01,Facebook Ads,1
+2126,Mariam Farooq,Male,24,Rawalpindi,Punjab,2026-01-26,Direct,0
+2127,Yasmin Jatoi,Male,27,Lahore,Punjab,2025-09-13,Organic,1
+2128,Zahra Butt,Male,30,Karachi,Sindh,2024-06-28,Facebook Ads,1
+2129,Ali Mughal,Female,28,Lahore,Punjab,2024-02-22,Facebook Ads,0
+2130,Mariam Cheema,Female,43,Rawalpindi,Punjab,2024-04-25,Google Ads,1
+2131,Omer Iqbal,Male,45,Islamabad,Islamabad Capital Territory,2024-10-24,Referral,1
+2132,Usman Cheema,Male,33,Lahore,Punjab,2024-01-03,Google Ads,1
+2133,Hina Baig,Female,31,Karachi,Sindh,2025-10-20,Facebook Ads,0
+2134,Tariq Ahmed,Female,33,Faisalabad,Punjab,2024-02-28,Google Ads,1
+2135,Asad Khan,Female,26,Karachi,Sindh,2024-11-01,TikTok Ads,0
+2136,Asad Sheikh,Other,46,Karachi,Sindh,2026-01-09,Google Ads,1
+2137,Fatima Dar,Male,18,Islamabad,Islamabad Capital Territory,2025-03-17,Organic,1
+2138,Saad Raza,Male,42,Rawalpindi,Punjab,2025-02-24,Facebook Ads,1
+2139,Zain Cheema,Other,31,Peshawar,KPK,2026-02-26,Organic,1
+2140,Yasmin Siddiqui,Female,18,Faisalabad,Punjab,2025-01-18,Facebook Ads,0
+2141,Usman Mughal,Male,21,Karachi,Sindh,2025-07-03,Facebook Ads,0
+2142,Bilal Sheikh,Female,18,Peshawar,KPK,2024-06-14,Facebook Ads,0
+2143,Hamza Mughal,Male,28,Peshawar,KPK,2025-01-02,TikTok Ads,1
+2144,Faisal Raza,Female,28,Islamabad,Islamabad Capital Territory,2024-02-11,Direct,1
+2145,Hamza Dar,Female,39,Karachi,Sindh,2024-02-02,Facebook Ads,1
+2146,Fatima Raza,Female,18,Faisalabad,Punjab,2024-05-01,Organic,1
+2147,Mariam Cheema,Male,20,Lahore,Punjab,2024-11-28,Facebook Ads,1
+2148,Amna Dar,Female,18,Karachi,Sindh,2024-05-14,Facebook Ads,1
+2149,Zain Sheikh,Male,36,Karachi,Sindh,2024-06-08,Facebook Ads,0
+2150,Asad Jatoi,Other,25,Lahore,Punjab,2025-12-01,Direct,0
+2151,Sana Ahmed,Female,28,Lahore,Punjab,2025-03-15,Organic,1
+2152,Nida Khan,Female,29,Lahore,Punjab,2024-10-15,Organic,0
+2153,Saad Ali,Male,28,Karachi,Sindh,2025-09-24,Referral,0
+2154,Hamza Jatoi,Female,50,Lahore,Punjab,2026-02-24,Facebook Ads,0
+2155,Zain Siddiqui,Male,20,Lahore,Punjab,2025-11-13,TikTok Ads,0
+2156,Mariam Raza,Male,37,Lahore,Punjab,2025-12-18,Organic,1
+2157,Hina Jatoi,Male,27,Lahore,Punjab,2026-05-25,TikTok Ads,0
+2158,Sara Malik,Male,18,Rawalpindi,Punjab,2025-02-14,Google Ads,0
+2159,Ahmed Siddiqui,Male,22,Peshawar,KPK,2025-03-12,Google Ads,0
+2160,Muhammad Hashmi,Male,33,Islamabad,Islamabad Capital Territory,2025-01-24,Facebook Ads,0
+2161,Mariam Jatoi,Male,29,Faisalabad,Punjab,2024-08-15,Google Ads,0
+2162,Omer Qureshi,Female,18,Peshawar,KPK,2025-10-21,Google Ads,0
+2163,Ahmed Abbasi,Female,21,Rawalpindi,Punjab,2024-10-14,Facebook Ads,1
+2164,Asad Qureshi,Male,29,Multan,Punjab,2024-07-05,Direct,1
+2165,Ahmed Khan,Female,30,Islamabad,Islamabad Capital Territory,2024-08-05,Organic,1
+2166,Usman Cheema,Male,35,Karachi,Sindh,2025-03-17,TikTok Ads,1
+2167,Fatima Siddiqui,Female,29,Karachi,Sindh,2024-12-08,Facebook Ads,0
+2168,Usman Sheikh,Male,25,Lahore,Punjab,2025-11-30,Google Ads,1
+2169,Hassan Malik,Female,24,Lahore,Punjab,2026-01-30,Facebook Ads,1
+2170,Amna Baig,Female,31,Lahore,Punjab,2024-08-31,TikTok Ads,1
+2171,Raza Siddiqui,Female,43,Karachi,Sindh,2024-03-30,Organic,0
+2172,Zain Malik,Male,33,Lahore,Punjab,2024-02-12,Google Ads,1
+2173,Sara Raza,Female,39,Karachi,Sindh,2024-04-11,Facebook Ads,1
+2174,Ali Farooq,Female,42,Karachi,Sindh,2026-01-12,Direct,0
+2175,Saad Raza,Male,23,Lahore,Punjab,2024-02-14,TikTok Ads,1
+2176,Hamza Raza,Female,33,Faisalabad,Punjab,2026-02-16,Facebook Ads,0
+2177,Hassan Mughal,Female,33,Karachi,Sindh,2025-10-06,Facebook Ads,1
+2178,Faisal Sheikh,Male,27,Peshawar,KPK,2025-05-09,TikTok Ads,1
+2179,Mariam Jatoi,Male,28,Karachi,Sindh,2024-06-19,Facebook Ads,1
+2180,Nida Siddiqui,Male,29,Multan,Punjab,2024-10-23,Google Ads,1
+2181,Ahmed Baig,Male,33,Lahore,Punjab,2026-01-28,Facebook Ads,1
+2182,Kiran Cheema,Male,31,Lahore,Punjab,2024-06-18,Direct,1
+2183,Zahra Jatoi,Female,35,Multan,Punjab,2025-02-14,Facebook Ads,1
+2184,Nida Siddiqui,Male,44,Lahore,Punjab,2024-06-12,Direct,0
+2185,Sara Raza,Male,25,Karachi,Sindh,2026-03-20,Facebook Ads,0
+2186,Tariq Gill,Female,18,Karachi,Sindh,2024-11-06,Direct,0
+2187,Sana Abbasi,Male,27,Islamabad,Islamabad Capital Territory,2024-06-24,Facebook Ads,1
+2188,Sana Ahmed,Female,18,Lahore,Punjab,2024-02-10,Organic,1
+2189,Raza Malik,Female,32,Islamabad,Islamabad Capital Territory,2024-05-16,Facebook Ads,0
+2190,Bilal Ahmed,Male,37,Peshawar,KPK,2026-04-23,Facebook Ads,0
+2191,Ayesha Farooq,Female,24,Peshawar,KPK,2025-10-09,Organic,0
+2192,Nida Mughal,Female,36,Rawalpindi,Punjab,2026-01-09,Facebook Ads,0
+2193,Hamza Qureshi,Female,46,Rawalpindi,Punjab,2024-11-28,Facebook Ads,1
+2194,Ahmed Khan,Male,21,Quetta,Balochistan,2026-01-18,Direct,0
+2195,Bilal Butt,Male,36,Lahore,Punjab,2025-07-04,Google Ads,1
+2196,Yasmin Baig,Female,25,Karachi,Sindh,2025-10-31,TikTok Ads,0
+2197,Bilal Hashmi,Female,25,Lahore,Punjab,2024-08-13,TikTok Ads,0
+2198,Omer Siddiqui,Female,42,Islamabad,Islamabad Capital Territory,2024-06-08,Facebook Ads,1
+2199,Zahra Iqbal,Female,28,Karachi,Sindh,2025-01-12,Facebook Ads,1
+2200,Hamza Cheema,Male,39,Lahore,Punjab,2025-04-15,Direct,1
+2201,Fatima Butt,Female,41,Karachi,Sindh,2026-01-16,Google Ads,0
+2202,Fatima Abbasi,Other,24,Gujranwala,Punjab,2024-06-15,Organic,1
+2203,Fatima Dar,Male,30,Karachi,Sindh,2024-03-12,Google Ads,1
+2204,Hamza Ali,Female,18,Rawalpindi,Punjab,2025-10-22,Organic,0
+2205,Kiran Sheikh,Male,18,Lahore,Punjab,2026-01-14,TikTok Ads,0
+2206,Amna Khan,Female,40,Lahore,Punjab,2025-01-28,Google Ads,1
+2207,Muhammad Sheikh,Male,19,Rawalpindi,Punjab,2024-05-15,Google Ads,1
+2208,Sana Ali,Male,30,Karachi,Sindh,2026-03-22,Organic,0
+2209,Muhammad Sheikh,Female,22,Lahore,Punjab,2026-05-23,Facebook Ads,0
+2210,Faisal Ali,Female,27,Peshawar,KPK,2026-02-16,Facebook Ads,0
+2211,Sara Gill,Female,25,Lahore,Punjab,2024-12-05,Organic,1
+2212,Saad Malik,Female,18,Lahore,Punjab,2025-10-04,Facebook Ads,0
+2213,Hassan Sheikh,Other,30,Karachi,Sindh,2024-02-15,TikTok Ads,0
+2214,Zain Farooq,Female,18,Lahore,Punjab,2024-05-25,Organic,1
+2215,Muhammad Iqbal,Other,26,Multan,Punjab,2025-03-13,Referral,0
+2216,Kiran Malik,Female,24,Faisalabad,Punjab,2024-08-19,Facebook Ads,0
+2217,Yasmin Dar,Male,29,Karachi,Sindh,2025-05-18,Google Ads,0
+2218,Fatima Sheikh,Female,34,Karachi,Sindh,2024-12-31,Google Ads,1
+2219,Ali Hashmi,Female,27,Lahore,Punjab,2024-03-27,Direct,1
+2220,Ahmed Hashmi,Female,18,Islamabad,Islamabad Capital Territory,2025-06-27,Google Ads,0
+2221,Omer Hashmi,Female,30,Karachi,Sindh,2024-06-02,Facebook Ads,1
+2222,Yasmin Abbasi,Female,21,Islamabad,Islamabad Capital Territory,2024-12-22,Direct,1
+2223,Zain Siddiqui,Female,33,Faisalabad,Punjab,2024-09-28,Direct,1
+2224,Faisal Ali,Male,26,Karachi,Sindh,2026-03-07,Direct,0
+2225,Raza Malik,Female,34,Karachi,Sindh,2025-04-02,Facebook Ads,0
+2226,Hina Cheema,Male,18,Islamabad,Islamabad Capital Territory,2025-08-14,Google Ads,0
+2227,Mariam Siddiqui,Female,23,Islamabad,Islamabad Capital Territory,2024-05-10,Facebook Ads,1
+2228,Fatima Dar,Female,25,Rawalpindi,Punjab,2025-03-10,Facebook Ads,1
+2229,Saad Qureshi,Female,26,Lahore,Punjab,2024-05-21,Google Ads,1
+2230,Raza Iqbal,Female,20,Karachi,Sindh,2025-07-05,Referral,1
+2231,Hassan Cheema,Male,28,Lahore,Punjab,2025-01-28,Direct,1
+2232,Ali Baig,Male,30,Karachi,Sindh,2025-12-20,Facebook Ads,0
+2233,Ali Iqbal,Male,34,Lahore,Punjab,2026-05-21,Facebook Ads,0
+2234,Muhammad Mughal,Male,41,Karachi,Sindh,2024-04-22,TikTok Ads,0
+2235,Ahmed Mughal,Male,30,Lahore,Punjab,2024-10-28,Facebook Ads,0
+2236,Zahra Malik,Female,18,Peshawar,KPK,2024-09-05,Organic,1
+2237,Ayesha Iqbal,Male,26,Karachi,Sindh,2024-04-30,Google Ads,1
+2238,Faisal Malik,Male,31,Karachi,Sindh,2025-12-13,Referral,0
+2239,Mariam Mughal,Male,29,Lahore,Punjab,2025-11-09,TikTok Ads,1
+2240,Sara Ali,Male,20,Karachi,Sindh,2024-01-31,Google Ads,0
+2241,Hamza Mughal,Male,34,Karachi,Sindh,2024-03-19,Direct,1
+2242,Muhammad Baig,Female,27,Faisalabad,Punjab,2024-06-02,Facebook Ads,1
+2243,Amna Butt,Male,30,Karachi,Sindh,2026-02-05,Google Ads,0
+2244,Tariq Abbasi,Female,34,Karachi,Sindh,2025-03-30,Referral,1
+2245,Raza Khan,Male,30,Lahore,Punjab,2024-03-02,Direct,1
+2246,Raza Ahmed,Male,27,Karachi,Sindh,2025-05-30,Google Ads,1
+2247,Fatima Khan,Female,45,Karachi,Sindh,2025-11-27,Facebook Ads,0
+2248,Zahra Farooq,Female,28,Karachi,Sindh,2025-08-08,Organic,0
+2249,Tariq Abbasi,Female,32,Karachi,Sindh,2024-06-09,Direct,0
+2250,Bilal Ali,Male,19,Peshawar,KPK,2026-01-30,Google Ads,0
+2251,Ayesha Dar,Male,20,Karachi,Sindh,2025-02-05,Facebook Ads,0
+2252,Fatima Farooq,Male,24,Islamabad,Islamabad Capital Territory,2026-04-16,Google Ads,0
+2253,Faisal Gill,Female,28,Islamabad,Islamabad Capital Territory,2026-04-27,Google Ads,0
+2254,Kiran Butt,Female,34,Lahore,Punjab,2025-10-24,Facebook Ads,0
+2255,Mariam Raza,Male,18,Islamabad,Islamabad Capital Territory,2024-03-20,Direct,1
+2256,Asad Hashmi,Female,18,Karachi,Sindh,2024-01-29,Facebook Ads,0
+2257,Sana Abbasi,Male,54,Karachi,Sindh,2024-03-07,Organic,1
+2258,Ayesha Hashmi,Other,27,Sialkot,Punjab,2024-11-12,Direct,0
+2259,Ayesha Farooq,Male,32,Islamabad,Islamabad Capital Territory,2024-09-03,Google Ads,1
+2260,Bilal Ali,Male,28,Lahore,Punjab,2025-07-31,Organic,0
+2261,Saad Ahmed,Other,18,Lahore,Punjab,2024-04-05,TikTok Ads,1
+2262,Usman Khan,Female,27,Karachi,Sindh,2025-02-11,Direct,1
+2263,Tariq Raza,Female,38,Karachi,Sindh,2026-01-13,TikTok Ads,0
+2264,Asad Malik,Male,41,Karachi,Sindh,2024-12-05,Facebook Ads,1
+2265,Mariam Jatoi,Male,18,Lahore,Punjab,2024-01-25,Facebook Ads,1
+2266,Sara Dar,Male,35,Lahore,Punjab,2024-10-24,Facebook Ads,1
+2267,Fatima Malik,Male,30,Islamabad,Islamabad Capital Territory,2025-10-02,Facebook Ads,0
+2268,Ali Iqbal,Male,32,Karachi,Sindh,2026-02-26,Referral,0
+2269,Faisal Butt,Female,25,Lahore,Punjab,2025-04-03,Facebook Ads,1
+2270,Hamza Shah,Female,18,Rawalpindi,Punjab,2024-02-10,Google Ads,0
+2271,Faisal Dar,Male,28,Karachi,Sindh,2024-06-05,Direct,1
+2272,Sara Cheema,Male,29,Islamabad,Islamabad Capital Territory,2024-05-26,Facebook Ads,0
+2273,Amna Abbasi,Male,31,Lahore,Punjab,2025-05-25,Google Ads,0
+2274,Zain Gill,Female,26,Lahore,Punjab,2024-06-14,Facebook Ads,1
+2275,Ali Siddiqui,Female,32,Lahore,Punjab,2024-04-01,Google Ads,1
+2276,Ali Butt,Female,20,Karachi,Sindh,2024-09-21,Organic,1
+2277,Saad Siddiqui,Female,53,Karachi,Sindh,2025-10-27,Facebook Ads,0
+2278,Hamza Sheikh,Female,22,Karachi,Sindh,2024-02-10,Organic,1
+2279,Asad Abbasi,Male,34,Lahore,Punjab,2025-03-27,Google Ads,0
+2280,Asad Jatoi,Female,22,Lahore,Punjab,2025-01-17,Google Ads,0
+2281,Ali Qureshi,Female,27,Islamabad,Islamabad Capital Territory,2025-11-29,TikTok Ads,1
+2282,Ahmed Hashmi,Male,24,Karachi,Sindh,2026-01-28,Google Ads,0
+2283,Sana Farooq,Other,25,Karachi,Sindh,2026-05-23,Direct,0
+2284,Zain Abbasi,Female,25,Karachi,Sindh,2026-05-24,Facebook Ads,0
+2285,Ali Iqbal,Female,24,Lahore,Punjab,2025-11-16,Facebook Ads,0
+2286,Ali Mughal,Female,26,Karachi,Sindh,2024-04-21,TikTok Ads,1
+2287,Ali Butt,Female,40,Lahore,Punjab,2026-02-25,Facebook Ads,0
+2288,Mariam Raza,Male,22,Islamabad,Islamabad Capital Territory,2024-11-20,Facebook Ads,1
+2289,Omer Hashmi,Female,18,Karachi,Sindh,2024-04-27,TikTok Ads,0
+2290,Bilal Gill,Other,41,Faisalabad,Punjab,2024-06-08,Referral,0
+2291,Saad Malik,Female,18,Karachi,Sindh,2025-08-04,Facebook Ads,0
+2292,Ahmed Hashmi,Male,43,Lahore,Punjab,2026-04-07,Google Ads,0
+2293,Asad Qureshi,Male,28,Lahore,Punjab,2024-02-25,Google Ads,1
+2294,Ayesha Khan,Female,35,Faisalabad,Punjab,2024-10-03,TikTok Ads,1
+2295,Bilal Butt,Male,18,Rawalpindi,Punjab,2024-10-07,Facebook Ads,1
+2296,Kiran Ali,Female,38,Faisalabad,Punjab,2025-03-05,Google Ads,0
+2297,Tariq Raza,Female,29,Islamabad,Islamabad Capital Territory,2024-07-07,Facebook Ads,1
+2298,Ahmed Ali,Female,18,Faisalabad,Punjab,2024-12-16,Google Ads,1
+2299,Amna Abbasi,Female,22,Lahore,Punjab,2025-03-05,Google Ads,1
+2300,Saad Cheema,Male,26,Lahore,Punjab,2025-12-14,TikTok Ads,0
+2301,Mariam Mughal,Female,34,Lahore,Punjab,2026-04-22,Organic,0
+2302,Muhammad Farooq,Male,29,Karachi,Sindh,2024-03-20,Google Ads,1
+2303,Hina Baig,Female,36,Faisalabad,Punjab,2025-11-11,Facebook Ads,1
+2304,Hina Shah,Other,18,Karachi,Sindh,2025-04-14,Direct,1
+2305,Hamza Cheema,Male,35,Lahore,Punjab,2026-03-22,Organic,0
+2306,Yasmin Qureshi,Male,21,Karachi,Sindh,2025-04-06,Facebook Ads,0
+2307,Hamza Gill,Male,35,Lahore,Punjab,2024-02-07,Facebook Ads,1
+2308,Ayesha Raza,Male,30,Lahore,Punjab,2025-09-07,Direct,1
+2309,Kiran Raza,Male,39,Karachi,Sindh,2025-11-26,Facebook Ads,0
+2310,Sara Khan,Female,33,Rawalpindi,Punjab,2024-01-17,Facebook Ads,1
+2311,Usman Abbasi,Male,30,Lahore,Punjab,2025-12-17,Organic,0
+2312,Saad Gill,Female,18,Lahore,Punjab,2024-12-26,TikTok Ads,1
+2313,Hassan Qureshi,Female,39,Lahore,Punjab,2024-04-26,Facebook Ads,0
+2314,Fatima Gill,Male,47,Karachi,Sindh,2025-07-20,Facebook Ads,0
+2315,Nida Butt,Female,30,Faisalabad,Punjab,2024-10-18,Organic,1
+2316,Yasmin Qureshi,Male,18,Rawalpindi,Punjab,2024-03-30,Google Ads,1
+2317,Zain Ali,Female,18,Karachi,Sindh,2024-04-16,Facebook Ads,1
+2318,Saad Hashmi,Male,18,Lahore,Punjab,2025-10-10,Referral,1
+2319,Zahra Jatoi,Male,24,Rawalpindi,Punjab,2025-11-14,Organic,0
+2320,Usman Qureshi,Female,36,Peshawar,KPK,2025-07-18,Google Ads,0
+2321,Kiran Sheikh,Female,26,Lahore,Punjab,2024-05-07,Google Ads,0
+2322,Asad Gill,Female,46,Karachi,Sindh,2024-01-08,Google Ads,0
+2323,Asad Iqbal,Female,40,Islamabad,Islamabad Capital Territory,2025-11-05,TikTok Ads,0
+2324,Bilal Abbasi,Female,31,Karachi,Sindh,2025-11-20,Organic,0
+2325,Sana Khan,Female,37,Multan,Punjab,2024-02-03,Facebook Ads,1
+2326,Muhammad Khan,Female,30,Rawalpindi,Punjab,2026-05-10,Facebook Ads,0
+2327,Tariq Hashmi,Male,35,Karachi,Sindh,2025-08-08,Organic,0
+2328,Mariam Iqbal,Female,18,Karachi,Sindh,2024-07-16,Facebook Ads,1
+2329,Nida Dar,Female,43,Multan,Punjab,2024-05-11,Organic,1
+2330,Raza Dar,Male,34,Islamabad,Islamabad Capital Territory,2025-02-16,Google Ads,1
+2331,Omer Jatoi,Male,45,Lahore,Punjab,2024-04-11,Organic,1
+2332,Faisal Malik,Female,33,Lahore,Punjab,2026-05-13,Facebook Ads,0
+2333,Amna Siddiqui,Male,33,Islamabad,Islamabad Capital Territory,2024-11-26,Direct,1
+2334,Ayesha Ali,Female,26,Karachi,Sindh,2024-01-12,Referral,1
+2335,Raza Baig,Male,22,Lahore,Punjab,2025-08-08,Direct,0
+2336,Kiran Khan,Male,34,Karachi,Sindh,2025-04-09,TikTok Ads,0
+2337,Raza Mughal,Male,33,Karachi,Sindh,2024-10-31,Facebook Ads,0
+2338,Ayesha Farooq,Female,20,Karachi,Sindh,2026-02-27,Facebook Ads,0
+2339,Bilal Ahmed,Male,28,Karachi,Sindh,2025-10-04,Google Ads,0
+2340,Muhammad Baig,Male,36,Karachi,Sindh,2025-04-15,Organic,1
+2341,Nida Sheikh,Female,29,Faisalabad,Punjab,2024-09-25,TikTok Ads,0
+2342,Fatima Ali,Female,33,Karachi,Sindh,2026-05-08,TikTok Ads,0
+2343,Ayesha Dar,Male,47,Multan,Punjab,2025-02-27,Google Ads,1
+2344,Ali Cheema,Male,31,Multan,Punjab,2024-08-03,Organic,1
+2345,Yasmin Qureshi,Female,49,Karachi,Sindh,2025-10-10,Referral,0
+2346,Zahra Butt,Male,27,Islamabad,Islamabad Capital Territory,2024-07-01,Facebook Ads,0
+2347,Yasmin Baig,Male,38,Karachi,Sindh,2024-04-30,Facebook Ads,1
+2348,Omer Mughal,Male,18,Lahore,Punjab,2024-06-11,Facebook Ads,0
+2349,Tariq Siddiqui,Male,18,Karachi,Sindh,2025-09-12,TikTok Ads,1
+2350,Muhammad Farooq,Other,26,Lahore,Punjab,2025-06-08,Facebook Ads,1
+2351,Amna Malik,Female,36,Karachi,Sindh,2024-04-27,Facebook Ads,1
+2352,Ayesha Khan,Male,18,Karachi,Sindh,2024-03-26,Organic,0
+2353,Hina Malik,Female,36,Islamabad,Islamabad Capital Territory,2024-07-23,TikTok Ads,1
+2354,Ali Mughal,Female,36,Lahore,Punjab,2025-04-23,TikTok Ads,0
+2355,Hina Cheema,Female,30,Rawalpindi,Punjab,2024-07-16,Google Ads,1
+2356,Bilal Butt,Female,26,Lahore,Punjab,2025-02-06,Facebook Ads,0
+2357,Zain Baig,Female,41,Faisalabad,Punjab,2024-06-18,Facebook Ads,0
+2358,Ayesha Cheema,Female,38,Rawalpindi,Punjab,2025-03-09,TikTok Ads,0
+2359,Nida Siddiqui,Male,30,Lahore,Punjab,2025-09-13,TikTok Ads,1
+2360,Kiran Qureshi,Female,38,Islamabad,Islamabad Capital Territory,2025-01-17,Referral,1
+2361,Raza Ali,Male,30,Lahore,Punjab,2025-06-07,Google Ads,1
+2362,Bilal Baig,Female,35,Karachi,Sindh,2025-02-11,Organic,0
+2363,Muhammad Sheikh,Female,23,Karachi,Sindh,2025-03-15,Organic,1
+2364,Fatima Mughal,Male,38,Karachi,Sindh,2025-11-03,Direct,1
+2365,Asad Mughal,Female,34,Peshawar,KPK,2024-05-05,TikTok Ads,1
+2366,Muhammad Shah,Female,18,Lahore,Punjab,2024-08-06,TikTok Ads,0
+2367,Zahra Baig,Male,19,Gujranwala,Punjab,2025-07-29,Organic,0
+2368,Ali Dar,Male,22,Lahore,Punjab,2025-06-23,Google Ads,0
+2369,Ayesha Sheikh,Male,42,Lahore,Punjab,2025-08-10,Organic,0
+2370,Raza Qureshi,Female,32,Karachi,Sindh,2024-11-21,Google Ads,0
+2371,Omer Raza,Female,27,Karachi,Sindh,2025-05-25,Referral,0
+2372,Ahmed Siddiqui,Male,18,Karachi,Sindh,2025-04-08,Direct,1
+2373,Fatima Hashmi,Female,32,Lahore,Punjab,2024-08-30,Direct,1
+2374,Sara Khan,Male,29,Karachi,Sindh,2025-04-17,Organic,1
+2375,Usman Malik,Female,28,Peshawar,KPK,2024-02-07,Google Ads,0
+2376,Hassan Jatoi,Other,23,Lahore,Punjab,2025-10-22,Facebook Ads,0
+2377,Muhammad Ali,Female,31,Multan,Punjab,2026-01-10,Facebook Ads,0
+2378,Usman Siddiqui,Female,24,Islamabad,Islamabad Capital Territory,2025-02-13,Facebook Ads,1
+2379,Ali Farooq,Female,20,Islamabad,Islamabad Capital Territory,2025-09-19,Facebook Ads,0
+2380,Ahmed Dar,Female,32,Lahore,Punjab,2025-05-20,TikTok Ads,1
+2381,Raza Sheikh,Male,34,Karachi,Sindh,2024-01-30,TikTok Ads,1
+2382,Sana Ahmed,Male,24,Karachi,Sindh,2024-04-17,TikTok Ads,1
+2383,Omer Qureshi,Male,28,Karachi,Sindh,2024-07-14,Organic,0
+2384,Hina Mughal,Male,21,Karachi,Sindh,2025-12-05,Direct,1
+2385,Ahmed Siddiqui,Male,29,Lahore,Punjab,2024-04-23,Facebook Ads,1
+2386,Ahmed Abbasi,Female,31,Lahore,Punjab,2025-12-05,Organic,0
+2387,Nida Dar,Male,39,Karachi,Sindh,2024-05-21,Google Ads,0
+2388,Sara Gill,Female,41,Karachi,Sindh,2024-05-31,Organic,1
+2389,Amna Baig,Female,44,Karachi,Sindh,2025-10-14,Facebook Ads,1
+2390,Zahra Sheikh,Male,30,Karachi,Sindh,2025-08-14,Facebook Ads,0
+2391,Saad Cheema,Female,38,Multan,Punjab,2026-03-02,Google Ads,0
+2392,Hina Cheema,Female,25,Lahore,Punjab,2026-02-23,Facebook Ads,0
+2393,Usman Ali,Male,29,Karachi,Sindh,2025-11-06,Direct,1
+2394,Raza Raza,Male,35,Karachi,Sindh,2025-05-21,TikTok Ads,1
+2395,Ahmed Raza,Other,18,Lahore,Punjab,2024-08-09,TikTok Ads,1
+2396,Zahra Dar,Male,32,Islamabad,Islamabad Capital Territory,2024-12-14,Facebook Ads,0
+2397,Ayesha Baig,Female,23,Karachi,Sindh,2026-02-17,Facebook Ads,0
+2398,Usman Gill,Male,23,Sialkot,Punjab,2024-05-13,Facebook Ads,1
+2399,Sana Mughal,Female,35,Karachi,Sindh,2025-09-27,Facebook Ads,1
+2400,Tariq Raza,Male,33,Karachi,Sindh,2024-03-11,Facebook Ads,0
+2401,Bilal Qureshi,Female,28,Karachi,Sindh,2025-08-14,Google Ads,0
+2402,Raza Sheikh,Male,22,Karachi,Sindh,2026-02-01,Direct,0
+2403,Zain Iqbal,Other,31,Lahore,Punjab,2025-04-16,Google Ads,0
+2404,Fatima Siddiqui,Other,36,Lahore,Punjab,2025-11-08,Organic,0
+2405,Tariq Gill,Male,39,Peshawar,KPK,2025-07-17,Facebook Ads,1
+2406,Ali Mughal,Male,28,Lahore,Punjab,2025-02-10,Facebook Ads,1
+2407,Tariq Qureshi,Male,26,Karachi,Sindh,2025-03-27,Direct,1
+2408,Bilal Mughal,Female,19,Karachi,Sindh,2026-01-19,Google Ads,0
+2409,Mariam Raza,Female,42,Lahore,Punjab,2024-06-29,Direct,1
+2410,Nida Siddiqui,Female,37,Lahore,Punjab,2025-06-15,Google Ads,1
+2411,Mariam Sheikh,Male,29,Rawalpindi,Punjab,2024-04-23,TikTok Ads,0
+2412,Sana Sheikh,Male,24,Faisalabad,Punjab,2025-08-12,Google Ads,0
+2413,Bilal Iqbal,Male,38,Rawalpindi,Punjab,2024-10-09,Facebook Ads,0
+2414,Sana Hashmi,Female,21,Lahore,Punjab,2025-02-05,Google Ads,1
+2415,Kiran Sheikh,Female,18,Karachi,Sindh,2025-05-22,Facebook Ads,1
+2416,Ayesha Butt,Female,26,Karachi,Sindh,2025-10-14,Facebook Ads,0
+2417,Usman Hashmi,Male,25,Lahore,Punjab,2024-04-06,Facebook Ads,0
+2418,Fatima Jatoi,Female,21,Faisalabad,Punjab,2026-01-26,Facebook Ads,0
+2419,Usman Iqbal,Male,48,Islamabad,Islamabad Capital Territory,2024-06-19,Google Ads,0
+2420,Fatima Shah,Male,44,Lahore,Punjab,2024-01-14,Facebook Ads,1
+2421,Yasmin Cheema,Male,29,Lahore,Punjab,2024-06-30,Direct,0
+2422,Bilal Ali,Male,24,Karachi,Sindh,2025-08-31,Organic,0
+2423,Asad Cheema,Female,26,Karachi,Sindh,2024-09-10,Google Ads,0
+2424,Saad Sheikh,Other,19,Karachi,Sindh,2024-01-18,Google Ads,0
+2425,Sara Abbasi,Male,27,Lahore,Punjab,2026-02-12,Organic,1
+2426,Hamza Sheikh,Female,40,Islamabad,Islamabad Capital Territory,2025-04-08,Google Ads,0
+2427,Saad Mughal,Female,34,Lahore,Punjab,2025-11-10,Facebook Ads,1
+2428,Saad Siddiqui,Male,27,Karachi,Sindh,2026-04-27,Organic,0
+2429,Asad Abbasi,Female,32,Lahore,Punjab,2024-04-25,Google Ads,1
+2430,Bilal Jatoi,Male,27,Multan,Punjab,2024-05-31,Google Ads,0
+2431,Mariam Iqbal,Male,24,Karachi,Sindh,2024-12-31,Facebook Ads,0
+2432,Saad Khan,Female,30,Islamabad,Islamabad Capital Territory,2025-01-03,Facebook Ads,1
+2433,Ayesha Ali,Female,28,Lahore,Punjab,2025-10-16,Organic,0
+2434,Zain Siddiqui,Female,22,Karachi,Sindh,2025-06-23,Facebook Ads,1
+2435,Fatima Siddiqui,Female,25,Rawalpindi,Punjab,2024-12-05,Organic,1
+2436,Kiran Baig,Female,33,Lahore,Punjab,2024-11-12,Facebook Ads,1
+2437,Ayesha Ahmed,Female,25,Lahore,Punjab,2026-05-04,TikTok Ads,0
+2438,Nida Sheikh,Female,27,Lahore,Punjab,2025-08-03,Google Ads,0
+2439,Asad Abbasi,Male,41,Multan,Punjab,2025-05-25,Facebook Ads,0
+2440,Yasmin Malik,Male,19,Lahore,Punjab,2025-06-19,Facebook Ads,1
+2441,Usman Hashmi,Male,41,Peshawar,KPK,2024-11-06,Facebook Ads,1
+2442,Saad Abbasi,Female,36,Peshawar,KPK,2024-01-16,Facebook Ads,1
+2443,Zahra Ahmed,Male,25,Multan,Punjab,2024-02-24,Google Ads,0
+2444,Saad Abbasi,Other,31,Islamabad,Islamabad Capital Territory,2024-12-26,Organic,0
+2445,Yasmin Khan,Other,27,Karachi,Sindh,2024-05-21,Google Ads,1
+2446,Asad Abbasi,Male,35,Lahore,Punjab,2024-03-29,Facebook Ads,1
+2447,Faisal Siddiqui,Male,37,Sialkot,Punjab,2025-03-18,TikTok Ads,0
+2448,Sara Ali,Male,28,Karachi,Sindh,2025-04-29,Direct,0
+2449,Asad Iqbal,Female,20,Peshawar,KPK,2025-03-08,Organic,0
+2450,Kiran Sheikh,Female,30,Islamabad,Islamabad Capital Territory,2025-09-03,Organic,0
+2451,Usman Butt,Female,25,Islamabad,Islamabad Capital Territory,2026-04-03,Facebook Ads,0
+2452,Sara Malik,Male,25,Lahore,Punjab,2024-09-13,Organic,1
+2453,Hamza Qureshi,Female,28,Rawalpindi,Punjab,2024-11-08,Organic,1
+2454,Ali Abbasi,Female,41,Islamabad,Islamabad Capital Territory,2025-07-12,Facebook Ads,1
+2455,Fatima Dar,Female,22,Karachi,Sindh,2024-04-08,Facebook Ads,1
+2456,Hamza Jatoi,Female,20,Karachi,Sindh,2025-05-30,Google Ads,0
+2457,Yasmin Mughal,Female,37,Karachi,Sindh,2025-04-22,Direct,0
+2458,Mariam Qureshi,Male,39,Lahore,Punjab,2026-02-24,Google Ads,0
+2459,Mariam Ali,Female,23,Islamabad,Islamabad Capital Territory,2026-03-16,Facebook Ads,0
+2460,Sana Baig,Male,36,Faisalabad,Punjab,2025-09-27,Google Ads,0
+2461,Hassan Baig,Male,20,Islamabad,Islamabad Capital Territory,2026-02-12,Organic,0
+2462,Kiran Malik,Male,34,Lahore,Punjab,2025-04-18,TikTok Ads,0
+2463,Amna Jatoi,Male,37,Lahore,Punjab,2024-03-27,Organic,1
+2464,Ahmed Siddiqui,Male,29,Rawalpindi,Punjab,2024-12-07,Google Ads,0
+2465,Nida Sheikh,Female,26,Rawalpindi,Punjab,2025-12-08,Facebook Ads,0
+2466,Omer Ahmed,Male,18,Lahore,Punjab,2025-12-19,Organic,1
+2467,Ayesha Jatoi,Female,40,Karachi,Sindh,2024-05-19,Facebook Ads,1
+2468,Sana Malik,Female,19,Rawalpindi,Punjab,2026-01-06,Facebook Ads,0
+2469,Muhammad Cheema,Male,35,Karachi,Sindh,2024-04-27,Referral,1
+2470,Ali Khan,Male,26,Quetta,Balochistan,2025-06-16,Facebook Ads,1
+2471,Zain Iqbal,Female,22,Islamabad,Islamabad Capital Territory,2024-01-26,Facebook Ads,1
+2472,Tariq Gill,Male,29,Faisalabad,Punjab,2024-11-03,Facebook Ads,0
+2473,Kiran Cheema,Male,28,Quetta,Balochistan,2026-05-11,TikTok Ads,0
+2474,Hassan Siddiqui,Female,28,Rawalpindi,Punjab,2026-05-29,Google Ads,0
+2475,Yasmin Hashmi,Male,20,Lahore,Punjab,2025-10-13,TikTok Ads,1
+2476,Muhammad Butt,Male,24,Lahore,Punjab,2024-06-23,Facebook Ads,1
+2477,Tariq Farooq,Female,18,Lahore,Punjab,2024-10-23,TikTok Ads,1
+2478,Usman Sheikh,Female,28,Lahore,Punjab,2025-01-11,Google Ads,0
+2479,Yasmin Siddiqui,Male,37,Faisalabad,Punjab,2025-04-20,Facebook Ads,1
+2480,Mariam Qureshi,Female,38,Lahore,Punjab,2025-04-13,TikTok Ads,1
+2481,Zain Baig,Female,28,Karachi,Sindh,2024-02-04,Facebook Ads,0
+2482,Raza Hashmi,Female,18,Karachi,Sindh,2024-05-22,Facebook Ads,1
+2483,Zahra Gill,Male,38,Peshawar,KPK,2025-01-01,Organic,1
+2484,Tariq Jatoi,Female,40,Karachi,Sindh,2025-06-09,Direct,0
+2485,Ali Butt,Female,28,Lahore,Punjab,2025-11-02,Referral,0
+2486,Hina Baig,Male,38,Lahore,Punjab,2024-10-12,Direct,1
+2487,Amna Abbasi,Male,46,Rawalpindi,Punjab,2026-05-09,Referral,0
+2488,Raza Cheema,Female,18,Lahore,Punjab,2025-09-12,Facebook Ads,0
+2489,Yasmin Butt,Female,33,Karachi,Sindh,2024-05-12,Google Ads,1
+2490,Faisal Shah,Female,40,Islamabad,Islamabad Capital Territory,2025-08-21,Organic,1
+2491,Nida Dar,Male,18,Quetta,Balochistan,2026-05-22,TikTok Ads,0
+2492,Hina Butt,Male,29,Lahore,Punjab,2025-05-26,Facebook Ads,1
+2493,Yasmin Cheema,Male,22,Karachi,Sindh,2026-03-01,Google Ads,0
+2494,Hina Iqbal,Male,36,Karachi,Sindh,2026-01-15,TikTok Ads,0
+2495,Kiran Qureshi,Male,32,Karachi,Sindh,2025-09-18,Facebook Ads,0
+2496,Bilal Sheikh,Other,23,Karachi,Sindh,2026-02-06,Direct,0
+2497,Ali Gill,Male,27,Rawalpindi,Punjab,2024-06-27,TikTok Ads,1
+2498,Omer Sheikh,Female,34,Quetta,Balochistan,2024-05-16,Google Ads,0
+2499,Raza Baig,Male,26,Lahore,Punjab,2024-09-15,Referral,1
+2500,Saad Gill,Male,31,Lahore,Punjab,2024-07-25,Facebook Ads,1

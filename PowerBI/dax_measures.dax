@@ -1,0 +1,217 @@
+// =================================================================
+// POWER BI DAX MEASURES LIBRARY (30 Advanced Measures)
+// Company: Daraz Pakistan (E-Commerce)
+// Palette: Dark Navy (#0B1F3A), Emerald Green (#00C853), Gold (#FFB300), Alert Red (#E53935)
+// =================================================================
+
+// -----------------------------------------------------------------
+// CATEGORY 1: CORE SALES & REVENUE KPIs
+// -----------------------------------------------------------------
+
+// 1. Gross Merchandise Value (GMV)
+Total Revenue = SUM('orders'[total_amount])
+
+// 2. Total Orders Count
+Total Orders = COUNT('orders'[order_id])
+
+// 3. Total Items Sold
+Total Units Sold = SUM('order_items'[quantity])
+
+// 4. Average Order Value (AOV)
+Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
+
+// 5. Total Discount Applied
+Total Discount = SUM('orders'[discount_applied])
+
+// 6. Discount Rate percentage
+Effective Discount Rate = DIVIDE([Total Discount], [Total Revenue] + [Total Discount], 0)
+
+
+// -----------------------------------------------------------------
+// CATEGORY 2: PROFITABILITY & COSTS
+// -----------------------------------------------------------------
+
+// 7. Cost of Goods Sold (COGS)
+Total Cost = SUM('order_items'[item_cost])
+
+// 8. Net Profit
+Net Profit = [Total Revenue] - [Total Cost]
+
+// 9. Profit Margin %
+Profit Margin % = DIVIDE([Net Profit], [Total Revenue], 0)
+
+
+// -----------------------------------------------------------------
+// CATEGORY 3: TIME INTELLIGENCE
+// -----------------------------------------------------------------
+
+// 10. Year-to-Date (YTD) Revenue
+YTD Revenue = TOTALYTD([Total Revenue], 'orders'[order_date])
+
+// 11. Prior Year (PY) Revenue
+Prior Year Revenue = CALCULATE([Total Revenue], SAMEPERIODLASTYEAR('orders'[order_date]))
+
+// 12. Year-over-Year (YoY) Revenue Growth %
+YoY Revenue Growth % = 
+VAR PY_Rev = [Prior Year Revenue]
+RETURN
+DIVIDE([Total Revenue] - PY_Rev, PY_Rev, 0)
+
+// 13. Month-over-Month (MoM) Revenue Growth %
+MoM Revenue Growth % = 
+VAR Current_Month_Rev = [Total Revenue]
+VAR Previous_Month_Rev = 
+    CALCULATE(
+        [Total Revenue], 
+        DATEADD('orders'[order_date], -1, MONTH)
+    )
+RETURN
+DIVIDE(Current_Month_Rev - Previous_Month_Rev, Previous_Month_Rev, 0)
+
+// 14. Cumulative Revenue (Running Total)
+Running Total Revenue = 
+CALCULATE(
+    [Total Revenue],
+    FILTER(
+        ALLSELECTED('orders'),
+        'orders'[order_date] <= MAX('orders'[order_date])
+    )
+)
+
+
+// -----------------------------------------------------------------
+// CATEGORY 4: CUSTOMER INTELLIGENCE & RETENTION
+// -----------------------------------------------------------------
+
+// 15. Unique Customers Active
+Active Customer Base = DISTINCTCOUNT('orders'[customer_id])
+
+// 16. Churned Customer Count
+Churned Customers Count = CALCULATE(COUNT('customers'[customer_id]), 'customers'[is_churned] = 1)
+
+// 17. Churn Rate %
+Churn Rate % = DIVIDE([Churned Customers Count], COUNT('customers'[customer_id]), 0)
+
+// 18. New Customer Signups (Acquisition)
+New Signups = COUNT('customers'[customer_id])
+
+// 19. Customer Lifetime Value (CLV - Dynamic Estimate)
+Dynamic CLV (PKR) = 
+VAR AvgSpend = [Average Order Value]
+VAR ChurnRate = [Churn Rate %]
+VAR OrderFreq = DIVIDE([Total Orders], [Active Customer Base], 0)
+RETURN
+DIVIDE(AvgSpend * OrderFreq, IF(ChurnRate = 0, 0.05, ChurnRate), 0)
+
+// 20. Repeat Buyer Rate %
+Repeat Buyer Rate % = 
+VAR MultiBuyers = 
+    COUNTROWS(
+        FILTER(
+            ADDCOLUMNS(
+                VALUES('orders'[customer_id]),
+                "OrderCount", CALCULATE(COUNT('orders'[order_id]))
+            ),
+            [OrderCount] > 1
+        )
+    )
+RETURN
+DIVIDE(MultiBuyers, [Active Customer Base], 0)
+
+
+// -----------------------------------------------------------------
+// CATEGORY 5: LOGISTICS & SERVICE LEVEL AGREEMENT (SLA)
+// -----------------------------------------------------------------
+
+// 21. Average Transit Days (Shipment to Delivery)
+Average Transit Days = AVERAGE('deliveries'[transit_days])
+
+// 22. Delayed Deliveries Count
+Delayed Deliveries Count = 
+CALCULATE(
+    COUNT('deliveries'[delivery_id]),
+    'deliveries'[delivery_status] = "Delayed"
+)
+
+// 23. Late Delivery Rate %
+Late Delivery Rate % = DIVIDE([Delayed Deliveries Count], COUNT('deliveries'[delivery_id]), 0)
+
+// 24. SLA Breach Count (Custom SLA: 3 days for Tier 1, 6 days for remote)
+SLA Breaches = 
+CALCULATE(
+    COUNT('deliveries'[delivery_id]),
+    FILTER(
+        'deliveries',
+        VAR OrderCity = RELATED('customers'[city])
+        VAR IsTier1 = OrderCity IN {"Karachi", "Lahore", "Islamabad", "Rawalpindi"}
+        VAR AllowedDays = IF(IsTier1, 3, 6)
+        RETURN
+        'deliveries'[transit_days] > AllowedDays
+    )
+)
+
+// 25. Average Customer Delivery Satisfaction Rating
+Average Customer Rating = 
+CALCULATE(
+    AVERAGE('deliveries'[customer_rating]),
+    'deliveries'[customer_rating] > 0
+)
+
+
+// -----------------------------------------------------------------
+// CATEGORY 6: RFM DYNAMIC GROUPING
+// -----------------------------------------------------------------
+
+// 26. Recency Days (Dynamic relative to selection)
+Days Since Last Order = 
+VAR MaxOrderDate = MAX('orders'[order_date])
+VAR CurrentDate = Date(2026, 5, 31)
+RETURN
+DATEDIFF(MaxOrderDate, CurrentDate, DAY)
+
+// 27. RFM Recency Score (1-5 Rank)
+RFM_Recency_Score = 
+VAR Days = [Days Since Last Order]
+RETURN
+IF(ISBLANK(Days), 1,
+    IF(Days <= 30, 5,
+        IF(Days <= 60, 4,
+            IF(Days <= 90, 3,
+                IF(Days <= 180, 2, 1)
+            )
+        )
+    )
+)
+
+// 28. RFM Frequency Score (1-5 Rank)
+RFM_Frequency_Score = 
+VAR Freq = [Total Orders]
+RETURN
+IF(Freq >= 8, 5,
+    IF(Freq >= 5, 4,
+        IF(Freq >= 3, 3,
+            IF(Freq >= 2, 2, 1)
+        )
+    )
+)
+
+
+// -----------------------------------------------------------------
+// CATEGORY 7: DYNAMIC INTERACTION & UI CONTROLS
+// -----------------------------------------------------------------
+
+// 29. Dynamic Dashboard Header Title
+Dynamic Title = 
+VAR SelectedProv = SELECTEDVALUE('customers'[province], "All Pakistan")
+RETURN
+"Daraz Executive Overview - " & SelectedProv & " (" & FORMAT(MAX('orders'[order_date]), "YYYY") & ")"
+
+// 30. Smart KPI Card Indicator Color (Conditional Formatting)
+KPI Color Alert = 
+VAR DelayedRate = [Late Delivery Rate %]
+RETURN
+IF(DelayedRate > 0.15, "#E53935", // Alert Red for >15% delay
+    IF(DelayedRate > 0.08, "#FFB300", // Gold warning for 8-15%
+        "#00C853" // Emerald Green for healthy <8%
+    )
+)
