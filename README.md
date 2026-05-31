@@ -116,6 +116,14 @@ Data Analytics/
 
 ## Analytics Outputs
 
+### Power BI Dashboard Preview
+
+The repository includes a polished Power BI-style executive dashboard preview for portfolio presentation and LinkedIn sharing.
+
+[Open the dashboard preview](PowerBI/dashboard_preview.html)
+
+![Power BI Dashboard Preview](assets/dashboard/powerbi_dashboard_preview.png)
+
 ### Churn Model
 
 The churn model uses customer behavior, order recency, delivery experience, ratings, returns, signup channel, and demographic features to estimate churn risk.

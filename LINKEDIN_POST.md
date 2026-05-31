@@ -1,8 +1,8 @@
 # LinkedIn Project Post
 
-I just completed an end-to-end Data Analytics portfolio project focused on Daraz Pakistan's e-commerce business.
+I just completed an end-to-end Data Analytics portfolio project focused on Daraz Pakistan's e-commerce business, and I built it with an executive Power BI dashboard experience in mind.
 
-This project was designed like a real analytics consulting engagement: not just charts, but a full workflow from raw data to business recommendations.
+This was designed like a real analytics consulting engagement: not just charts, but a full workflow from raw data to insight, prediction, dashboard storytelling, and business recommendations.
 
 What I built:
 
@@ -11,7 +11,8 @@ What I built:
 - Customer segmentation using RFM analysis
 - Revenue forecasting with time-series modeling
 - A Random Forest churn prediction model with 93% accuracy and 0.9827 ROC-AUC
-- Power BI dashboard architecture, DAX measures, wireframes, and executive reports
+- A Power BI-style executive dashboard preview with KPIs, churn intelligence, revenue forecast, customer segments, marketing efficiency, and courier SLA performance
+- DAX measures, dashboard architecture, wireframes, and executive reports
 
 Some key insights from the project:
 
@@ -24,6 +25,12 @@ Some key insights from the project:
 The biggest lesson for me: analytics becomes powerful when it connects technical work with clear business action. A model is useful, but a recommendation that helps reduce churn, improve delivery, or protect profit is what makes the work valuable.
 
 This project strengthened my skills in Python, SQL, machine learning, forecasting, Power BI planning, and executive storytelling.
+
+Dashboard preview:
+PowerBI/dashboard_preview.html
+
+Suggested image to attach:
+assets/dashboard/powerbi_dashboard_preview.png
 
 GitHub Project:
 https://github.com/shujahathussain-hub/daraz-pakistan-analytics

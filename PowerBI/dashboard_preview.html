@@ -1,0 +1,695 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Daraz Pakistan Power BI Dashboard Preview</title>
+  <style>
+    :root {
+      --navy: #07172f;
+      --ink: #102033;
+      --muted: #667085;
+      --line: #dbe3ee;
+      --canvas: #eef3f8;
+      --panel: #ffffff;
+      --green: #00a86b;
+      --mint: #dff9ee;
+      --gold: #f6a609;
+      --red: #d92d20;
+      --blue: #2563eb;
+      --violet: #6d5dfc;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: var(--canvas);
+      color: var(--ink);
+      font-family: "Segoe UI", Arial, sans-serif;
+      letter-spacing: 0;
+    }
+
+    .dashboard {
+      width: 1600px;
+      height: 1000px;
+      display: grid;
+      grid-template-columns: 245px 1fr;
+      background: var(--canvas);
+      overflow: hidden;
+    }
+
+    aside {
+      background: var(--navy);
+      color: #fff;
+      padding: 28px 20px;
+      display: flex;
+      flex-direction: column;
+      gap: 28px;
+    }
+
+    .brand {
+      display: grid;
+      gap: 8px;
+    }
+
+    .brand-mark {
+      width: 62px;
+      height: 62px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      background: #f85606;
+      color: #fff;
+      font-weight: 800;
+      font-size: 26px;
+      box-shadow: 0 18px 38px rgba(0, 0, 0, .22);
+    }
+
+    .brand h1 {
+      margin: 0;
+      font-size: 23px;
+      line-height: 1.05;
+      font-weight: 750;
+    }
+
+    .brand p {
+      margin: 0;
+      color: #b6c7dc;
+      font-size: 13px;
+      line-height: 1.4;
+    }
+
+    nav {
+      display: grid;
+      gap: 10px;
+      margin-top: 6px;
+    }
+
+    .nav-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 12px 13px;
+      border-radius: 8px;
+      color: #c9d7e8;
+      font-size: 14px;
+      font-weight: 650;
+    }
+
+    .nav-item.active {
+      background: #ffffff;
+      color: var(--navy);
+    }
+
+    .nav-icon {
+      width: 22px;
+      height: 22px;
+      display: inline-grid;
+      place-items: center;
+    }
+
+    .side-card {
+      margin-top: auto;
+      border: 1px solid rgba(255, 255, 255, .15);
+      border-radius: 8px;
+      padding: 16px;
+      background: rgba(255, 255, 255, .06);
+    }
+
+    .side-card strong {
+      display: block;
+      font-size: 22px;
+      margin-bottom: 3px;
+    }
+
+    .side-card span {
+      color: #b6c7dc;
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    main {
+      height: 1000px;
+      min-height: 0;
+      padding: 24px;
+      display: grid;
+      grid-template-rows: 70px 118px 424px 230px;
+      gap: 16px;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      min-height: 0;
+    }
+
+    .title-block h2 {
+      margin: 0 0 6px;
+      font-size: 30px;
+      line-height: 1;
+      color: var(--navy);
+    }
+
+    .title-block p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 14px;
+    }
+
+    .filters {
+      display: flex;
+      gap: 10px;
+    }
+
+    .filter {
+      min-width: 124px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+      padding: 10px 13px;
+      box-shadow: 0 10px 24px rgba(15, 23, 42, .06);
+    }
+
+    .filter small {
+      display: block;
+      color: var(--muted);
+      font-size: 10px;
+      text-transform: uppercase;
+      font-weight: 750;
+      margin-bottom: 4px;
+    }
+
+    .filter b {
+      font-size: 13px;
+      color: var(--ink);
+    }
+
+    .kpis {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 14px;
+      min-height: 0;
+    }
+
+    .kpi,
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      box-shadow: 0 16px 40px rgba(15, 23, 42, .08);
+    }
+
+    .kpi {
+      padding: 16px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .kpi::before {
+      content: "";
+      position: absolute;
+      inset: 0 0 auto;
+      height: 4px;
+      background: var(--accent, var(--blue));
+    }
+
+    .kpi label {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 750;
+      text-transform: uppercase;
+      margin-bottom: 9px;
+    }
+
+    .kpi strong {
+      display: block;
+      font-size: 30px;
+      color: var(--navy);
+      line-height: 1;
+    }
+
+    .kpi span {
+      display: inline-flex;
+      margin-top: 9px;
+      color: var(--accent, var(--blue));
+      background: color-mix(in srgb, var(--accent, var(--blue)) 13%, white);
+      border-radius: 999px;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 5px 9px;
+    }
+
+    .grid-main {
+      display: grid;
+      grid-template-columns: 1.35fr .9fr .85fr;
+      grid-template-rows: 1fr 1fr;
+      gap: 16px;
+      min-height: 0;
+    }
+
+    .panel {
+      padding: 16px;
+      min-height: 0;
+      overflow: hidden;
+    }
+
+    .panel-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: start;
+      gap: 12px;
+      margin-bottom: 12px;
+    }
+
+    .panel-title {
+      margin: 0;
+      color: var(--navy);
+      font-size: 17px;
+      line-height: 1.1;
+    }
+
+    .panel-subtitle {
+      margin: 4px 0 0;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .tag {
+      flex: 0 0 auto;
+      color: var(--navy);
+      background: #eff4ff;
+      border: 1px solid #c7d7fe;
+      border-radius: 999px;
+      padding: 5px 9px;
+      font-size: 11px;
+      font-weight: 750;
+    }
+
+    .wide { grid-row: span 2; }
+
+    .chart {
+      width: 100%;
+      height: calc(100% - 48px);
+      min-height: 0;
+    }
+
+    .forecast-chart svg,
+    .segment-chart svg,
+    .gauge svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .image-chart {
+      height: calc(100% - 48px);
+      display: grid;
+      place-items: center;
+    }
+
+    .image-chart img {
+      max-width: 100%;
+      max-height: 100%;
+      object-fit: contain;
+    }
+
+    .narrative {
+      display: grid;
+      gap: 8px;
+      height: calc(100% - 48px);
+      align-content: start;
+    }
+
+    .insight {
+      border-left: 4px solid var(--accent);
+      padding: 8px 11px;
+      background: #f8fafc;
+      border-radius: 0 8px 8px 0;
+    }
+
+    .insight strong {
+      display: block;
+      font-size: 13px;
+      margin-bottom: 4px;
+      color: var(--navy);
+    }
+
+    .insight span {
+      color: var(--muted);
+      font-size: 11px;
+      line-height: 1.35;
+    }
+
+    .bottom {
+      display: grid;
+      grid-template-columns: 1.1fr 1fr 1fr;
+      gap: 16px;
+      min-height: 0;
+      overflow: hidden;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 12px;
+    }
+
+    th {
+      color: var(--muted);
+      text-align: left;
+      font-size: 11px;
+      text-transform: uppercase;
+      padding: 0 0 9px;
+      border-bottom: 1px solid var(--line);
+    }
+
+    td {
+      padding: 10px 0;
+      border-bottom: 1px solid #edf1f6;
+      font-weight: 650;
+    }
+
+    .status {
+      display: inline-flex;
+      align-items: center;
+      min-width: 62px;
+      justify-content: center;
+      border-radius: 999px;
+      padding: 4px 8px;
+      font-size: 11px;
+      font-weight: 750;
+    }
+
+    .good { background: var(--mint); color: #027a48; }
+    .warn { background: #fff6dc; color: #9a6700; }
+    .bad { background: #ffebe8; color: var(--red); }
+
+    .mini-bars {
+      display: grid;
+      gap: 13px;
+      margin-top: 4px;
+    }
+
+    .mini-row {
+      display: grid;
+      grid-template-columns: 95px 1fr 52px;
+      align-items: center;
+      gap: 10px;
+      font-size: 12px;
+      font-weight: 700;
+    }
+
+    .bar-track {
+      height: 11px;
+      border-radius: 999px;
+      background: #e9eef5;
+      overflow: hidden;
+    }
+
+    .bar-fill {
+      height: 100%;
+      border-radius: inherit;
+      background: var(--bar);
+      width: var(--w);
+    }
+
+    .waterfall {
+      height: calc(100% - 48px);
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      align-items: end;
+      gap: 12px;
+      padding-top: 16px;
+    }
+
+    .wf-col {
+      display: grid;
+      gap: 7px;
+      align-items: end;
+      text-align: center;
+      font-size: 11px;
+      color: var(--muted);
+      font-weight: 700;
+    }
+
+    .wf-bar {
+      min-height: 24px;
+      height: var(--h);
+      border-radius: 8px 8px 0 0;
+      background: var(--c);
+      box-shadow: inset 0 1px 0 rgba(255,255,255,.35);
+    }
+
+    .wf-col strong {
+      color: var(--navy);
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <div class="dashboard">
+    <aside>
+      <div class="brand">
+        <div class="brand-mark">D</div>
+        <h1>Daraz Pakistan Analytics</h1>
+        <p>Executive Power BI dashboard preview for e-commerce growth, retention, and logistics.</p>
+      </div>
+
+      <nav>
+        <div class="nav-item active"><span class="nav-icon">▣</span> Executive Overview</div>
+        <div class="nav-item"><span class="nav-icon">◍</span> Customer Intelligence</div>
+        <div class="nav-item"><span class="nav-icon">↗</span> Sales Performance</div>
+        <div class="nav-item"><span class="nav-icon">◎</span> Marketing ROI</div>
+        <div class="nav-item"><span class="nav-icon">□</span> Logistics Control</div>
+      </nav>
+
+      <div class="side-card">
+        <strong>0.9827</strong>
+        <span>Random Forest ROC-AUC for churn prediction using RFM, delivery, rating, and return signals.</span>
+      </div>
+    </aside>
+
+    <main>
+      <section class="topbar">
+        <div class="title-block">
+          <h2>Executive Business Dashboard</h2>
+          <p>May 2026 snapshot | Synthetic portfolio data | SQL + Python + Power BI storytelling</p>
+        </div>
+        <div class="filters">
+          <div class="filter"><small>Date</small><b>2024 - 2026</b></div>
+          <div class="filter"><small>Province</small><b>All Pakistan</b></div>
+          <div class="filter"><small>Channel</small><b>All Sources</b></div>
+        </div>
+      </section>
+
+      <section class="kpis">
+        <div class="kpi" style="--accent: var(--blue)"><label>Total Revenue</label><strong>PKR 313M</strong><span>+18.2% YTD momentum</span></div>
+        <div class="kpi" style="--accent: var(--green)"><label>Total Orders</label><strong>8,604</strong><span>83.4% delivered</span></div>
+        <div class="kpi" style="--accent: var(--gold)"><label>Average Order Value</label><strong>PKR 36.4K</strong><span>High-ticket skew</span></div>
+        <div class="kpi" style="--accent: var(--red)"><label>Churn Rate</label><strong>47.5%</strong><span>Retention risk</span></div>
+        <div class="kpi" style="--accent: var(--violet)"><label>Customer Base</label><strong>2,500</strong><span>7 RFM segments</span></div>
+      </section>
+
+      <section class="grid-main">
+        <article class="panel wide">
+          <div class="panel-header">
+            <div>
+              <h3 class="panel-title">Revenue Forecast and Seasonal Lift</h3>
+              <p class="panel-subtitle">Historical trend with 6-month forecast ending in 11.11 spike</p>
+            </div>
+            <span class="tag">Holt-Winters</span>
+          </div>
+          <div class="chart forecast-chart">
+            <svg viewBox="0 0 650 470" aria-label="Revenue forecast chart">
+              <defs>
+                <linearGradient id="forecastFill" x1="0" x2="0" y1="0" y2="1">
+                  <stop offset="0%" stop-color="#2563eb" stop-opacity=".22"/>
+                  <stop offset="100%" stop-color="#2563eb" stop-opacity="0"/>
+                </linearGradient>
+              </defs>
+              <rect x="0" y="0" width="650" height="470" fill="#fff"/>
+              <g stroke="#e5ecf5" stroke-width="1">
+                <line x1="55" y1="70" x2="620" y2="70"/>
+                <line x1="55" y1="145" x2="620" y2="145"/>
+                <line x1="55" y1="220" x2="620" y2="220"/>
+                <line x1="55" y1="295" x2="620" y2="295"/>
+                <line x1="55" y1="370" x2="620" y2="370"/>
+              </g>
+              <g fill="#667085" font-size="12" font-weight="600">
+                <text x="14" y="74">50M</text>
+                <text x="14" y="149">40M</text>
+                <text x="14" y="224">30M</text>
+                <text x="14" y="299">20M</text>
+                <text x="14" y="374">10M</text>
+              </g>
+              <path d="M55 350 L100 332 L145 310 L190 300 L235 270 L280 292 L325 246 L370 260 L415 225 L460 210 L505 250 L550 196 L620 82 L620 390 L55 390 Z" fill="url(#forecastFill)"/>
+              <path d="M55 350 L100 332 L145 310 L190 300 L235 270 L280 292 L325 246 L370 260 L415 225 L460 210" fill="none" stroke="#2563eb" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+              <path d="M460 210 L505 250 L550 196 L620 82" fill="none" stroke="#f6a609" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="12 10"/>
+              <g>
+                <circle cx="620" cy="82" r="7" fill="#f6a609"/>
+                <rect x="494" y="26" width="128" height="36" rx="8" fill="#07172f"/>
+                <text x="508" y="49" fill="#fff" font-size="14" font-weight="750">PKR 50.7M forecast</text>
+              </g>
+              <g fill="#667085" font-size="12" font-weight="650">
+                <text x="50" y="430">Jan 24</text>
+                <text x="220" y="430">Nov 24</text>
+                <text x="390" y="430">Sep 25</text>
+                <text x="553" y="430">Nov 26</text>
+              </g>
+              <g font-size="12" font-weight="750">
+                <circle cx="72" cy="452" r="5" fill="#2563eb"/>
+                <text x="84" y="456" fill="#667085">Actual revenue</text>
+                <circle cx="205" cy="452" r="5" fill="#f6a609"/>
+                <text x="217" y="456" fill="#667085">Forecast</text>
+              </g>
+            </svg>
+          </div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-header">
+            <div>
+              <h3 class="panel-title">RFM Segment Mix</h3>
+              <p class="panel-subtitle">Customer value concentration</p>
+            </div>
+          </div>
+          <div class="chart segment-chart">
+            <svg viewBox="0 0 420 190" aria-label="RFM segment bars">
+              <g font-size="12" font-weight="750">
+                <text x="0" y="26" fill="#102033">Champions</text>
+                <rect x="112" y="12" width="255" height="18" rx="9" fill="#dff9ee"/>
+                <rect x="112" y="12" width="209" height="18" rx="9" fill="#00a86b"/>
+                <text x="379" y="26" fill="#102033">505</text>
+
+                <text x="0" y="62" fill="#102033">Loyal</text>
+                <rect x="112" y="48" width="255" height="18" rx="9" fill="#e8efff"/>
+                <rect x="112" y="48" width="168" height="18" rx="9" fill="#2563eb"/>
+                <text x="379" y="62" fill="#102033">407</text>
+
+                <text x="0" y="98" fill="#102033">At Risk</text>
+                <rect x="112" y="84" width="255" height="18" rx="9" fill="#fff6dc"/>
+                <rect x="112" y="84" width="159" height="18" rx="9" fill="#f6a609"/>
+                <text x="379" y="98" fill="#102033">384</text>
+
+                <text x="0" y="134" fill="#102033">Warm</text>
+                <rect x="112" y="120" width="255" height="18" rx="9" fill="#efeaff"/>
+                <rect x="112" y="120" width="129" height="18" rx="9" fill="#6d5dfc"/>
+                <text x="379" y="134" fill="#102033">313</text>
+
+                <text x="0" y="170" fill="#102033">Hibernating</text>
+                <rect x="112" y="156" width="255" height="18" rx="9" fill="#ffebe8"/>
+                <rect x="112" y="156" width="255" height="18" rx="9" fill="#d92d20"/>
+                <text x="379" y="170" fill="#102033">616</text>
+              </g>
+            </svg>
+          </div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-header">
+            <div>
+              <h3 class="panel-title">Churn Risk Engine</h3>
+              <p class="panel-subtitle">ML signal quality</p>
+            </div>
+            <span class="tag">93% accuracy</span>
+          </div>
+          <div class="chart gauge">
+            <svg viewBox="0 0 360 190" aria-label="Churn model gauge">
+              <path d="M70 150 A110 110 0 0 1 290 150" fill="none" stroke="#e9eef5" stroke-width="28" stroke-linecap="round"/>
+              <path d="M70 150 A110 110 0 0 1 282 107" fill="none" stroke="#00a86b" stroke-width="28" stroke-linecap="round"/>
+              <circle cx="180" cy="150" r="8" fill="#07172f"/>
+              <line x1="180" y1="150" x2="267" y2="101" stroke="#07172f" stroke-width="5" stroke-linecap="round"/>
+              <text x="180" y="103" text-anchor="middle" fill="#07172f" font-size="44" font-weight="800">0.98</text>
+              <text x="180" y="128" text-anchor="middle" fill="#667085" font-size="13" font-weight="700">ROC-AUC</text>
+              <text x="74" y="178" fill="#667085" font-size="11" font-weight="700">Weak</text>
+              <text x="262" y="178" fill="#667085" font-size="11" font-weight="700">Excellent</text>
+            </svg>
+          </div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-header">
+            <div>
+              <h3 class="panel-title">Executive Smart Narrative</h3>
+              <p class="panel-subtitle">Decision-ready highlights</p>
+            </div>
+          </div>
+          <div class="narrative">
+            <div class="insight" style="--accent: var(--red)"><strong>Retention pressure</strong><span>Delayed first orders correlate with a 50% churn rate, making early fulfillment the highest-priority customer experience lever.</span></div>
+            <div class="insight" style="--accent: var(--gold)"><strong>COD leakage</strong><span>65% checkout share and 18.2% return rate. Shift customers toward mobile wallet prepayment.</span></div>
+          </div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-header">
+            <div>
+              <h3 class="panel-title">Payment Mix</h3>
+              <p class="panel-subtitle">Checkout behavior and return risk</p>
+            </div>
+          </div>
+          <div class="mini-bars">
+            <div class="mini-row"><span>COD</span><div class="bar-track"><div class="bar-fill" style="--w:65%;--bar:#d92d20"></div></div><span>65%</span></div>
+            <div class="mini-row"><span>Easypaisa</span><div class="bar-track"><div class="bar-fill" style="--w:15%;--bar:#00a86b"></div></div><span>15%</span></div>
+            <div class="mini-row"><span>JazzCash</span><div class="bar-track"><div class="bar-fill" style="--w:12%;--bar:#f6a609"></div></div><span>12%</span></div>
+            <div class="mini-row"><span>Card</span><div class="bar-track"><div class="bar-fill" style="--w:8%;--bar:#2563eb"></div></div><span>8%</span></div>
+          </div>
+        </article>
+      </section>
+
+      <section class="bottom">
+        <article class="panel">
+          <div class="panel-header">
+            <div>
+              <h3 class="panel-title">Courier SLA Control</h3>
+              <p class="panel-subtitle">Operational performance by partner</p>
+            </div>
+          </div>
+          <table>
+            <thead>
+              <tr><th>Courier</th><th>Transit</th><th>Late</th><th>Return</th><th>Status</th></tr>
+            </thead>
+            <tbody>
+              <tr><td>Daraz Express</td><td>1.8d</td><td>4.0%</td><td>6.2%</td><td><span class="status good">Strong</span></td></tr>
+              <tr><td>TCS</td><td>3.5d</td><td>15.0%</td><td>11.2%</td><td><span class="status warn">Watch</span></td></tr>
+              <tr><td>Leopard</td><td>5.2d</td><td>40.0%</td><td>26.4%</td><td><span class="status bad">Audit</span></td></tr>
+            </tbody>
+          </table>
+        </article>
+
+        <article class="panel">
+          <div class="panel-header">
+            <div>
+              <h3 class="panel-title">Marketing Efficiency</h3>
+              <p class="panel-subtitle">CAC by channel</p>
+            </div>
+          </div>
+          <div class="waterfall">
+            <div class="wf-col"><div class="wf-bar" style="--h:94px;--c:#2563eb"></div><strong>PKR 110</strong><span>Facebook</span></div>
+            <div class="wf-col"><div class="wf-bar" style="--h:66px;--c:#00a86b"></div><strong>PKR 75</strong><span>TikTok</span></div>
+            <div class="wf-col"><div class="wf-bar" style="--h:82px;--c:#6d5dfc"></div><strong>PKR 95</strong><span>Google</span></div>
+            <div class="wf-col"><div class="wf-bar" style="--h:28px;--c:#f6a609"></div><strong>PKR 25</strong><span>SMS</span></div>
+            <div class="wf-col"><div class="wf-bar" style="--h:76px;--c:#667085"></div><strong>PKR 92</strong><span>Blended</span></div>
+          </div>
+        </article>
+
+        <article class="panel">
+          <div class="panel-header">
+            <div>
+              <h3 class="panel-title">Churn Drivers</h3>
+              <p class="panel-subtitle">Feature influence preview</p>
+            </div>
+          </div>
+          <div class="image-chart">
+            <img src="../assets/plots/churn_feature_importance.png" alt="Churn feature importance">
+          </div>
+        </article>
+      </section>
+    </main>
+  </div>
+</body>
+</html>
